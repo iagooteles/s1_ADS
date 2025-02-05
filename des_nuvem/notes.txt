@@ -1,3 +1,43 @@
-teste 
+//////////////// Aula 1 ////////////////
 
-aaaaaaaaaaaaaaaaaaaaa
+Cloud computing => é um modelo computacional que permite acesso, sob demanda e através da rede(comumente a internet), a um 'pool' de recursos computacionais (redes, servidores virtuais ou físicos, armazenamento, aplicações e serviços) que podem ser rapidamente provisionados.
+
+Características essenciais => 
+
+- Serviço self-service e sob demanda: Um consumidor de um serviço de nuvem pode requisitar automaticamente um recurso computacional;
+
+- Elasticidade: O consumidor do serviço pode requisitar dinamicamente + ou - recursos para sua aplicação para se adaptar a demanda dos seus usuários;
+      Há duas formas de fazer essa elasticidade:
+      - Horizontal: Aumenta ou diminui a quantidade de recursos;
+      - Vertical: Fazer um upgrade da máquina que já está sendo utilizada;
+
+      AutoEscabilidade ou AutoScaling: O serviço monitora as máquinas virtuais e pode-se adicionar ou remover máquinas virtuais de acordo com as parametrizações, pode-se limitar a quantidade de máquinas utilizadas;
+
+- Pagamento pelo uso e garantias de serviço (SLAs): Os consumidores pagam aos provedores de serviço de nuvem de acordo com o consumo efetuado, o provedor pode, por exemplo, garantir uma disponibilidade de 99.9%;
+      SLA - Service Level Agreements;
+
+- Acesso ubíquo através da rede: Padrões Api's REST baseados em HTTP ou SOAP;
+
+Motivação => 
+
+Exemplos de sucesso =>
+
+Tipos de nuvem => 
+
+- Infra as a Service (IaaS): oferece máquinas de capacidade diferentes a preços variados: ex: EC2 da Amazon;
+
+- Software as a Service (SaaS): EX: Salesforce.com => oferece diversas aplicações como serviço na sua própria infra-estrutura de nuvem;
+
+- Plataform as a Service (PaaS): Oferece uma plataforma na nuvem para desenvolver aplicações;
+
+
+
+
+
+
+
+
+
+
+
+
