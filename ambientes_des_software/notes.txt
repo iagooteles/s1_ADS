@@ -1,6 +1,11 @@
-////////////////////////////  ////////////////////////////////
+/////////// Aula 1 ///////////
 
+Software:
+- Web: 
+- Mobile: 
+- Cloud: 
+- Embarcado: 
 
-testeeee
+Software não é patentiável, ele recebe um registro;
 
-aaaaaaaaaaaaaaaaa
+Componentização => 'Quebrar' o código em partes menores para reproveitar o código e para evitar que ele tenha que ser escrito várias vezes e respeitar o princípio DRY - Don't Repeat Yourself -;
