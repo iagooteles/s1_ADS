@@ -1,7 +1,11 @@
 /////////////////// AULA 2 ////////////////////
 
+Um objeto se origina de uma classe;
+
 4 pilares do POO:
-- Abstração: Habilidade de representar objetos do mundo real do código;
+- Abstração: Habilidade de representar objetos do mundo real do código; 
+Pensa-se nos atributos e métodos que fazem parte do problema e solução, deixando de lado ou evitando atributos ou métodos irrelantes para nosso código ou problema;
+
 
 - Herança:
 - Encapsulamento:
