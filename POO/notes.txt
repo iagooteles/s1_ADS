@@ -1,7 +1,14 @@
 /////////////////// AULA 2 ////////////////////
 
 4 pilares do POO:
-- Abstração:
+- Abstração: Habilidade de representar objetos do mundo real do código;
+
 - Herança:
 - Encapsulamento:
 - Polimorfismo:
+
+Vantagens do POO:
+- Modularidade
+- Reutilização
+- Manutenção
+- Expansão
