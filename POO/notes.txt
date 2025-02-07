@@ -1,0 +1,7 @@
+/////////////////// AULA 2 ////////////////////
+
+4 pilares do POO:
+- Abstração:
+- Herança:
+- Encapsulamento:
+- Polimorfismo:
