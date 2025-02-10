@@ -24,11 +24,34 @@ Exemplos de sucesso =>
 
 Tipos de nuvem => 
 
-- Infra as a Service (IaaS): oferece máquinas de capacidade diferentes a preços variados: ex: EC2 da Amazon;
-
-- Software as a Service (SaaS): EX: Salesforce.com => oferece diversas aplicações como serviço na sua própria infra-estrutura de nuvem;
+- Infra as a Service (IaaS): oferece máquinas de capacidade diferentes a preços variados: 
+Facilidade de uso: mais complexo que o PaaS e o SaaS;
+Flexibilidade: mais flexível, você faz as suas configurações da forma que quiser;
+ex: EC2 da Amazon, Máquinas virtuais;
 
 - Plataform as a Service (PaaS): Oferece uma plataforma na nuvem para desenvolver aplicações;
+ex: Heroku, Netlify => Plataformas que ajudam o desenvolvedor a colocar sua aplicação na nuvem;
+
+- Software as a Service (SaaS): EX: Salesforce.com => oferece diversas aplicações como serviço na sua própria infra-estrutura de nuvem; Softwares de pratileira que foram pra nuvem;
+Facilidade de uso: mais fácil de usar;
+Flexibilidade: menos flexível;
+ex: microsoft office, github;
+
+Virtualização => Oferecida por um software chamado Hypervisor; Hypervisor é a tecnologia que permite a ideia de virtualização de servidores; 
+EX: VMWare, Xen, KVM;
+
+Modelos de implantação => 
+
+- Nuvem pública: a infraestrutura de nuvem fica disponível para o público geral através da internet;
+
+- Nuvem privada: Os recursos computacionais são oferecidos somente para a empresa específica;
+
+- Nuvem híbrida: Composta de duas ou mais núvens (publica e privada por exemplo) - Comum em empresas que já tinham feito investimento em datacenters;
+
+- Nuvem comunitária: Grupo de empresas que teriam uma nuvem comunitárias; empresas dividindo uma mesma nuvem, mas com um gerenciamento; não rendeu muito...;
+
+/////////////////  //////////////
+
 
 
 
