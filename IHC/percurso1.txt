@@ -1,0 +1,69 @@
+//////////////////////////////// Usuário como agente principal do produto interativo ////////////////////////////////
+
+1. Aspectos da experiência do usuário e fatores humanos
+
+A intereção humano computador está interessada na qualidade de uso desses sistemas e no seu impacto na vida dos seus usuários. Apesar de fortemente relacionados, a construção e o uso de um artefato ocorrem em contexto distintos e seguem lógicas diferentes, envolvendo pessoas diversas.
+
+O IHC ocupa-se com estudos que podem ser divididos nos seguintes tópicos:
+
+- Natureza da interação: estudo dos fenômenos que acontecem durante o uso dos produtos interativos pelos usuários e as suas consequências;
+
+- Contexto de uso: como o contexto de uso impacta na interação humano-computador, diferenças culturais, linguagens, concepções, costumes, condições locais, etc;
+
+- Características humanas: como aproveitar as capacidades e superar as limitações das pessoas durante a interação no que se refere à sua capacidade cognitiva de percepção (visão, audição, movimentação, tato);
+
+- Arquitetura de sistemas computacionais: estuda os meios e técnicas de como o usuário deverá interagir com os artefatos por meio de seus dispositivos de entrada e saída, que atuam como mediadores da interação;
+
+- Processo de desenolvimento: estuda o processo de desenvolvimento de sistemas, suas ferramentas, métodos e técnicas e como impactam na qualidade dos produtos interativos;
+
+Benefícios do IHC:
+- Melhorar o dia a dia das pessoas e auxiliar em suas atividades e produtividade;
+- Considerar as limitações das pessoas e da própria tecnologia no desenvolvimento mais eficaz de produtos interativos;
+- Redução de custos com treinamento e suporte técnico devido à facilidade de uso dos sistemas;
+- Aumento da competitividade do produto interativo no mercado, alavancando as vendas e fidelizando os clientes;
+
+
+2.Fundamentos da usabilidade
+
+2.1 interação - Trocas de iformações e controles entre o usuário e o restante do sistema computacional;
+2.2 sistemas interativos - 
+Sistema - 'Reunião de elementos que concretos ou abstratos, se interligam a ponto de formar um todo organizado';
+sistema computacional - 'Sistema composto por hardware, software, dados a serem manipulados e seus usuários';
+2.3 interface - A parte do sistema a qual o usuário entre em contato, podendo ser tipo físico ou conceitual;
+contato físico - hardware em associação com o software que representa a interação feita pelo hardware;
+contato conceitual - interpretação que o usuário faz do contato físico que teve co o sistema;
+2.4 affordances - fornecem fortes indicação para a operação de objetos. Quando se tira proveito das afoordances, o usuário sabe o que fazer apenas ao olhar. Objetos complexos podem exigir explicações, mas objetos simples não deveriam precisar delas. É algo intuitivo;
+2.5 qualidade em IHC - 
+    2.5.1 - experiência do usuário: 
+    2.5.2 - usabilidade: o usuário deve atingir:
+        eficácia - 
+        eficiência - o sistema deve ajudar o usuário em termos de produtividade;
+        satisfação - 
+    2.5.3 - outras qualidades em IHC:
+
+
+3. Modelos mental, conceitual e de implementação
+
+
+4. Processo do projeto da interação e critérios de Avaliação de interfaces
+
+Processo de design IHC =>
+
+- Análise da situação atual;
+- Síntese de intervenção;
+- Avaliação de uma nova situação;
+
+
+Questionário: 
+
+Segundo Cybis, Bestiol e Faust (2015, p. 438), “a experiência do usuário pode ser descrita como o conjunto de todos os processos (físicos, cognitivos, emocionais) desencadeados no usuário a partir da interação com um produto ou serviço em diversos momentos (que incluem a expectativa da interação, a interação propriamente dita e a reflexão após a interação) em um determinado contexto de uso (físico, social, tecnológico)”. Sendo assim, marque a alternativa correta.
+    A experiência do usuário é algo subjetivo, logo cada pessoa terá sua própria experiência ao usar um sistema interativo.
+
+Quais das opções a seguir são relativas à aplicação de affordance explícita no aplicativo mobile do Instagram?
+    Tocar no botão “Novas publicações”, quando o mesmo aparece, para atualizar o fluxo de postagens (feed).
+
+Em Interação Humano-Computador, o que é comunicabilidade?
+    Capacidade da interface de comunicar o modelo conceitual do projetista para o usuário.
+
+Em Interação Humano-Computador, o que é acessibilidade?
+
