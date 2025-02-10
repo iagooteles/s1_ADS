@@ -9,3 +9,37 @@ Software:
 Software não é patentiável, ele recebe um registro;
 
 Componentização => 'Quebrar' o código em partes menores para reproveitar o código e para evitar que ele tenha que ser escrito várias vezes e respeitar o princípio DRY - Don't Repeat Yourself -;
+
+
+//////////////////////// Aula 2 //////////////////////
+
+Seletores css:
+- nativos/tag - Por tipo de tag;
+- classe - Para todos que tiverem aquela classe;
+- ID - Identificador único;
+
+HTML => HyperText Markup Language => Definir a estrutura da página;
+CSS => Cascading Style Sheets => Definir aparência;
+JS => Definir funções, comandos e dinamismo da página;
+
+Mobile first => Desenvolver o sistema/website pensando na estrutura de se criar o projeto mobile primeiro, sempre levando em consideração a responsividade;
+
+Responsividade => Capacidade do sistema se adaptar para diferentes tamanhos de tela;
+
+frameworks => É uma estrutura mais abrangente e geralmente mais opinativa, que fornece uma base para o desenvolvimento de um projeto. Ele dita a arquitetura do seu código e estabelece uma série de regras, convenções e padrões que o desenvolvedor deve seguir.
+
+bibliotecas => É uma coleção de funções, métodos e recursos que o programador pode utilizar para realizar tarefas específicas em seu código. Ela oferece soluções para problemas comuns, como manipulação de strings, acesso a banco de dados, ou geração de gráficos.
+
+Biblioteca: Você chama a biblioteca no seu código quando precisar de suas funcionalidades, controlando o fluxo.
+Framework: O framework chama o seu código, controlando o fluxo e fornecendo uma estrutura predefinida que você segue.
+
+Biblioteca é como um conjunto de ferramentas que você usa quando precisa delas.
+Framework é como uma receita de bolo, onde você segue um passo a passo para conseguir o resultado final.
+
+
+
+
+
+
+
+
