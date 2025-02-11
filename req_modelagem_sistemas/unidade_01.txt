@@ -1,0 +1,46 @@
+////////////// UNIDADE 1 - ASPECTOS DA ENGENHARIA DE SOFTWARE E DA ENGENHARIA DE REQUISITOS /////////////////
+
+Software - Instruções (programa de computador) que, quando executadas, fornecem características, funções e desempenho desejados; Estrutura de dados que possibilitam aos programas manipular informações adequadamente; informação descritiva, tanto na forma impressa quanto na virtual, descrevendo a operação e o uso dos programas;
+
+Software tanto é um produto quanto é um veículo para distribuição do produto.
+
+Tipos de software:
+- software de sistema - Conjunto de programas feito para atender outros programas. ex: drivers, software de rede, processadores, compiladores, editores, utilitários para gerenciamento de arquivos
+
+- software de aplicação - programas independentes que solucionam uma necessidade específica de negócio. Aplicações nessa área processam dados comerciais ou técnicos de uma forma que facilite operações comerciais ou tomadas de decisões;
+
+- software de engenharia/científico - ampla variedade de programas de 'calculo em massa' que abrangem astronomia, vulcanologia, análise de estresse automotivo, biologia molecular, análise genética, metereologia, etc;
+
+- software embarcado - residente num produto ou sistema, é utilizado para controlar e implementar características e funções para o usuário e para o próprio sistema; ex: geladeiras, funções digitais de automóveis, ar-condicionado;
+
+- software para linha de produtos - projetado para prover capacidade específica de utilização por muitos clientes diferentes. Software para linha de produtos pode se concentrar em um mercado hermético e limitado ou lidar com o consumidor em massa.
+
+- aplicações web/aplicativos móveis - contempla aplicativos voltados para navegadores e software residente em dispositivos móveis.
+
+- software de inteligência artificial - Faz uso de algoritmos não numéricos para solucionar problemas complexos que não são passíveis de computação ou de análise direta. ex: robótica, sistemas especialistas, redes neurais.
+
+Engenharia de software => Atenção em ter foco na qualidade;
+
+Uma metodologia de processo genérica para engenharia de software compreende 5 atividades:
+- comunicação => Antes de qualquer trabalho técnico começar é importante comunicar com os clientes e os envolvidos;
+A intenção é entender os objetivos dos envolvidos para o projeto e reunir requisitos que ajudem os recursos e as funções do software
+- Planejamento => cria um 'mapa' que ajuda a equipe guiando a sua jornada; este mapa define as tarefas técnicas a serem conduzidas, os riscos prováveis e os recursos que serão necessários, os produtos resultantes e um cronograma de trabalho;
+- modelagem => criação de um esboço para que se possa ter a ideia de um todo;
+- construção => combina a geração de um código e os testes necessários para ver seus erros;
+- entrega => O software é entregue ao cliente, que o avalia e passa um feedback;
+
+Essência da solução de um problema (George Polya) =>
+1. Compreender o problema;
+2. Planejar uma solução;
+3. Executar o plano;
+4. Examinar o resutado para ter precisão;
+
+7 princípios gerais (david hooker) => 
+1 - razão de existir
+2 - KISS (keep it simple stupid)
+3 - matenha a visão;
+4 - o que um produz outros consomem;
+5 - esteja aberto ao futuro;
+6 - planeje com antecedencia, visando a reutilização;
+7 - pense;
+ 
