@@ -107,4 +107,85 @@ MODELO EVOLUCIONÁRIO - São iterativos, apresentam características que possibi
     Adaptam-se bem às mudanças e incertezas sobre os requisitos do software;
     A cada nova iteração, o produto evolui;
 
-    MODELO ESPIRAL - continuar daqui ....
+    MODELO ESPIRAL - 
+        Foi criado visando abranger as melhores características do modelo clássico e da prototipagem;
+        A cada ciclo do espiral, versões progressivamente mais completas do software são construídas;
+        Antes de cada ciclo, uma análise de riscos é feita;
+        Ao fim de cada ciclo é feita uma avaliação se deve-se prosseguir para o próximo ciclo;
+
+    PROTOTIPAÇÃO -
+        Utilizado quando são muitas incertezas sobre a solução a ser criada, assim o protótipo podem ser descartáveis;
+        Devem reutilizar componentes e ferramentas para produção rápida;
+        Foca na produção de algo a ser apresentado para os stakeholders;
+        Protótipos contribuem para melhorar a qualidade da especificação dos futuros programas, o que leva à diminuição dos gastos com manutenção;
+        O treinamento dos usuários pode ser feito antes do produto ficar pronto;
+        Partes do protótipo podem ser usadas no desenvolvimento do sistema final;
+
+        Em geral, o grande argumento contra a construção do protótipo é o custo;
+
+MODELOS CONCORRENTES - possibilita a equipe de software representar elementos concorrentes e iterativos de qualquer um dos modelos de proceso já descritos;
+
+///////////// Avaliação e aperfeiçoamento de processos //////////
+
+Não foi dado, não vai cair, estudar mesmo assim depois
+
+////////////////////////////////////////////////////
+
+////////////// Requisitos e modelagem de sistemas /////////
+
+Engenharia de requisitos -> Uma ação de engenharia de software importante que se inicia durante a atividade de comunicação e continua na modelagem; Deve ser adaptada às necessidades do processo, do projeto, do produto e das pessoas que estão realizando o trabalho; O processo de descoberta, análise, documentação e conferência desses serviços e restrições é chamado de engenharia de requisitos;
+
+A egenharia de requisitos abrange 7 tarefas distintas:
+- concepção => é estabelecido um entendimento básico do problema, as pessoas que querem uma solução, a natureza da solução deseja e a eficácia da comunicação e colaboração preliminares entre os demais envolvidos e a equipe de software;
+- levantamento => Perguntar ao cliente, aos usuários e aos demais envolvidos quais são os objetivos para o sistema ou produto, o que deve ser obtido, como o sistema ou protudo atende às necessidades da empresa e, como o sistema ou produto deve ser utilizado no dia a dia;
+    Uma parte importante do levantamento é estabelecer metas de negócios;
+- elaboração => é guiada pela criação e pelo refinamento de cenários que descrevem como o usuário vão interagir com o sistema;
+- negociação => conciliação de conflitos;
+- especificação => pode ser um documento por escrito, um conjunto de modelos gráficos, um modelo matemático forma, um conjunto de cenários de uso, um protótipo ou qualquer combinação dos fatores citados;
+- validação => examina a especificação para garantir que todos os requisitos de software tenham sido declarados de forma não ambígua; que as inconsistências, omissões e erros tenham sido detectados e corrigidos; e que os artefatos estejam de acordo com os padrões estabelecidos para o processo, projeto e produto;
+- gestão => conjunto de atividades que ajuda a equipe de projeto a identificar, controlar e acompanhar as necessidades e suas mudanças à medida que o projeto prossegue;
+
+
+REQUISITO - Requisitos de um sistema são as descrições dos serviços que o sistema deve prestar e as restrições a sua operação; Esses requisitos refletem as necessidades dos clientes de um sistema que atende a um determinado propósito, como controlar um dispositivo, fazer um pedido ou encontrar informações;
+    Em alguns casos, um requisito é simplesmente uma declaração abstrata de alto nível de um serviço que um sistema deve oferecer ou de uma restrição a um sistema;
+    Por outro lado, é uma definição formal detalhada de uma função do sistema;
+
+    Requisito pode ser:
+        Uma declaração abstrata de alto nível de um serviço;
+        Uma restrição do sistema;
+        Uma especificação funcional matemática detalhada;
+
+Requisitos funcionais - 
+Requisitos não funcionais - 
+
+Requisitos do usuário - são declarações, em uma linguagem natural somada a diagramas, dos serviços que se espera que o sistema forneça para os usuários e das limitações sob as quais ele deve operar; Esses requisitos podem variar de declarações ampas das características necessárias do sistema até descrições precisas e detalhadas da sua funcionalidade;
+Requisitos do sistema - são descrições mais detalhadas das funções, dos serviços e das restrições operacionais do sistema de software. O documento de requisitos de sistema (chamado às vezes de especificação funcional) deve definir exatamente o que deve ser implementado. Pode fazer parte do contrato entre o adquirente do sistema e os desenvolvedores do software;
+
+Renato Bontempo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
