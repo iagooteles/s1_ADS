@@ -43,4 +43,68 @@ Essência da solução de um problema (George Polya) =>
 5 - esteja aberto ao futuro;
 6 - planeje com antecedencia, visando a reutilização;
 7 - pense;
- 
+
+
+//////////////////////////////////// Aula 2 ////////////////////////////////////////////////////////
+
+estrutura do processo de software
+
+Processo => Conjunto de atividades de trabalho, ações e tarefas realizadas quando algum aterfato de software deve ser criado.
+
+Uma metodologia de processo genérica para engenharia de software compreende 5 atividades:
+
+Comunicação;
+Planejamento;
+Modelagem;
+Construção;
+Entrega;
+
+O fluxo de processo de software descreve como são organizadas as atividades metodológicas, bem como as ações e tarefas que ocorrem dentro de cada atividade em relação à sequencia e ao tempo
+
+- Fluxo linear => Executa cada uma das cinco atividades em sequência;
+    comunicação -> planejamento -> modelagem -> construção -> entrega
+- Fluxo iterativo => Repete uma ou mais atividade antes de seguir para a seguinte;
+    comunicação <-> planejamento <-> modelagem <-> construção -> entrega
+    OBS: Também pode-se ir de modelagem para comunicação, pode repetir-se, pode ir de construção para comunicação/ planejamento; etc....
+- Fluxo de processo evolucionário => executa as ativades de forma circular, cada volta pelas cinco atividades conduz uma versão mais completa do software;
+    comunicação -> planejamento -> modelagem -> construção -> entrega -> comunicação -> planejamento -> .......
+- Fluxo de processo paralelo => executa uma ou mais atividades em paralelo com as outras;
+    Difícil de apresentar aqui por arquivo .txt kkkkk, mas a ideia é exatamente essa que uma atividade pode ser executada ao mesmo tempo que outra;
+
+Modelos de cilco de vida de software:
+
+MODELO CASCATA - sugere uma abordagem sequencial e sistemática para o desenvolvimento de software:
+    comunicação (especificação dos requisitos do cliente) -> planejamento (estimativas, cronograma) -> modelagem (análise, projeto) -> construção (código, testes) -> entrega (disponibilização)
+
+    Um dos modeloas mais antigos, e ainda um dos mais usados;
+    Fixa pontos específicos para a entrega de artefatos;
+    simples e facil de aplicar;
+    pressupõe que os requisitos ficarão estáveis, logo, qualquer mudança durante o curso do projeto acarretaria em problemas para a continuação do projeto;
+    atrasa a redução de riscos;
+
+MODELO EM 'V' - O modelo em V começa com:
+    Modelagem de requisitos -> projeto de arquitetura -> projeto de componente -> geração de código;
+    Ao terminar o código, começa-se os testes, meio que de trás de frente;
+    Teste de unidade -> Vai testar a geração de código;
+    Teste de integração -> vai testar o projeto de componente;
+    Teste de sistema -> testa o projeto de arquitetura;
+    teste de aceitação -> testa se o sistema está de acordo com a modelagem de requisitos;
+
+MODELO INCREMENTAL - Combina os fluxos de processo linear e paralelo dos elementos; Aplica sequencias lineares de forma escalonada, à medida que o tempo vai avançando;
+    incremento nº 1 -> ... -> .... -> .... -> Entrega do incremento 1
+        incremento nº 2 -> ... -> .... -> .... -> Entrega do incremento 2
+            incremento nº 3 -> ... -> .... -> .... -> Entrega do incremento 3
+    _______________________________________________________________________> Cronograma do projeto
+
+
+    Testes e integração são realizados desde o início, de forma contínua;
+    Permite feedback dos usuáriso desde cedo
+    Foco em curto prazo;
+    Implementações parciais podem ser implantadas;
+    Antecipa a resolução de riscos;
+
+MODELO EVOLUCIONÁRIO - São iterativos, apresentam características que possibilitam desenvolver versões cada vez mais completas do software; Os modelos mais comuns são: Prototipação e modelo espiral;
+    Adaptam-se bem às mudanças e incertezas sobre os requisitos do software;
+    A cada nova iteração, o produto evolui;
+
+    MODELO ESPIRAL - continuar daqui ....
