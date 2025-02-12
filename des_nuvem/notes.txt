@@ -50,13 +50,26 @@ Modelos de implantação =>
 
 - Nuvem comunitária: Grupo de empresas que teriam uma nuvem comunitárias; empresas dividindo uma mesma nuvem, mas com um gerenciamento; não rendeu muito...;
 
-/////////////////  //////////////
+///////////////// Amazon //////////////
+
+usuário root => O próprio criador da conta;
+pesquisar como começar a usar amazon;
+'amazon ec2 nivel gratuito';
+criar uma maquina -> deletar -> repetir;
+
+ec2 -> instancias -> executar uma instancia;
+recomendável dar um nome;
+verificar se a maquina que vc escolher é qualificavel para o nivel gratuito; sugestão -> 'amazon linux'
+
+par de chaves -> prosseguir sem par de chaves;
+permitir trafego ssh
+permitir trafego https da internet
+permitir trafego http da internet
 
 
 
-
-
-
+após as configs => executar instancia;
+conectar o ssh => vai abrir uma nova aba com o terminal;
 
 
 
