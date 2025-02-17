@@ -37,9 +37,25 @@ Biblioteca é como um conjunto de ferramentas que você usa quando precisa delas
 Framework é como uma receita de bolo, onde você segue um passo a passo para conseguir o resultado final.
 
 
+////////////// Des mobile ///////////////
 
+Desenvolvimento nativos - 
+    para desenvolver ANDROID nativo é necessário um ambiente com SDK e android studio, normalmente apps Android são desenvolvidos com Kotlin, mas já foram desenvolvidos com JAVA, o android studio gera um APK- executável - e é necessário AAB(android app bundle)- não executável - para colocar na loja;
 
+    Para desenvolver IOS - só é possível com um MAC, sua linguagem padrão é SWIFT, ele já vem com IDE própria => XCODE; O artefato gerado aqui é o .ipa
 
+    Benefícios do desenvolvimento nativo => 
+        - maior desempenho;
+        - Acesso direto aos recursos dos dispositivos (camera, gps, acelerômentro)
+        - user experience: aproveitamento de recursos e padrões nativos.
+        
 
+Desenvolvimento híbrido - possibilita o desenvolvimento de um só código que vai ser compilado e distribuído para cada sistema operacional; Na hora do build, o código faz um build para IOS e outro para ANDROID;
+    OBS: Você não precisa de um MAC para codificar, mas na hora do build é necessário um mac para gerar o arquivo .ipa
 
+    ex: react native(javascript, typescript), flutter(dart), ionic;
 
+    alguns modelos híbridos podem, ainda, além da forma nativa, trabalhar com modelo WEBVIEW que vai passar sua aplicação como se fosse uma espécie de browser que vai ler a aplicação como se fosse html, css, js;
+
+BUILD => Processo de construção da aplicação;
+Em termos gerais uma equipe que desenvolve hibridamente é mais barato que ter uma equipe que desenvolva nativo (a nativo teria que fazer dois códigos diferentes para o mesmo aplicativo);

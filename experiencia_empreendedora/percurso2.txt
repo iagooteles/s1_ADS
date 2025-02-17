@@ -1,0 +1,24 @@
+1. Dimensões estruturantes de negócios com prospecção tecnológica e mercadologística
+
+Conceito de negócio - É preciso levantar informações sobre seu público alvo, suas necessidades, produtos e o valor que este representa ao cliente;
+
+    público alvo - possibilita a compreensão do grupo de clientes, sejam potenciais ou reais, que apresentam maior propensão a compra, para que a empresa possa investir;
+
+    dados demográficos - Os consumidores são divididos de acordo com suas características(idade, sexo, renda, etnia);
+
+    localização geográfica - os consumidores são divididos de acordo com sua localização(país, cidade, estado, etc);
+
+    sócio econômica - se reporta ao poder aquisitivo do consumidor e ao nível de sua escolaridade;
+
+Análise SWOT do produto => Strengh, Weakness, Opportunities, Threats;
+
+Análise de mercado => observar variáveis:
+    - Tamanho do público alvo;
+    - Crescimento;
+    - Concorrência;
+    - Vantagens sobre a concorrência;
+
+
+2. Modelos de negócios digitais inovadores e a importância das Startups
+
+
