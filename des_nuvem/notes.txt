@@ -71,9 +71,27 @@ permitir trafego http da internet
 após as configs => executar instancia;
 conectar o ssh => vai abrir uma nova aba com o terminal;
 
+Exercício: criar uma instancia EC2 e instalar apache usando comando linux e testar a pagina inicial do apache no browser;
+
+1. logar na aws;
+2. no menu principal ir para 'ec2';
+3. clicar em 'executar instancia';
+4. observar as configurações, colocar tudo gratuito;
+      não selecionar par de chaves para ter uma configuração mais rápida; o par de chaves melhora a segurança, mas para testes rapidos não são necessários;
+5. marcar http e https para criar um servidor web(opcional);
+6. verificar se a maquina foi criada com sucesso;
+7. conectar-se à instancia;
+8. instalar o servidor web Apache: 
+      sudo yum install -y httpd
+9. fazer o start do servidor:
+      sudo systemctl start httpd
+10. testar o servidor pelo ip publico ou dns;
 
 
 
+APACHE => 
 
+
+EC2 => Elastic Compute Cloud => Serviço de máquina virtual, serviço do tipo IaaS => ;
 
 
