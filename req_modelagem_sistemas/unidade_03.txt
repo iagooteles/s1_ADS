@@ -1,0 +1,26 @@
+////////////// Engenharia de requisitos ////////////////
+
+A engenharia de requisitos é uma ação de engenharia de software que se inicia durante a atividade de comunicação de continua na de modelagem;
+
+7 tarefas distintas:
+
+- concepção => é estabelecido um entendimento básico do problema, as pessoas querem uma solução, a natureza da solução desejada e a eficácia da comunicação e colaboração preliminares entre os demais envolvidos e a equipe de software;
+- levantamento => perguntar ao cliente e aos envolvidos quais os objetivos para o sistema ou produto, o que deve ser obtido, como o sistema ou produto atende às necessidades da empresa; uma parte importante do levantamento é estabelecer metas da empresa;
+- elaboração => é guiada pela criação e pelo refinamento de cenários que descrevem como o usuário vai interagir com o sistema;
+- negociação => ;
+- especificação => ;
+- validação => verificar se os artefatos estão de acordo com os padrões estabelecidos para o processo, projeto e produto;
+- gestão => tentar controlar as atividades para que ela aconteça no tempo certo;
+
+REQUISITO => 
+
+Visão dos requisitos - 
+    Requisitos do usuário - 
+
+    Requisitos do Sistema - 
+
+
+Tipos de requisitos - 
+    Funcional - 
+
+    Não-funcional - 
