@@ -30,9 +30,59 @@ Inspection enables adaptation. Inspection without adaptation is considered point
 Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 
 SCRUM VALUES =>
+- Commitment;
+- Focus;
+- Openness;
+- Respect;
+- Courage;
 
-CONTINUAR DAQUI....
+SCRUM TEAM => 
+- 1 PO (Product owner) - responsável por product backlog e requisitos; is accountable for maximizing the value of the product resulting from the work of the Scrum Team. How this is done may vary widely across organizations, Scrum Teams, and individuals;
+    Developing and explicitly communicating the Product Goal;
+    Creating and clearly communicating Product Backlog items;
+    Ordering Product Backlog items; and,
+    Ensuring that the Product Backlog is transparent, visible and understood.
 
-Scrum master - 
-PO (Product owner) - 
-dev team -
+    The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable.
+
+- 1 Scrum master - organizador; The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization; 
+    Scrum Masters are true leaders who serve the Scrum Team and the larger organization.
+
+The Scrum Master serves the Scrum Team in several ways, including:
+● Coaching the team members in self-management and cross-functionality;
+● Helping the Scrum Team focus on creating high-value Increments that meet the Definition of
+Done;
+● Causing the removal of impediments to the Scrum Team’s progress; and,
+● Ensuring that all Scrum events take place and are positive, productive, and kept within the
+timebox.
+
+The Scrum Master serves the Product Owner in several ways, including:
+● Helping find techniques for effective Product Goal definition and Product Backlog management;
+● Helping the Scrum Team understand the need for clear and concise Product Backlog items;
+● Helping establish empirical product planning for a complex environment; and,
+● Facilitating stakeholder collaboration as requested or needed.
+
+The Scrum Master serves the organization in several ways, including:
+● Leading, training, and coaching the organization in its Scrum adoption;
+● Planning and advising Scrum implementations within the organization;
+● Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
+● Removing barriers between stakeholders and Scrum Teams.
+
+
+- dev team - the people of te scrum team that are commited to creating any aspect of a usable increment each sprint; The specific skills needed by the Developers are often broad and will vary with the domain of work;
+    Creating a plan for the Sprint, the Sprint Backlog;
+    Instilling quality by adhering to a Definition of Done;
+    Adapting their plan each day toward the Sprint Goal; and,
+    Holding each other accountable as professionals.
+
+
+SCRUM EVENTS => 
+
+Continuar daqui...
+
+
+The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people.
+
+scrum team é responsável por todas as atividades relacionadas ao produto;
+
+perguntar pro gepeto topicos para ver antes de fazer a prova
