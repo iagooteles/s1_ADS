@@ -1,0 +1,173 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Tudo começa com o insight... qual o problema, como posso contribuir?
+
+1. Design Criativo
+
+As estapas de um processo produtivo em geral são:
+
+Identificação - detecção do problema e levantamento de possíveis dúvidas;
+Preparação - Coleta de dados que ajudam a entender o problema; o que? quem? quando? quantos? onde? como? por que?; momento de briefing com clientes e envolvidos;
+Incubação - Processo subjetivo de internalização do problema;
+Aquecimento - Levantamento e análise de possíveis soluções;
+Iluminação - Surgimento de uma ideia ou possivel solução;
+Elaboração - Desenvolvimento e concretização da ideia;
+Verificação - Validação da hipótese, testa se a solução desenvolvida atende às necessidades;
+
+Design Thinking - É uma forma de pensar que surgiu na área de design; É uma combinação de mindset com plano de ação; 
+    Benefícios - Permite que as pessoas que não são designers usem ferramentas criativas para resolver problemas; 
+        Identifica melhores opções e torna experiências mais eficazes;
+        é uma junção de pensamento corporativo e pensamento criativo;
+
+Tem como objetivo encontrar soluções para problemas complexos, suas etapas são:
+    Definição - O que se sabe sobre o problema?; Pense na experiência de outras pessoas;
+    Empatia - Observe os usuários e seu comportamento no contexto do problema; Interaja usando entrevistas; Perguntas sobre como o usuário entende o mundo;
+    Visualização - Selecionar as ideias obtidas no brainstorming;
+    Protótipo - Tirar as ideias da mente e colocar no mundo físico; nas explorações iniciais manter os protótipos simples e rapidos, também não se apegar a eles;
+        ex: post-its; espaço físico; interface; objeto;
+    Teste e melhorias - Testar e receber feedback dos usuários;
+
+    Exploração do espaço do problema - 
+        Imersão - O projetista conhece o problema e pesquisa sobre o tema até compreender melhor seu contexto;
+        Análise - Podem ser produzidos modelos e esquemas que ajudem a entender e analisar melhor o que foi descoberto;
+
+    Exploração do espaço da solução - 
+        Ideação - busca-se ideias ou insights que ajudem na solução do problema; 
+            ex: mapas mentais, processos colaborativos, pesquisas visuais;
+        Prototipação - etapa de Validação das soluções elaboradas;
+            ex: projetos pilotos, apresentação pro usuário;
+        Divergência - momento de expansão ou distanciamento no qual busca-se por diferentes aspectos, seja do problema ou da solução;
+        Convergência - momento de contração ou de cruzamento de ideias e opções;
+
+Fundamentos do Design - 
+    Contraste - diferenciar elementos diferentes e destacar os elementos principais;
+    Repetição - promover a unidade gráfica e a organização, com o uso da repetição dos elementos gráficos e de outros conceitos criados no design;
+    Alinhamento - posicionar todos os elementos de uma página de forma que haja uma ligação, proporcionando equilíbrio e organização;
+    Proximidade - agrupar elementos de forma a dar uma unidade visual e informativa a eles, almeja melhor estruturação do design;
+        
+
+2. Tecnicas para modelagem de usuário
+
+Deve levar em consideração: 
+- os usuários
+- as tarefas dos usuários
+- o sistema atual o qual as tarefas são desenvolvidas
+- o ambiente o qual estão inseridos os usuários
+
+técnicas de coleta:
+- Questionários
+- Entrevistas individuais
+- Entrevistas em grupo
+- netnografia
+
+Papéis do usuário: são as relações que cada tipo de usuário mantém em relação ao sistema;
+Personas: tem o intuito de personificar o público alvo; Criação de um 'personagem' como público alvo, esse personagem tem suas próprias características;
+
+Étifca nos processos de Design de IHC:
+- Princípio da autonomia: garante-se a autonomia da pessoa humana por meio de termos de consentimento livre e esclarecido e com a proteção de pessoas vulneráveis, como crianças e adolescentes;
+- Princípio da beneficência: garantido por meio da avaliação de riscos e benefícios, levando-se em conta danos físicos, psicológicos, culturais, sociais, econômicos, etc
+- Princípio da não maleficência: relativo a se evitar danos previsíveis.
+- Princípio da justiça e equidade: referente à relevância e vantagens trazidas pela pesquisa aos participantes de forma a minimizar o ônus para todos os grupos envolvidos;
+
+3. Tecnicas para modelagem de tarefas
+
+3.1 Técnicas de coleta de dados sobre atividades, sistema atual e ambiente
+Em relação às tarefas, o projetista ou analista pode planejar a coleta de dados com o intuito de sanar dúvidas sobre informações sobre as tarefas realizadas pelos usuários;
+    - identificação ou nome da tarefa;
+    - objetivo e resultados esperados;
+    - frequencia e duração da tarefa;
+    - sequencia de etapas que compõem a tarefa;
+    - possibilidades e restrições;
+    - relacionamento da tarefa com outras tarefas;
+    - possibilidades e resultados;
+
+Deve-se coletar informações sobre o sistema atual, buscando suas especificações do sistema e sua base de dados, assim como especificações do sistema computacional, seus equipamentos, softwares, serviços, documentos, etc;
+
+- Entrevistas contextuais;
+- Observação em campo;
+- imersão;
+- simulação;
+- teatralização;
+- diários;
+
+3.2 Técnicas de especificação do sistema proposto
+
+3.2.1 Especificação de requisitos de softwares
+
+Requisitos funcionais - 
+
+Requisitos não-funcionais - 
+    Requisitos do produto:
+    Requisitos não organizacionais:
+    Requisitos externos: 
+
+3.2.2 Especificação do contexto de uso
+Significa descrever os usuários, as tarefas e o ambiente de uso do sistema proposto, a partir de aspectos que influenciam no seu projeto e implementação;
+    - Especificação dos usuários: O usuário esperado são pessoas com os mais diferentes níveis de conhecimento sobre uso de computador, dispositivos móveis e sites de redes sociais. Contudo, assume-se que o usuário deve conhecer o mínimo sobre navegação na web para usar as funcionalidades básicas da rede social;
+
+    - Especificação das tarefas: 
+        Exemplos:
+            * Instalação: baixar o aplicativo na loja de seu sistema operacional e torná-lo operacional no dispositivo móvel;
+            * Registro: tornar-se um usuário cadastrado de posse de credenciais de login e senha.
+            * Publicação de conteúdos: responder à pergunta “O que você está pensando?", compartilhando com os seus contatos seus conteúdos Alternativas: postar imagens, vídeos e status predefinidos
+
+    - Especificação de ambientes:
+        Exemplo: Disponibilidade de 3g, 4g, wifi;
+    
+    Especificação de equipamentos:
+        Exemplo: smartphone, computador;
+
+3.2.3 Especificação de requisitos de usabilidade
+Deve levar em consideração as tarefas, os usuários, estabelecendo medidas de eficácia, eficiência e satisfação, sendo estas etapas: 
+1. Analisar documento de especificação de contexto de uso ou de cenário de uso, destacando as tarefas e estipulando a sua relevância ou prioridade;
+2. Para cada tarefa, definir as medidas exigidas para eficiência, eficácia e satisfação do usuário, levando-se em conta o tipo ou papel de usuário;
+3. Definir requisitos específicos para tarefas e usuários especiais
+
+
+3.3 Técnicas de modelagem e concepção das tarefas ou fluxo de trabalho
+
+3.3.1 Modelo conceitual
+Deve ser criado com base no que foi coletado e analisado sobre a situação atual, aproximando o mundo dos usuários e dos projetistas;
+
+3.3.2 Descrição de cenários de uso
+Os cenários de uso são ferramentas que complementam as personas, que podem ser usados tanto na especificação quanto na concepção das interfaces. “Os cenários de uso são descrições textuais de como e em que ambientes um usuário realiza suas atividades na situação de trabalho [...]”
+
+4 tipos de cenários:
+- Cenários-problema: são relativos à situação atual;
+- Cenários de atividades: relativo à concepção lógica de uso, tem foco em descrever as atividades realizadas pelo usuário, seus objetivos, motivações e processo de execução;
+- Cenários de informação: relativa à concepção da lógica de uso, descrevem o cenário de atividades, acrescentando as estruturas de informação da interface do usuário;
+- Cenários de interação: relativa à concepção da lógica de uso, adicionam ao cenário descrito até então, os objetivos de interação que o usuário utilizará na interface do produto interativo;
+
+
+3.3.3 Modelagem de tarefas ou fluxo das tarefas do usuário
+
+Uma forma simples de apresentar a sequência de uma tarefa é através de um diagrama do tipo fluxograma que representa o fluxo do usuário, que apresenta o passo a passo para a execução de uma tarefa, podendo ser uma utilizando tanto após a coleta de dados da situação atual, quanto para representar a concepção do sistema, ajudando a entender as telas a serem projetadas.
+
+Para a modelagem das atividades no sistema interativo proposto, também é possível usar uma árvore hierárquica, que apresenta no primeiro nível o objetivo geral da tarefa. No nível seguinte, apresenta-se os objetivos específicos ou as ações que devem ser realizadas para que o usuário atinja o objetivo geral. No nível seguinte, mostrase as operações junto aos dispositivos de entrada e saída.
+
+As atividades do sistema também podem ser modeladas com o diagrama de casos de uso da linguagem de especificação de sistema UML. Neste diagrama, há formas de representação para os atores ou os papéis de usuário e para as tarefas. As tarefas ou casos de uso podem ter relacionamentos entre si do tipo
+
+
+3.4 Concepção da lógica de informação
+
+3.4.1 Arquitetura da informação
+A arquitetura da informação é muito importante para que o usuário consiga entender a lógica informacional da interface, impactando diretamente na experiência do usuário, principalmente, no sentido da usabilidade. Para tanto, a concepção da arquitetura da informação é feita, definindo-se os seguintes mecanismos:
+- Organização: definir como as informações estão agrupadas e relacionadas;
+- Navegação: Global (navbar), local(sumário da pagina), Contextual(breadcrumbs, popup)
+- Rotulação: "Os rótulos têm o objetivo de comunicar sobre o conteúdo dos grupos de informações de maneira eficiente, sem ocupar muito lugar na tela"
+- Busca:  Mecanismos para descoberta e acesso direto aos conteúdos do site ou sistema. Pode-se utilizar tanto o conteúdo textual do sistema, quanto os seus metadados, incluindo vocabulários controlados e tags da folksonomia.
+
+3.4.2 Técnicas de coleta de dados e concepção para arquitetura da informação
+
+- Arranjo de cartas (card sorting): ;
+- Diagrama de afinidade: ;
+- Mapa do site (sitemap): ;
+- Diagrama de arquitetura da informação: ;
+
+
+
+4. Construção de alternativas de design
+
+CONTINUAR DAQUI....
+
+ferramentas de Prototipação
