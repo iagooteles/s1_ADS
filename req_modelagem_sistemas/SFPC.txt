@@ -1,4 +1,4 @@
-Scrum Foundation Professional Certificaition
+Scrum Foundation Professional Certification
 
 SCRUM => lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems
 
@@ -30,6 +30,8 @@ Inspection enables adaptation. Inspection without adaptation is considered point
 Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 
 SCRUM VALUES =>
+
+CONTINUAR DAQUI....
 
 Scrum master - 
 PO (Product owner) - 
