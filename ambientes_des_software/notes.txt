@@ -59,3 +59,7 @@ Desenvolvimento híbrido - possibilita o desenvolvimento de um só código que v
 
 BUILD => Processo de construção da aplicação;
 Em termos gerais uma equipe que desenvolve hibridamente é mais barato que ter uma equipe que desenvolva nativo (a nativo teria que fazer dois códigos diferentes para o mesmo aplicativo);
+
+teste
+
+
