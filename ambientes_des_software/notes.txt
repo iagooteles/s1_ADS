@@ -60,6 +60,16 @@ Desenvolvimento híbrido - possibilita o desenvolvimento de um só código que v
 BUILD => Processo de construção da aplicação;
 Em termos gerais uma equipe que desenvolve hibridamente é mais barato que ter uma equipe que desenvolva nativo (a nativo teria que fazer dois códigos diferentes para o mesmo aplicativo);
 
-teste
+
+Javascript é uma linguagem Fraca e Dinâmica (dinâmica pq na hora que o código for executado é que o tipo vai ser definido) ** revisar se isso ta certo mesmo;
+
+Dinâmica => O tipo das variáveis são definidos no tempo de Execução; ex: js,  python, rubym php;
+Estática => O tipo das variáveis são definidos no tempo de Compilação; ex: java, C++, swift, C#; 
+Fraca => Permite fazer operações com tipos diferentes; ex: js, php, perl, C, Lua; 
+Forte =>  Não permite fazer operações com tipos diferentes; ex: java, python, swift;
+
+Compilação =>
+
+Atividade para o dia 10 => 
 
 
