@@ -87,6 +87,17 @@ Exercício: criar uma instancia EC2 e instalar apache usando comando linux e tes
       sudo systemctl start httpd
 10. testar o servidor pelo ip publico ou dns;
 
+Dos passos anteriores, como mudar a pagina html mostrada => 
+Passo 11 - substitua o site anterior por uma pagina simples criada por você
+11.1) Digite o comando: sudo su para ter privilégios de edição
+11.2) Navegue para o diretório da página principal: cd /var/www/html
+11.3) Use o editor para criar um arquivo: nano index.html
+11.4) Copie o cole o HTML simples a seguir:
+<html><body>Meu primeiro site no EC2 </body></html>
+Salve o arquivo no editor
+11.5) caso o arquivo tenha sido salvo teste novamente o acesso pelo
+browser que a página principal deve ter sido trocada pelo novo site
+simples.
 
 
 APACHE => 
@@ -94,4 +105,8 @@ APACHE =>
 
 EC2 => Elastic Compute Cloud => Serviço de máquina virtual, serviço do tipo IaaS => ;
 
+Modelos de precificação do serviço EC2 - 
+      on demand - + Flexibilidade; sob demanda; + aconselhavel quando não se tem uma previsão sob a demanda; É associado ao auto-scaling;
+      savings plan - Faz um compromisso com o provedor que aquela máquina vai ser utilizada por um longo prazo, em contrapartida é dado um desconto considerável no valor da hora da máquina;
+      spot - funciona como um mercado, onde o preço da máquina é variavel; funciona como uma espécie de leilão; possível de se usar um recurso muito mais barato do que o preço que se teria pela mesma máquina e fosse on demand;
 
