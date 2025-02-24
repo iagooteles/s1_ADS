@@ -110,3 +110,38 @@ Modelos de precificação do serviço EC2 -
       savings plan - Faz um compromisso com o provedor que aquela máquina vai ser utilizada por um longo prazo, em contrapartida é dado um desconto considerável no valor da hora da máquina;
       spot - funciona como um mercado, onde o preço da máquina é variavel; funciona como uma espécie de leilão; possível de se usar um recurso muito mais barato do que o preço que se teria pela mesma máquina e fosse on demand;
 
+
+//////////////////////////////////////////////////
+
+Colocar arquivos no ec através do bucket (s2)
+
+passo 1: criar um bucket para armazenar os arquivos do site => Escolher serviço S3 no console do AWS;
+
+criar o bucket;
+dar o nome e deixar as outras opções padrão;
+escolher o bucket e clicar em carregar;
+copiar todos os arquivos para o bucket e aguardar o upload;
+
+passo 2: Criar a função em IAM
+clicar em funções na lateral esquerdar e no botão criar função;
+
+selecionar serviço aws e caso de uso: EC2;
+Na tela de adicionar permissoes abaixo faça uma busca por s3 e escolha a opção marcada em azul (amazon s3 full access);
+Dê o nome e crie a função;
+
+Passo 3: Escolha Ec2 e execute a instância;
+Faça as configurações e em Detalhes avançados selecione a função pelo nome que você criou;
+Crie a máquina e conecte-se;
+
+Instalar apache: sudo yum install -y httpd
+Start no apache: sudo systemctl start httpd
+teste o servidor pelo seu ip público;
+
+Passo 4: Substituir o site anterior pelo seu site através da função;
+
+4.1) Digite o seguinte comando para ter privilégios de edição: sudo su
+4.2) Navegue para o diretório da página principal: cd /var/www/html
+4.3) copiar todos os arquivos e diretorios recursivamente do bucket que vc criou. Use o comando abaixo:
+aws s3 cp s3://"nomedasuafunção" . --recursive
+
+Testar novamente a página;
