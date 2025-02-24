@@ -1,0 +1,63 @@
+Fundamentos teóricos da pesquisa científica
+
+Existe um canvas de projeto de pesquisa que ajuda a organizar a pesquisa científica;
+
+
+////////////////////// Construção de hipóteses //////////////////////
+
+Inicialmente, é necessário declarar a questão principal ou o objetivo da investigação, de forma clara e precisa, que seja ao mesmo tempo testável e mensurável. Em seguida, com base no que já é conhecido por teorias ou estudos anteriores, formula-se a(s) hipótese(s) ou resposta provisória à pergunta de pesquisa, identificando variáveis específicas e resultados potenciais, que podem então ser testados. Esta é uma etapa crucial que deve ser concluída antes de qualquer experimentação. Uma imperfeição na composição de uma hipótese pode resultar em fraquezas em todo o desenho de um experimento.
+
+hipótese alternativa ou direcional - Faz-se uma previsão sobre o resultado, baseando-se na literatura e nos estudos anteriores; Têm-se um potencial resultado; 
+hipótese não direcional - Um previsão é feita, mas a forma exata das diferenças não é especificada, o pesquisador não sabe o que pode ser previsto através de literatures anteriores;
+
+
+////////////////////// Integração entre teoria e prática na pesquisa científica //////////////////////
+
+
+
+////////////////////// Revisão sistemática de literatura //////////////////////
+
+RSL => Revisão Sistemática da Literatura => é um proceso explícito que pode identificar, avaliar e consolidar um conjunto de artigos existentes em uma determinada área de conhecimento. Ela permite maximizar o potencial de uma revisão de literatura, encontrando o maior número possível de resultados de uma maneira organizada, reflexiva, crítiva e compreensiva a respeito do material analisado;
+
+Em caráter pedagógico, consideram-se oito etapas para o processo de construção da RSL: 
+(1) delimitação da questão a ser pesquisada; 
+(2) escolha das fontes de dados; 
+(3) definição das palavraschave para a busca; 
+(4) busca e armazenamento dos resultados; 
+(5) seleção de artigos pelo resumo, de acordo com critérios de inclusão e exclusão; 
+(6) extração dos dados dos artigos selecionados; 
+(7) avaliação dos artigos;
+(8) síntese e interpretação dos dados;
+
+Para a definição das palavras-chave para a busca na RSL, as palavras-chave precisam ser sensíveis o suficiente para acessar adequadamente o fenômeno, indicando um número representativo de trabalhos. Porém, não podem ser sensíveis demais, retornando muitos resultados, inviabilizando a execução da RSL.
+
+
+
+////////////////////// Elaboração dos objetivos de pesquisa //////////////////////
+
+
+
+
+Exercícios => 
+
+Quais são as etapas principais de uma Revisão Sistemática da Literatura?
+    Planejamento, coleta de dados, análise de dados e redação do relatório.
+
+Quais ferramentas podem ser utilizadas para conduzir uma eficiente RSL?
+    Ferramentas de Inteligência Artificial como R-Studio, Research Rabbit e Rayyan.
+
+Qual é o papel das hipóteses na investigação científica?
+    Orientar a coleta e análise de dados para responder a uma questão de pesquisa.
+
+Qual é a relação entre objetivos de pesquisa e hipóteses?
+    Objetivos de pesquisa orientam a formulação de hipóteses.
+
+O que caracteriza bons objetivos de pesquisa?
+    Clareza, especificidade e alinhamento com as hipóteses.
+
+Qual a principal diferença entre uma hipótese nula e uma hipótese alternativa?
+    A hipótese nula prevê a ausência de diferença ou relação significativa, enquanto a alternativa prevê a presença de uma diferença ou relação significativa.
+
+O que caracteriza uma hipótese clara e testável?
+    Ser formulada com variáveis específicas e resultados potenciais mensuráveis.
+

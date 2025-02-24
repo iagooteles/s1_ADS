@@ -21,4 +21,74 @@ Análise de mercado => observar variáveis:
 
 2. Modelos de negócios digitais inovadores e a importância das Startups
 
+alguns modelos digitais de negócios aplicados no mercado:
 
+- Peer to Peer (p2p) => Atua como intermediária de uma transação, colocando as partes em contato, sejam produtos ou serviços (ex: airbnb, uber, linkedin)
+
+- Código aberto => uso de software de acesso livre, permitindo que uma comunidade de programadores contribua.
+
+- Freemium => Visa oferecer um produto ou conteúdo gratuitamente, reservando o bom conteúdo, ou de acesso exclusivo, para pagamento pelos interessados; (ex: adobe)
+
+- Assinatura => obtem-se um fluxo de renda sustentável ao longo do tempo (ex: netflix, spotify)
+
+
+As startups são desenvolvidas em tecnologias devido a indentificação de novos formatos de negócio, para ser uma startup a inovação é essencial; Startup é uma empresa jovem com um modelo de negócios repetível e escalável, em um cenário de incertezas e soluções a serem desenvolvidas;
+
+É preciso que o empreendedor conheça as principais diferenças entre seus produtos e os dos seus concorrentes, e somente assim, poderá identificar as possíveis ameaças que estes podem apresentar, e as oportunidades ao localizar as fraquezas relacionadas aos produtos ofertados aos clientes. Para então definir estratégias que possibilitem conquistar uma nova fatia do mercado
+
+Exercicio:
+
+A análise externa do ambiente do mercado digital é justificada pela definição de estratégias de vantagem competitiva que serão elaboradas e apresentadas para a empresa, lançando produtos (bens/serviços) no mercado. Observa-se, então, a necessidade de considerar os elementos interligados ao mercado digital, tais como:  
+    1. Público-alvo
+    2. Comportamento da indústria
+    3. Estudo da concorrência
+    4. Identificação e análise dos fornecedores
+    5. Estrutura de mercado
+
+Esses elementos estão descritos a seguir:
+    A) Busca saber quem são, onde estão, como estão, o que fazem, quais suas especificidades, como definem seus relacionamentos, como entregam, quando entregam, portfólio de alternativas, qualidade dos produtos e/ou serviços oferecidos, preço e condições de pagamento, prazos de atendimento e entrega, entre outros.   
+    B) Compreende o modo de operacionalização comercial do ramo digital, tamanho, potencial de crescimento, produtos e serviços alternativos, entre outros.
+    C) Investiga o potencial de faturamento, quem são, onde estão, como trabalham, volume de vendas, lucro, tendências de comportamento, linha de atuação, ações no nicho de mercado digital, entre outros fatores.
+    D) Quem são, onde estão, como estão, o que fazem, quais suas preferências, quais seus hábitos e o que desejam no mercado digital.
+    E) Estuda o tamanho, potencial, tendências, tipo de consumidores, oportunidades que oferece, entre outros.
+
+Assinale a alternativa que relaciona corretamente os elementos interligados ao mercado digital, com suas respectivas descrições:
+1 - D / 2 - B / 3 - C / 4 - A / 5 - E
+
+
+
+O aprofundamento da análise das variáveis possibilita o entendimento das necessidades e desejos do consumidor em relação ao seu produto. Visando à melhoria do direcionamento das vendas de um produto inovador, identifique a alternativa correta.
+
+1. O comportamento é uma variável psicológica que faz parte da decisão de compra.
+2. A variável psicológica subdivide o consumidor em inovadores e radicais.
+3. O estilo de vida é uma variável que possibilita determinar padrões de uso.
+4. A análise do estilo de vida do consumidor permite a personalização da experiência de consumo. 
+
+Está correto apenas o que se afirma na alternativa:
+
+d.I, III e IV.
+
+
+
+Analise a afirmativa: “define-se um modelo de negócio como a representação dos processos de uma empresa de como oferece valor aos seus clientes, obtém seu lucro e se mantém de forma sustentável ao longo de um período de tempo”. Baseando-se no texto acima, indique as afirmativas que se enquadram na criação de modelos de um negócio.
+
+    1. É composta por diversos elementos que são considerados estratégicos para a composição de um negócio.
+    2. Abrange as empresas privadas, públicas e sociais.
+    3. A captura de valor é mais bem compreendida num negócio que cria valor que pode ser usufruído por outros. 
+
+Está correto apenas o que se afirma na alternativa:
+
+c.I, II e III
+
+
+Os fatores ambientais de um negócio são fatores que influenciam na determinação das regras competitivas às quais as empresas daquele setor estão submetidas. Michael Porter (2004) relata que o grau de concorrência em um setor depende de cinco forças competitivas básicas. Sobre essas forças, assinale as afirmativas corretas.
+
+1. Uma das barreiras de entrada para novos competidores pode ser os custos de mudança, haja vista que significam maiores esforços por parte do cliente para mudar de fornecedor.
+2. A padronização do produto em alto grau significa que as empresas estabelecidas têm sua marca identificada e desenvolvem um sentimento de lealdade em seus clientes, que foram atingidos a partir do esforço passado pela publicidade, configurando uma barreira de entrada.
+3. A intensidade da rivalidade entre concorrentes existentes é uma das forças competitivas, podendo ocorrer quando as empresas que atuam no mercado são numerosas.
+4. Os produtos substitutos podem reduzir o retorno potencial de uma indústria, impondo um teto nos preços que as empresas podem fixar com lucro.
+5. O poder de negociação dos clientes é uma das cinco forças competitivas e pode ser observado, por exemplo, em negociações em que o cliente adquire grandes volumes em relação ao total de vendas do fornecedor. 
+
+Está correto apenas o que se afirma na alternativa:
+
+c.I, III, IV e V.

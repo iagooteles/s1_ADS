@@ -143,6 +143,8 @@ engenharia de requisitos abrangem 7 tarefas distintas:
 - validação - A validação de requisitos examina a especificação para garantir que todos os requisitos de software tenham sido declarados de forma não ambígua; que as inconsistências, omissões e erros tenham sido detectados e corrigidos; e que os artefatos estejam de acordo com os padrões estabelecidos para o processo, projeto e produto;
 - gestão de requisitos - ajuda a equipe de projeto a identificar, controlar e acompanhar as necessidades e suas mudanças à medida que o projeto prossegue;
 
+CLENESVAGE
+
 Requisito => são as descrições dos serviços que um sistema deve operar e suas restrições;
 - Em alguns casos, um requisito é simplesmente uma declaração abstrata de alto nível de um serviço que um sistema deve oferecer ou de uma restrição a um sistema;
 - No outro extremo, é uma definição formal detalhada de uma função do sistema;
@@ -172,7 +174,20 @@ Requisitos não-funcionais podem ser classificados em:
 - Requisitos externos: Esse título abrangente cobre todos os requisitos derivados de fatores externos ao sistema e seu processo de desenvolvimento. ;
     Podem incluir requisitos regulatórios, que estabelecem o que deve ser feito para o sistema ser aprovado por uma entidade reguladora, como uma autoridade de segurança nuclear; requisitos legislativos, que devem ser seguidos para garantir que o sistema opere dentro da lei; e requisitos éticos, que garantem que o sistema será aceitável para os usuários e para o público em geral.
 
-Requisito de domínio => Trás um limite ;
+Requisito de domínio => é um tipo de requisito que descreve as características e funcionalidades específicas de um sistema relacionadas ao domínio do problema que o software está tentando resolver; Ou seja, ele se refere a aspectos que estão diretamente ligados ao contexto de negócios, processos e regras do ambiente onde o software será utilizado.
+    Esses requisitos estão relacionados ao negócio e ao contexto específico em que o sistema será implementado, e são essenciais para garantir que o software atenda às necessidades reais do usuário e esteja alinhado com o setor ou área de atuação.
+Exemplos de requisitos de domínio:
+    Sistema bancário:
+        O sistema deve permitir a transferência de fundos entre contas.
+        Deve existir uma validação para impedir transações que ultrapassem o saldo disponível na conta.
+    Sistema de locadora de veículos:
+        O sistema deve garantir que os carros disponíveis para aluguel estejam em boas condições de funcionamento.
+        Um cliente não pode alugar mais de um veículo por vez, a não ser que tenha um histórico de bom comportamento como locatário.
+
+Características de um requisito de domínio:
+    Específico ao contexto: Refere-se diretamente ao tipo de negócio ou área em que o sistema será utilizado.
+    Regulamentado por regras de negócios: Está geralmente vinculado a regras ou leis do setor em questão, como leis financeiras, normas de segurança, etc.
+    Determinante para a entrega de valor: Esse tipo de requisito tem um impacto direto na entrega de valor do software, pois garante que ele seja útil para os usuários no seu contexto específico.
 
 Regras de negócio => Trás uma decisão ; Existem regras que regem interações; As regras são capturadas na modelagem de negócio ou no levantamento de requisitos;
     ex: cálculo do preço de aluguel de uma cópia; lançamento; promoção;
@@ -182,11 +197,39 @@ Regras de negócio trazem uma decisão; Requisitos trazem um comportamento;
 * Vai cair regras de negócio na prova *
 
 
+///////////////////////////// Critérios de qualidade de requisitos ////////////////////////////////////
+
+▪ O que é a qualidade de requisitos?
+
+Qualidade é cumprir com os requisitos;
+Para se ter uma boa especificação de requisitos é necessário ajudar os clientes a descreverem com exatidão o que desejam obter, além disso, é necessário ajudar os devs a entenderem o que os clientes querem;
+
+▪ Aspectos de qualidade dos requisitos
+
+A validação deve ser realizada utilizando-se dos 3 objetivos de qualidade a seguir:
+    - Conteúdo - ;
+    - Documentação - ;
+    - Acordo - ;
+
+▪ Os critérios de qualidade da IEEE 830
+
+- Correta       : Cada requisito satisfaz ao menos uma necessidade ou demanda legítima do negócio; não contém requisitos supérfluos;
+- Completa      : Todos os elementos significativos do contexto de interesse estão descritos;
+- Clara         : Possui uma única interpretação para todo o público alvo; use exemplos; 
+- Consistente   : Não existem contradições entre os documentos de requisitos, seja no mesmo nível ou em níveis diferentes;
+- Modificável   : Modificações podem ser feitas de maneira fácil, completa e Consistente sem comprometer a sua estrutura e estilo; Não seja redundante;
+- Priorizada    : Cada requisito tem atribuído um valor de importância relativa baseado em um ou mais critérios. por exemplo: risco, valor para o negócio, custo; Uma boa priorização assegura que o esforço será focado nos requisitos mais críticos, reduzindo assim riscos do projeto;
+- Verificável   : Também chamada de 'testável'; Há um método para demonstrar que a solução satisfaz cada requisito;
+- Rastreável    : Estabelece relação entre requisitos, suas origens e produtos derivados; Torna a especificação mais modificável, mas fácil de verificar se está correta e completa, além de facilitar a análise de impacto das mudanças;
+
+
+▪ Onde estes critérios são aplicados?
+- Na própria elaboração da especificação, pois servem como um referencial para o analista de requisitos.
+- E principalmente nas atividades de verificação e validação de requisitos, que têm como foco garantir a qualidade do trabalho de requisitos.
 
 
 
-
-
+Exercícios:
 
 
 

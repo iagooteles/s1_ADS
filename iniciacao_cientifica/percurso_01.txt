@@ -1,0 +1,64 @@
+1. Conceitos básicos de pesquisa
+
+Conhecimento é a tentativa de interpretar e representar a realidade, assim como compreendê-la; Seus tipos são:
+- Mítico;
+- ordinário;
+- artístico;
+- filisófico;
+- religioso;
+- científico;
+
+Pensamento dedutivo - parte de premissas gerais para chegar a conclusões específicas, garantindo que, se as premissas forem verdadeiras, a conclusão também será.
+
+Pensamento indutivo - observa casos específicos para formular generalizações, sendo provável, mas não garantido, que as conclusões sejam verdadeiras;
+
+Elaboração do projeto de pesquisa: 
+1. Escolha do tema - 
+2. Revisão bibliográfica - 
+3. Formulação do problema - 
+4. Construção de hipóteses - 
+
+
+
+2. Tipos de pesquisa
+
+Quanto ao ambiente que a pesquisa é coletada: Pesquisa de campo ou de laboratório;
+Quanto ao grau de controle das variáveis: experimental ou não experimental;
+
+existem diversos tipos de pesquisa, é necessário estudar qual é melhor para determinada situação;
+
+
+3. Coleta de dados
+
+A qualidade dos dados afeta diretamente a validade dos resultados;
+
+Coleta de campo;
+Coleta de experimentos laboratoriais;
+Coleta de entrevistas;  
+Coleta de questionários;
+Coleta mista;
+
+
+4. Análise de dados
+
+Mcfedries (2020) define análise de dados como a aplicação de ferramentas e técnicas para organizar, estudar, chegar a conclusões e, às vezes, fazer previsões sobre uma coleção específica de informações. Portanto, a análise de dados é uma etapa dos processos de pesquisa que ocorre logo após a coleta de dados, transformando dados brutos em informações organizadas que podem ser interpretadas e avaliadas. Esse processo permite alcançar novos conhecimentos científicos. Por esse motivo, a etapa de análise de dados é uma das mais importante no processo da investigação científica.
+
+
+Exercício => 
+
+A classificação da pesquisa científica é apropriada para facilitar a organização e o direcionamento da investigação científica. Qual é a função da classificação da pesquisa científica?
+    Para determinar os procedimentos metodológicos.
+
+Questionários são importantes ferramentas de coleta de dados primários que oferecem muitas vantagens. Quais são as vantagens de usar questionários na coleta de dados primários?
+    Padronização da coleta de dados e facilidade de distribuição.
+
+A análise de dados segue um procedimento sistemático, essencial tanto para dados quantitativos quanto qualitativos. Quais são os passos gerais para a análise de dados?
+    Preparar, explorar, analisar, representar, interpretar e validar os dados.
+
+A pesquisa pode ter diferentes finalidades, desde a ampliação do conhecimento, aplicação prática e desenvolvimento experimental. Como a pesquisa pode ser classificada quanto à sua finalidade?
+    Pesquisa básica, pesquisa aplicada, pesquisa experimental
+
+
+
+
+
