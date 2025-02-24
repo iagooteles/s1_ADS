@@ -70,6 +70,21 @@ Forte =>  Não permite fazer operações com tipos diferentes; ex: java, python,
 
 Compilação =>
 
+//////////////////////////////////  ////////////////////////////////////
+
+Paradigmas de programação => Cada paradigma fornece uma forma diferente de pensar sobre problemas comtacionais e estruturar soluções; Cada paradigma possui seus princípios, regras e técnicas;
+
+- paradigma imperativo => um dos mais antigos;  baseia-se na execução de comandos seqüenciais; comandos que alteram o estado do sistema; Programas são escritos em uma série de instruções que devem ser executadas em ordem;
+- paradigma funcional => avaliação de funções e dados mutáveis; É frequentemente utilizado para tratar de problemas matemáticos e processamento de listas; Um benefício imenso desse paradigma é deixar o software modular e reutilizável;
+- paradigma declarativo => ;
+- paradigma orientado a objetos => 
+    - Abstração;
+    - herança;
+    - encapsulamento;
+    - polimorfismo;
+
+
+
 Atividade para o dia 10 => 
 
 
