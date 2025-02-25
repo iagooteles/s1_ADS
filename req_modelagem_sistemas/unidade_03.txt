@@ -1,0 +1,34 @@
+/////////////////////////////////////////////  ////////////////////////////////////////////////////////
+
+Métodos preditivos vs adaptativos
+
+Preditivos:
+- Enfatiza o planejamento de ações em detalhe;
+- A equipe pode saber que funcionalidade e tarefas....
+
+Adaptativos ou evolucionário:
+- Enfatiza as mudanças e suas consequentes adaptações;
+- A equipe não sabe o que irá fazer a médio e longo prazo;
+- Problemas são encarados à medida que eles chegam;
+
+
+A aliança ágil foi fundada por 17 consultores e especialistas em desenvolvimento de software; Eles assinaram o manifesto ágil em 2001;
+
+o manifesto ágil tem alguns princípios:
+- Satisfação do cliente;
+- Ser receptivo as alterações;
+- Efetuar entregas frequentes do produto;
+- Pessoas de negócios e desenvolvedores devem trabalhar juntos no projeto;
+- Motivação;
+- Conversas cara a cara;
+- Excelêcia técnica e bom design;
+- Simplicidade;
+- Equipes auto organizáveis;
+
+Manifesto ágil são dicas para se desenvolver uma metodologia ágil;
+
+    indivíduos e interações MAIS QUE processos e ferramentas;
+    software funcionando MAIS QUE documentação abrangente;
+    colaboração com o cliente MAIS QUE negociação de contratos;
+    responder à mudanças MAIS QUE seguir um plano;
+Ou seja, apesar de existir valores nos itens à direita, valorizamos mais os itens da esquerda;
