@@ -1,0 +1,55 @@
+///////////////////// Processos de requisitos e estudos de viabilidade ///////////////////////////////////////
+
+O objetivo da engenharia de requisitos é produzir um documento que especifica o sistema a ser desenvolvido satisfazendo os requisitos das partes interessadas. Geralmente apresentados em dois níveis de detalhes: alto nível para usuários finais e clientes; e baixo nível (mais detalhado) para os desenvolvedores.
+
+▪ Descrever as principais atividades da engenharia de requisitos.
+▪ Introduzir técnicas para a elicitação e análise de requisitos.
+▪ Descrever validação de requisitos.
+▪ Discutir o gerenciamento de requisitos
+
+Estudo de viabilidade => Um levantamento de quais necessidades do usuário podem ser atendidas utilizando as tecnologias atuais; o estudo em si deve ser barato e rápido, considera se o sistema proposto será rentável do ponto de vista empresarial e se pode ser desenvolvido dentro das restrições orçamentárias existentes;
+    - é mais viável desenvolvermos um novo sistema ou usarmos um já existente no mercado?
+    - Quais são os riscos envolvidos no projeto?
+    - O sistema proposto contribui para a organização?
+    - O que o cliente quer?
+    - Analisando as condições econômicas, organizacionais e temporais é viável desenvolver o sistema?
+
+O estudo de viabilidade representa o início do processo de engenharia de requisitos; Ele tem como entrada os requisitos do negócio, um esboço da descrição do sistema e como o sistema pretende apoiar os processos de negócios;
+
+O estudo da Viabilidade econômica é muitas vezes o mais crítico;
+A análise de custo-benefício apresentam 3 técnicas principais:
+- Análise do retorno financeiro (payback analysis) => é um indicador financeiro que representa o tempo de retorno de um investimento; usado para medir quanto tempo leva para recuperar o dinheiro investido em um projeto;
+    payback simples;
+    payback descontado => leva em consideração a taxa de juros e a correção monetária;
+- retorno do invertimento (return on investments) => permite saber quanto dinheiro a empresa perde ou ganha com os investimentos feitos em diferentes canais; Com ele é possível identificar quais investimentos valem a pena e como otimizar aqueles que já estão funcionando;
+- Valor presente líquido (net present value) =>  é uma forma de avaliar se um determinado investimento, projeto ou negócio será rentável ou não. Essencialmente, o NPV é a soma de todos os fluxos de caixa futuros ao longo do período investido usando uma apropriada taxa de desconto.
+    Projetos com NPV positivo valem a pena o investimento, enquanto negativos não.
+    Para aplicá-lo na prática, é necessário saber o tempo e a soma total dos fluxos de caixa do investimento descontados a uma taxa pelo menos igual ao mínimo de retorno aceitável;
+
+Validação de requisitos => Os requisitos são analisados quanto ao seu realismo, consistência e integridade. Durante a análise, erros no documento de requisitos são descobertos e corrigidos;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

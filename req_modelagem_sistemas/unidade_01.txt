@@ -228,16 +228,90 @@ A validação deve ser realizada utilizando-se dos 3 objetivos de qualidade a se
 - E principalmente nas atividades de verificação e validação de requisitos, que têm como foco garantir a qualidade do trabalho de requisitos.
 
 
-
 Exercícios:
 
+No modelo de desenvolvimento Waterfall, a partir da coleta de requisitos e da elaboração do projeto desenvolve-se uma implementação inicial, que é apresentada para a apreciação dos usuários; esse ciclo continua com a criação de várias versões, até que o sistema final seja desenvolvido por meio da execução das etapas de desenvolvimento e testes de forma intercalada.
+    Falso 
+
+Os casos de uso podem ser considerados uma técnica de descoberta de requisitos; eles são documentados por um diagrama de casos de uso de alto nível, no qual se descrevem os atores — pessoas ou outros sistemas — e as interações do sistema.
+    Verdadeiro 
+
+A validação de requisitos é o processo pelo qual se verifica a qualidade dos artefatos produzidos durante a engenharia de requisitos. Nessa etapa, busca-se identificar e corrigir ambiguidades, inconsistências, omissões e erros. Sobre a etapa de validação descrita, é correto afirmar que:
+    Uma das questões a ser verificada é o uso de padrões de requisitos.
+
+Liste 3 problemas que podem ocorrer durante o processo de análise de requisitos, justifique sua resposta
+    Mudanças nos requisitos depois que eles já foram definidos: Os requisitos podem ser mudados durante o processo de desenvolvimento. Clientes ou stakeholders, ao mudarem os requisitos, podem gerar mais trabalho ou invalidar um trabalho já feito, o que causa atrasos no projeto;
+
+    Requisitos inviáveis, incompletos ou inconsistentes: Quando o cliente não sabe justificar ou explicar de forma clara o seu requisito, isso pode fazer com que a funcionalidade do sistema não esteja de acordo com o que os stakeholders queriam;
+    e/ou
+    Falha de comunicação: A comunicação falha entre a equipe e o cliente pode levar a mal-entendidos e gerar requisitos mal definidos, fazendo que as funcionalidades do sistema não seja de acordo com o que seria idealizado pelo cliente;
+
+    Equívoco na priorização de requisitos: Priorizar os requisitos de forma errada pode fazer com que o desenvolvimento foque em funcionalidades menos importantes enquanto requisitos críticos ao sistema são deixados de lado;
+
+O tempo médio de falha, probabilidade de indisponibilidade e taxa de ocorrência de falhas são métricas para especificar propriedades de requisitos
+    não funcionais
+
+Suponha que você foi contratado para projetar um editor de documentos elaborados colaborativamente por usuários distribuídos e que estão usando computação móvel. Há dois tipos de usuários: usuários que editam o documento, e usuários que leem o documento, mas não podem editá-lo. Todos se comunicam por voz num padrão par a par. É possível enviar notificação para iniciar uma colaboração e ao aceitar o convite a comunicação de voz é iniciada. Os documentos gerados por meio colaborativo podem ter controle de versionamento, além de ser possível realizar a exportação em formato PDF para impressão que deve ser montado através de um serviço provido por uma .lib. O cliente gostaria que o layout do sistema se adaptasse conforme o modelo do aparelho móvel utilizado para que o estilo seja visualizado a representação do fabricante para que o usuário não tenha problemas com a experiência de uso de acordo com o sistema operacional do aparelho. Apenas os usuários que estiverem envolvidos nessa colaboração podem ter acesso ao documento. O usuário que edita o documento pode convidar quantos colabores desejar, e apenas o usuário que criou o documento pode definir o perfil desse colaborador (se usuário ou editor). Caso exista um problema de conexão o sistema deve salvar automaticamente as edições realizadas anteriormente. Todas as comunicações devem ser gravadas e devem ser possível acessá-las para consultas posteriores. Identifique e liste os requisitos funcionais e não funcionais relacionados ao hardware desse sistema. 
+
+Liste pelo menos 3 requisitos funcionais e 3 requisito não-funcionais
+
+    3 requisitos funcionais:
+
+        Há dois tipos de usuários: usuários que editam o documento, e usuários que leem o documento, mas não podem editá-lo;
+        Todos se comunicam por voz num padrão par a par;
+        É possível enviar notificação para iniciar uma colaboração e ao aceitar o convite a comunicação de voz é iniciada;
+        Os documentos gerados por meio colaborativo podem ter controle de versionamento;
+        Além de ser possível realizar a exportação em formato PDF para impressão;
+        Apenas os usuários que estiverem envolvidos nessa colaboração podem ter acesso ao documento;
+        O usuário que edita o documento pode convidar quantos colabores desejar, e apenas o usuário que criou o documento pode definir o perfil desse colaborador (se usuário ou editor);
+        Caso exista um problema de conexão o sistema deve salvar automaticamente as edições realizadas anteriormente;
+        Todas as comunicações devem ser gravadas e devem ser possível acessá-las para consultas posteriores
+
+    3 requisito não-funcionais:
+        Que deve ser montado através de um serviço provido por uma .lib;
+        O cliente gostaria que o layout do sistema se adaptasse conforme o modelo do aparelho móvel utilizado para que o estilo seja visualizado a representação do fabricante para que o usuário não tenha problemas com a experiência de uso de acordo com o sistema operacional do aparelho;
+        Todas as comunicações devem ser gravadas e devem ser possível acessá-las para consultas posteriores; => OBS: Apesar de listar um requisito funcional (O que o istema deve fazer), aqui também é descrito que o sistema deve salvar essas comunicações para que elas sejam consultadas posteriormente, logo como o sistema vai salvar essas comunicações seria um requisito não funcional;
+
+Quais são os níveis de detalhamento que os requisitos precisam atender?
+    Sistema e Usuário.
+
+Quais as principais diferenças entre o MPS.BR e o CMMI?
+
+    Ambos são modelos de referência para melhoria em processos de software:
+    MPS.BR:
+        Melhoria Processo Software BRasil - Criado no Brasil - Proporciana um modelo de melhoria voltado ao mercado brasileiro;
+        Apresenta uma estrutura mais simplificada e flexível, permitindo a adaptação para diferentes tamanhos e tipos de empresas;
+        O modelo busca resultados rápidos e tem os objetivos claros;
+        Tem o foco em empresas de pequeno e médio porte;
+        Tem o custo mais acessível e é menos exigente em termos de alocação de recursos;
+
+    CMMI:
+        Capability Maturity Model Integration - Modelo de melhoria que ajuda empresas a analisar e aprimorar a sua qualidade e eficiência de seus processos; 
+        Seu objetivo é analisar, corrigir e implementar soluções;
+        Ajuda a melhorar a capacidade de desenvolvimento de produtos e serviços;
+        Sua abordagem é mais rigorosa, com implementação mais estruturada e detalhada;
+        Sua implementação é mais comum em grandes organizações e empresas complexas;
+        Custo normalmente elevado, tanto para implementação quanto para certificação;
+
+O que é um modelo de maturidade?
+    Um modelo de maturidade é uma estrutura ou conjunto de práticas e processos que descrevem os estágios de evolução e aprimoramento de uma organização ou processo em determinado domínio. Ele define as etapas que uma organização percorre para atingir um nível de desempenho otimizado e, geralmente, estabelece uma série de níveis de maturidade que a organização pode alcançar à medida que melhora suas práticas;
 
 
+Segundo Pressman (2006) o software estão categorizados nos seguintes tipos, considere V para afirmativa verdadeira e F para falsa:
+( ) Software de inteligência artificial - São softwares que fazem os usos de algoritmos numéricos. Estes tipos software se encaixam na robótica. 
+( ) Software de aplicação - São programas que são desenvolvidos para executar no negócio de uma empresa determinada. 
+( ) Software científico e de engenharia - São algoritmos que processam números. 
+( ) Computação ubíqua - São softwares que realizam a verdadeira computação concentrada. 
+( ) Software aberto - São softwares que disponibilizam a visualização do código fonte da aplicação para o engenheiro de software modificar da maneira que deseja.
 
+A sequência correta, de cima para baixo, é:
+    F, V, V, F, V.
 
+Explique com suas palavras como funciona um modelo de ciclo de vida tradicional, e qual a principal situação não é indicada como escolha de um desenvolvimento de software. Justifique sua resposta. 
 
+    Esse modelo também é conhecido como modelo cascata, ele segue uma sequência linear e tem suas fases bem definidas, sendo necessário concluir uma fase para poder se iniciar a próxima.
 
-
+    Esse modelo não é indicado quando há inseguranças em relação aos seus requisitos ou quando o sistema necessita de mudanças com frequência durante o seu desenvolvimento. Isso acontece justamente porque este modelo precisa de requisitos bem definidos, pois eles são seguidos de forma rígida, já que é necessário concluir uma fase para se iniciar a próxima. Esse modelo não reage bem à mudanças diferentemente de um modelo ágil que pode ter os requisitos mudados ou reanalizados a qualquer momento;
 
 
 
