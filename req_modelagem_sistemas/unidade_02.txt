@@ -29,7 +29,7 @@ A análise de custo-benefício apresentam 3 técnicas principais:
 Validação de requisitos => Os requisitos são analisados quanto ao seu realismo, consistência e integridade. Durante a análise, erros no documento de requisitos são descobertos e corrigidos;
 
 
-
+teste
 
 
 
