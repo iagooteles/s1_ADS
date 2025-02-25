@@ -1,1 +1,38 @@
-CONTINUAR DAQUI
+1. Escrita científica
+
+Forma de divulgar os resultados da pesquisa científica;
+
+A estrutura básica do artigo/pesquisa científica tem 6 seções:
+- Introdução => Traz a estrutura do artigo;
+- Revisão de literatura ou referencial teórico => Constrói-se o estado da arte do tema que está sendo trabalhado / Trás-se uma overview / Mostra ao leitor qual é a lacuna que o artigo ou pesquisa procura preencher;
+- Metodologia => Como vai-se resolver o problema??? Essa pergunta é a que deve ser respondida na metodologia, apresenta-se o passo a passo e justifica-se as escolhas em termos metodológicos;
+- Resultados => Explicação e descrição de tudo que foi encontrado ao longo da pesquisa;
+- Discussão;
+- Considerações finais/conclusões;
+
+
+2. Apresentações orais
+
+Estratégias para capturar a atenção do ouvinte:
+- Uso de perguntas;
+- uso de citações;
+- histórias e anedotas;
+- estatísticas curiosas/supreendentes;
+
+
+3. Publicação científica
+
+Revistas científicas => publicações periódicas que disseminam pesquisas originais, revisões de literatura, estudos de caso e outros trabalhos acadêmicos;
+
+4. Divulgação científica
+
+A divulgação científica é o processo de tornar as descobertas e os conhecimentos científicos acessíveis e compreensíveis para um público mais amplo.
+
+As redes sociais são ferramentas poderosas para a divulgação científica, permitindo que os pesquisadores alcancem uma audiência ampla e diversificada. Cada plataforma tem suas características e pode ser utilizada de diferentes maneiras;
+
+
+////////////// Exercício ////////////////
+
+Qual é a principal função da introdução em um artigo científico?
+    Apresentar o problema de pesquisa e a revisão da literatura
+
