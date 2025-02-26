@@ -76,13 +76,15 @@ Paradigmas de programação => Cada paradigma fornece uma forma diferente de pen
 
 - paradigma imperativo => um dos mais antigos;  baseia-se na execução de comandos seqüenciais; comandos que alteram o estado do sistema; Programas são escritos em uma série de instruções que devem ser executadas em ordem;
 - paradigma funcional => avaliação de funções e dados mutáveis; É frequentemente utilizado para tratar de problemas matemáticos e processamento de listas; Um benefício imenso desse paradigma é deixar o software modular e reutilizável;
-- paradigma declarativo => ;
-- paradigma orientado a objetos => 
+- paradigma declarativo => Permite que os usuários interagem com banco de dados relacionais; 
+- paradigma orientado a objetos => Promove modularidade e reutilização; Organiza o software ao redor de objetos que são instanciados através de classes;
     - Abstração;
     - herança;
     - encapsulamento;
     - polimorfismo;
 
+
+//////////////////////////////////  ////////////////////////////////////
 
 
 Atividade para o dia 10 => 
