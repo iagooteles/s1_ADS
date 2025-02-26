@@ -145,3 +145,42 @@ Passo 4: Substituir o site anterior pelo seu site através da função;
 aws s3 cp s3://"nomedasuafunção" . --recursive
 
 Testar novamente a página;
+
+//////////////////////////////// Revisão //////////////////////////////////////////////
+
+Computação em nuvem é um modleo computacional que permite o acesso, sob demanda e através da rede, a um 'pool' de recursos computacionais (redes, servidores virtuais ou físicos, armazenamento, aplicações e serviços) que podem ser rapidamente provisionados;
+
+Elasticidade - Criar e remover recursos;
+
+comandos:
+
+- sudo yum install -y httpd => serve para instalar o apache;
+- sudo systemctl start httpd => serve para startar o apache;
+- aws s3 cp s3 :://nomeDoBucket . --recursive => Recursivamente pq vai baixar todas as pastas, subpastas e arquivos;
+
+Serviços AWS => 
+
+- EC2: Elastic Computing Cloud: Máquina virtual; 
+- S3: Armazenamento/storage => utilizamos para armazenar o site e subimos o site na máquina virtual; têm-se 5 gb no modo gratuito;
+- IAM: Serviço de Identidade e Acesso => Liberar o acesso ao S3 pelo EC2;
+
+AWS certified cloud practitioner;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
