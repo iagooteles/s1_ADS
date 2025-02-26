@@ -1,1 +1,64 @@
-CONTINUAR DAQUI....
+1. Gerenciamento de projetos
+
+5W 2H - é uma ferramenta de planejamento e gestão que ajuda a definir e esclarecer tarefas e objetivos. A sigla 5W2H vem do inglês e representa as perguntas: 
+    What (O que?), 
+    Why (Por quê?), 
+    Where (Onde?), 
+    When (Quando?), 
+    Who (Quem?), 
+    How(Como?),
+    How Much (Quanto custa?)
+
+kanban - Ferramenta visual que ajuda a gerenciar as tarefas e os fluxos de trabalho; No Kanban, as tarefas são organizadas em colunas que representam diferentes estágios do processo, como “A Fazer”, “Em Progresso” e “Concluído”; O Kanban é eficaz porque permite uma visualização rápida do status do projeto, facilita a priorização de tarefas e promove uma gestão mais ágil.
+ 
+Matriz de eisenhower - também conhecida como Matriz Urgente-Importante, é uma ferramenta poderosa para priorizar tarefas. Ela ajuda a distinguir entre o que é urgente e o que é importante, permitindo uma melhor gestão do tempo.
+
+                 Urgente       ||    Não urgente  ||
+-------------------------------||-----------------||
+Importante                     ||                 ||
+_______________________________||_________________||
+Não importante                 ||                 ||
+___________________________________________________
+
+
+Pomodoro - é um método de gestão de tempo;
+• Passo 1: escolha uma tarefa a ser realizada.
+• Passo 2: ajuste um temporizador para 25 minutos (um Pomodoro).
+• Passo 3: trabalhe na tarefa até que o temporizador toque.
+• Passo 4: faça uma pausa curta de 5 minutos.
+• Passo 5: após completar quatro Pomodoros, faça uma pausa mais longa de 15-30 minutos.
+Essa técnica melhora a concentração e reduz a procrastinação, permitindo um trabalho mais focado e produtivo.
+
+
+2. Trabalho em equipe
+
+- Comunicação eficaz: A falta de comunicação pode levar a mal-entendidos, erros e até mesmo à duplicação de esforços.;
+    escuta ativa;
+    clareza e concisão;
+    feedback construtivo;
+    comunicação não verbal;
+
+- Resolução de conflitos: Reconhecer a existência de um conflito é o primeiro passo para resolvê-lo;
+
+- Colaboração;
+
+
+3. Pensamento crítico
+
+Pensamento crítico é a capacidade de analisar e avaliar informações de maneira lógica e objetiva. Envolve questionar suposições, indetificar vieses, examinar evidências, discernir entre fatos e opiniões e construir argumentos sólidos;
+
+Estratégias eficazes para desenvolver essas habilidades são o questionamento socrático, o uso de mapas mentais, discussões em grupo, estudo de casos e reflexão crítica.
+
+
+4. Ética na pesquisa
+
+
+- Responsabilidade social: considerar o impacto que os estudos tem sobre a sociedade em geral;
+- Respeito à diversidade: ;
+- Integridade acadêmica: Para manter a integridade acadêmica, os pesquisadores devem seguir rigorosos padrões de honestidade e transparência em todas as fases do processo de pesquisa;
+
+
+
+Exercício:
+
+
