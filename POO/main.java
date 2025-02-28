@@ -1,4 +1,4 @@
-package modelagemCliente;
+
 public class main {
     public static void main(String[] args) {
         Cliente iago = new Cliente("05125100517", 100, "Iago Teles");
