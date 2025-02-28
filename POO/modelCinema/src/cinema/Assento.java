@@ -1,6 +1,6 @@
 package cinema;
 
-public class Genero {
+public class Assento {
     public int id;
     public String descricao;
 }

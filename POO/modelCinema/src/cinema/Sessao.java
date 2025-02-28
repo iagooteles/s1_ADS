@@ -1,4 +1,4 @@
-package modelCinema.src.cinema;
+package cinema;
 
 import java.time.LocalDateTime;
 

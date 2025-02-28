@@ -1,4 +1,4 @@
-package modelCinema.src.cinema;
+package cinema;
 
 public class Ator {
     public int id;

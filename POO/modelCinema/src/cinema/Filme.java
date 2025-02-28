@@ -1,7 +1,10 @@
-package modelCinema.src.cinema;
+package cinema;
+
+import java.time.LocalDateTime;
 
 public class Filme {
-    public Filme filme;
-    public Ator ator;
-    public boolean protagonista;
+    public int id;
+    public String titulo;
+    public LocalDateTime ano;
+    public Genero genero;
 }
