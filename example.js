@@ -1,3 +1,21 @@
+// Tipagem fraca: Permite conversões implícitas entre tipos diferentes.
+// Tipagem dinâmica: O tipo da variável pode mudar em tempo de execução.
+
+// Exemplo prático para demonstrar tipagem fraca:
+let x = "5"; // String
+let y = 2;
+console.log(x + y); // "52" (concatenação, não soma)
+
+// Exemplo prático para demonstrar tipagem dinâmica:
+let a = 10;
+console.log(typeof a); // "number"
+a = "Agora sou uma string!";
+console.log(typeof a); // "string"
+
+// Paradigmas de Programação (3:30 - 6:30)
+// Explicar que JavaScript suporta múltiplos paradigmas, incluindo imperativo, funcional e orientado a objetos.
+// Escolher o paradigma funcional e justificar a escolha.
+
 // readline é um módulo nativo do Node.js que permite interagir com o terminal
 // O readline é útil para criar interfaces de linha de comando (CLI) em Node.js
 import readline from "readline";
@@ -15,8 +33,7 @@ function showMenu() {
   console.log("\n/// To-Do List ///");
   console.log("1. Adicionar Tarefa");
   console.log("2. Listar Tarefas");
-  console.log("3. Remover Tarefa");
-  console.log("4. Sair");
+  console.log("3. Sair");
 }
 
 function addTask() {
@@ -44,22 +61,6 @@ function listTasks() {
   askOption();
 }
 
-function removeTask() {
-  rl.question("Digite o número da tarefa a ser removida: ", (taskNumber) => {
-    const index = parseInt(taskNumber) - 1;
-    if (index >= 0 && index < tasks.length) {
-      //array.splice(start, deleteCount);
-      // hovear o splice para ver a documentação
-      const removedTask = tasks.splice(index, 1);
-      console.log(`Tarefa "${removedTask[0]}" removida com sucesso!`);
-    } else {
-      console.log("Número de tarefa inválido.");
-    }
-    showMenu();
-    askOption();
-  });
-}
-
 function askOption() {
   rl.question("\nEscolha uma opção: ", (option) => {
     switch (option) {
@@ -70,9 +71,6 @@ function askOption() {
         listTasks();
         break;
       case '3':
-        removeTask();
-        break;
-      case '4':
         console.log("Saindo...");
         // fecha a interface do readline, logo o programa não vai mais aguardar entradas do usuário
         rl.close();
