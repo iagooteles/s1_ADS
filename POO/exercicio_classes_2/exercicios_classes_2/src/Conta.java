@@ -77,11 +77,10 @@ public class Conta {
             return false;
         }
         
-        this.saldo -= valor;
+        this.realizarSaque(valor);
         System.out.println("Transferência realizada com sucesso!.");
 
-        double novoSaldo = conta.getSaldo() + valor;
-        conta.setSaldo(novoSaldo);
+        conta.realizarDeposito(valor);
 
         return true;
     }
