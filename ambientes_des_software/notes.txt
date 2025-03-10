@@ -83,10 +83,23 @@ Paradigmas de programação => Cada paradigma fornece uma forma diferente de pen
     - encapsulamento;
     - polimorfismo;
 
+/////////////////////// GIT /////////////////////
+
+Controle de versão => 
+
+alpha => teste fechado;
+1 . 0 . 0 => Versão Beta;
+1 . 12 . 7
+
+primero numero  - major => incompatibilidade; Rebirth; (Pode ser de mudanças de cunho arquitetural da aplicação, ou pode ser de cunho de negócios, por exemplo, uma nova interface.)
+segundo numero  - minor => novas funcionalidades; Features;
+terceiro número - patch => correção de bugs; Erros;
+
+minor zera a patch;
+major zera a minor e a patch;
+
+Git flow => 
 
 //////////////////////////////////  ////////////////////////////////////
-
-
-Atividade para o dia 10 => 
 
 
