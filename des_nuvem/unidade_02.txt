@@ -1,0 +1,10 @@
+////////////////////////////// NODE /////////////////////////////////////
+
+Request - Response => Requisição - Resposta;
+
+HTTP => HyperText Transfer Protocol;
+
+Comunicação Síncrona => 
+Comunicação Assíncrona =>
+
+NODE => Engine criada que permite executar o javascript fora do navegador;
