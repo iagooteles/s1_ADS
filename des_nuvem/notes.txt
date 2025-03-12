@@ -204,8 +204,17 @@ Criar uma máquina virtual na Nuvem (AWS ou OCI). Na VM criada instalar o Apache
 Usar o S3 para hospedar um site ou aplicação (diferente do usado em sala de aula) e permitir seu acesso a partir de uma função definida no IAM para uma máquina virtual. Baixar e configurar a aplicação para a instância do EC2 e mostrar ela funcionando no browser. (5,0 pontos).
 
 
+1 - Criar um bucket no S3; => arrastar todos os arquivos do template para o bucket;
 
+2 - Criar permissão no serviço IAM; => roles => create role => use case: EC2 => next => Procurar por 'S3' e marcar AmazonS3FullAccess; =>
+      Com o IAM criado, é possível modificar o EC2 já existente => actions => security => modify IAM role;
+      OU 
+      Pode-se criar uma nova instancia EC2;
 
+3 - Substituir o site anterior pelo template => 
+      sudo su
+      cd /var/www/html
+      aws s3 cp s3://gymwebsiteiago/ . --recursive
 
 
 
