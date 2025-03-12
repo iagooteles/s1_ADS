@@ -99,7 +99,20 @@ minor zera a patch;
 major zera a minor e a patch;
 
 Git flow => 
+Branch main => O objetivo da branch main é armazenar código estável;
+    É uma branch permanente;
+    Não é o ambiente de trabalho de desenvolvedor;
+Branch dev(senvolvimeto)  => Serve para armazenamento e coloca-se lá o que foi desenvolvido;
+    É uma branch permanente;
+    Não é o ambiente de trabalho de desenvolvedor;
+Branch prod(ução) => 
+Branch bugfix => Onde se é trabalhado;
+    Serve para corrigir bugs;
+Branch hotfix => Utilizadas em questões de emergências;
+Branch feature => 
+
+Para que serve uma branch do git (PROVA) => 
+OBs: Registra QUEM, QUANDO e O QUE na publicação da branch;
 
 //////////////////////////////////  ////////////////////////////////////
-
 
