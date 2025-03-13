@@ -214,7 +214,7 @@ Usar o S3 para hospedar um site ou aplicação (diferente do usado em sala de au
 3 - Substituir o site anterior pelo template => 
       sudo su
       cd /var/www/html
-      aws s3 cp s3://gymwebsiteiago/ . --recursive
+      aws s3 cp s3://'nomeDoBucket'/ . --recursive
 
 
 
