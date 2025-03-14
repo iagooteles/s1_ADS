@@ -1,0 +1,15 @@
+////////////////////// Requisitos //////////////////////
+
+Declaração abstrata(alto nível) => Requisitos de usuário => são declarações, em uma linguagem natural somada a diagramas, dos serviços que se espera que o sistema forneça para os usuários e das limitações sob as quais ele deve operar. Esses requisitos podem variar de declarações amplas das características necessárias do sistema até descrições precisas e detalhadas da sua funcionalidade.
+
+
+Declaração detalhada(baixo nível) => Requisitos de sistema => são descrições mais detalhadas das funções, dos serviços e das restrições operacionais do sistema de software. O documento de requisitos de sistema (chamado às vezes de especificação funcional) deve definir exatamente o que deve ser implementado. Pode fazer parte do contrato entre o adquirente do sistema e os desenvolvedores de software.
+
+
+Requisitos funcionais => O que o sistema deve fazer; Declarações dos serviços que o sistema deve fornecer; Como ele deve se comportar em determinada situações; O que ele não deve fazer;
+
+Requisitos não funcionais => Como o sistema deve fazer; Restrições ao serviços ou funções oferecidos pelo sistema; Geralmente aplicam-se ao sistema como um todo; Restrições de tempo, desempenho, normas;
+
+    Produto - 
+    Organizacional - 
+    Externos - 
