@@ -18,7 +18,7 @@ O fluxo de processo de software descreve como são organizadas as atividades met
 - Fluxo de processo paralelo => executa uma ou mais atividades em paralelo com as outras;
     Difícil de apresentar aqui por arquivo .txt kkkkk, mas a ideia é exatamente essa que uma atividade pode ser executada ao mesmo tempo que outra;
 
-Modelos de cilco de vida de software:
+Modelos de ciclo de vida de software:
 
 MODELO CASCATA - sugere uma abordagem sequencial e sistemática para o desenvolvimento de software:
     comunicação (especificação dos requisitos do cliente) -> planejamento (estimativas, cronograma) -> modelagem (análise, projeto) -> construção (código, testes) -> entrega (disponibilização)
@@ -29,13 +29,16 @@ MODELO CASCATA - sugere uma abordagem sequencial e sistemática para o desenvolv
     pressupõe que os requisitos ficarão estáveis, logo, qualquer mudança durante o curso do projeto acarretaria em problemas para a continuação do projeto;
     atrasa a redução de riscos;
 
-MODELO EM 'V' - O modelo em V começa com:
+MODELO EM 'V' - O modelo em V começa com: Uma evolução do modelo cascata, onde cada fase de desenvolvimento tem uma fase correspondente de teste. O processo forma um "V".
     Modelagem de requisitos -> projeto de arquitetura -> projeto de componente -> geração de código;
     Ao terminar o código, começa-se os testes, meio que de trás de frente;
     Teste de unidade -> Vai testar a geração de código;
     Teste de integração -> vai testar o projeto de componente;
     Teste de sistema -> testa o projeto de arquitetura;
     teste de aceitação -> testa se o sistema está de acordo com a modelagem de requisitos;
+
+MODELO RUP - Metodologia iterativa e orientada a objetos, criada pela IBM. O desenvolvimento ocorre em ciclos de iteração até a entrega final.
+MODELO RAD (Rapid application development) - Foca no desenvolvimento rápido de aplicações, com prototipagem rápida e feedback constante do usuário.
 
 MODELO INCREMENTAL - Combina os fluxos de processo linear e paralelo dos elementos; Aplica sequencias lineares de forma escalonada, à medida que o tempo vai avançando;
     incremento nº 1 -> ... -> .... -> .... -> Entrega do incremento 1
@@ -71,6 +74,11 @@ MODELO EVOLUCIONÁRIO - São iterativos, apresentam características que possibi
         Em geral, o grande argumento contra a construção do protótipo é o custo;
 
 MODELOS CONCORRENTES - possibilita a equipe de software representar elementos concorrentes e iterativos de qualquer um dos modelos de proceso já descritos;
+    diferentes atividades do desenvolvimento ocorram em paralelo.
+
+MODELO ESPIRAL - Combina elementos do modelo cascata e do modelo iterativo, priorizando gestão de riscos.
+
+PROTOTIPAÇÃO - Foca na criação de protótipos funcionais antes do desenvolvimento final. Isso permite testar ideias e obter feedback cedo.
 
 O objetivo da engenharia de requisitos é produzir um documento que especifica o sistema a ser desenvolvido satisfazendo os requisitos das partes interessadas. Geralmente apresentados em dois níveis de detalhes: alto nível para usuários finais e clientes; e baixo nível (mais detalhado) para os desenvolvedores.
 

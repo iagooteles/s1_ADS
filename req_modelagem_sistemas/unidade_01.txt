@@ -110,7 +110,6 @@ Suponha que você foi contratado para projetar um editor de documentos elaborado
 Liste pelo menos 3 requisitos funcionais e 3 requisito não-funcionais
 
     3 requisitos funcionais:
-
         Há dois tipos de usuários: usuários que editam o documento, e usuários que leem o documento, mas não podem editá-lo;
         Todos se comunicam por voz num padrão par a par;
         É possível enviar notificação para iniciar uma colaboração e ao aceitar o convite a comunicação de voz é iniciada;
