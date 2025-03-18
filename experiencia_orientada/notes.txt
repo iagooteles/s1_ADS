@@ -1,0 +1,27 @@
+///////////////////////// Arduino ////////////////////////////////
+
+No arduina a comunicação é feita através de sinais digitais, para representar esses sinais nós usamos:
+    1 sinal digital representa 5 voltz
+    High - 1
+    Low - 0
+
+Setup é executado uma única vez, quando ligamos o arduino;
+Setup serve para fazer uma execução/configuração inicial;
+
+
+s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
