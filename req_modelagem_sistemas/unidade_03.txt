@@ -30,7 +30,7 @@ Requisitos funcionais => Declarações dos serviços que o sistema deve oferecer
 
 Requisitos não-funcionais => São restrições sobre os serviços ou funções oferecidas pelo sistema. Se aplicam, frequentemente, ao sistema como um todo, em vez de às características individuais ou aos serviços;
 Requisitos não-funcionais são aqueles que não possuem relação direta com os serviços específicos fornecidos pelo sistema aos seus usuários;
-Esses requisitos não funcionais normalmente specificam ou restringem as características do sistema como um todo. Eles podem estar relacionados a propriedades emergentes do sistema, como confiabilidade, tempo de resposta e uso da memória.
+Esses requisitos não funcionais normalmente especificam ou restringem as características do sistema como um todo. Eles podem estar relacionados a propriedades emergentes do sistema, como confiabilidade, tempo de resposta e uso da memória.
 
 Requisitos não-funcionais podem ser classificados em:
 
