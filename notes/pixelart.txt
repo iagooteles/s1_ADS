@@ -1,0 +1,20 @@
+aseprite
+ver pixel art com blender...
+
+Editores de pixel art => aseprite
+
+Tamanhos mais comuns padrões do pixel art:
+16x16  => Mais recomendado para começar;
+32x32
+64x64
+
+Quanto maior, maior a qualidade do pixelart;
+=> Um exercício bom é criar 16x16, depois ir para 32x32 aumentando os detalhes, e por fim ao 64x64;
+=> Tentar fazer algumas coisas como animais em 16x16;
+
+=> Não usar muitas cores diferentes;
+
+Estudar teoria das cores;
+
+Luzes e sombras => Tentar usar 3 composições básicas da mesma cor: uma mais escura e outra mais clara; 
+=> Imaginar de onde vem o sol em tela; O lado de onde vem o sol vai ficar mais claro, o lado da sombra mais escuro;

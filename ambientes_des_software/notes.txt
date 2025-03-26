@@ -114,5 +114,14 @@ Branch feature =>
 Para que serve uma branch do git (PROVA) => 
 OBs: Registra QUEM, QUANDO e O QUE na publicação da branch;
 
+
+Alguns comandos úteis git =>
+git branch => ver em qual branch está;
+git checkout -b (nome da branch) => criar uma nova branch e mudar para ela;
+git checkout (nome da branch) => mudar para uma branch já existente;
+
+
+
+
 //////////////////////////////////  ////////////////////////////////////
 
