@@ -26,25 +26,35 @@ public class Carrinho {
     public void addProduto(Produto produto) {
         if (this.isCarrinhoFull()) {
             System.out.println("Carrinho já está cheio.");
-        } else {
-            for (int i = 0; i < this.totalCarrinho(); i++) {
-                System.out.println("aqui");
+            return;
+        }
+
+        for (int i = 0; i < produtos.length; i++) {
+            if (produtos[i] == null) {
                 produtos[i] = produto;
+                return;
             }
         }
     }
 
     public boolean isCarrinhoVazio() {
-        return this.produtos.length == 0;
+        for (Produto produto : produtos) {
+            if (produto != null) {
+                return false;
+            }
+        }
+        return true;
     }
 
     public boolean isCarrinhoFull() {
-        return this.produtos[limiteProdutos - 1] != null;
+        return this.totalCarrinho() == limiteProdutos;
     }
 
     public void mostrarInfoCarrinho() {
-        for (int i = 0; i < this.totalCarrinho(); i++) {
-            this.produtos[i].showProdutoInfo();
+        for (Produto produto : produtos) {
+            if (produto != null) {
+                produto.showProdutoInfo();
+            }
         }
     }
 }

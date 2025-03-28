@@ -18,3 +18,27 @@ Estudar teoria das cores;
 
 Luzes e sombras => Tentar usar 3 composições básicas da mesma cor: uma mais escura e outra mais clara; 
 => Imaginar de onde vem o sol em tela; O lado de onde vem o sol vai ficar mais claro, o lado da sombra mais escuro;
+
+
+
+
+Olá, meu nome é iago, sou um desenvolvedor apaixonado por tecnologia e estou me candidatando à vaga de estágio Full Stack na V360.
+
+Dificuldade em lembrar de tarefas importantes no dia a dia, especialmente para pessoas com rotinas agitadas
+
+Quantas vezes você já esqueceu de pagar uma conta, tomar um remédio ou responder um e-mail importante? Muitas pessoas enfrentam esse desafio todos os dias.
+
+Minha ideia é um aplicativo chamado 'Lembrei!', que usa notificações inteligentes para lembrar os usuários de tarefas importantes no momento certo.
+
+Um diferencial desse aplicativo é o uso de sistema usaria IA para analisar padrões de comportamento do usuário e sugerir lembretes personalizados.
+A intenção é ter um prompt simples pro usuário, o lembrete pode ser feito por texto ou por voz e o nosso backend faria o processamento analisando palavras chaves
+buscando o que deve ser lembrado, a data e horário e o veículo pelo qual ele quer ser lembrado, podendo ter opção de email, sms, wpp, etc.
+
+O nosso backend separaria as partes relevantes em mensagem, data de criação, data para o envio do lembrete e forma de envio, em um json, por exemplo;
+antes confirmar seria dado um feedback para o usuário confirmar se as informações estão corretas;
+
+Esse app poderia ser usado de diversas formas e Isso ajudaria usuários a terem mais organização e produtividade sem esforço, melhorando sua qualidade de vida.
+
+um exemplo de prompt seria: me lembre pagar a conta de luz, daqui a 3 dias, pelo whatsapp;
+
+Acredito que essa solução poderia impactar muitas pessoas e gerar novas oportunidades de negócio para a V360. Obrigado pela atenção e espero poder contribuir para a equipe!
