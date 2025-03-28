@@ -14,6 +14,7 @@ public class App {
         carrinho.addProduto(p3);
 
         carrinho.mostrarInfoCarrinho();
+        System.out.println("total: " + carrinho.totalCarrinho());
 
     }
 }

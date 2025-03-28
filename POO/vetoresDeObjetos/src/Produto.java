@@ -9,6 +9,10 @@ public class Produto {
         this.valor = valor;
     }
 
+    public String getCodigo() {
+        return this.codigo;
+    }
+
     public void showProdutoInfo() {
         System.out.println("_".repeat(30));
         System.out.println("Código do produto: " + this.codigo);
