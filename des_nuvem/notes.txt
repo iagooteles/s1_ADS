@@ -23,7 +23,7 @@ Motivação =>
 Exemplos de sucesso =>
 
 Tipos de nuvem => 
-
+      
 - Infra as a Service (IaaS): oferece máquinas de capacidade diferentes a preços variados: 
 Facilidade de uso: mais complexo que o PaaS e o SaaS;
 Flexibilidade: mais flexível, você faz as suas configurações da forma que quiser;
@@ -167,19 +167,54 @@ Serviços AWS =>
 AWS certified cloud practitioner;
 
 
+OBS: Perguntar ao prof sobre arquivos .env => eles são enviados ao amazon quando quero subir um site?;
 
 
+/////////////////////////////////// Avaliação //////////////////////////////////////////
 
 
+Criar uma máquina virtual na Nuvem (AWS ou OCI). Na VM criada instalar o Apache, colocar o mesmo para rodar e acessar sua página de teste pelo Browser. Usar o editor nano para criar uma página simples e efetuar a mudança para que o IP do EC2 mostre essa página no navegador (5,0 pontos pra quem usar AWS e 10,00 para Oracle Cloud).
+
+1 - No console, selecionar: EC2 => Executar instancia;
+
+2 - Opções da instância: 
+      Nome: Nomear instancia;
+      App: Amazon Linux aws;
+      Instancia: t2.micro => free;
+      Key pair (login): proceed without a key pair;
+      NetWork setings: Allow HTTPS / HTTP;
+      Storage: não mexer;
+      => Launch instance => Connect to instance => Connect;
+
+3 - Instalar e rodar Apache:
+      sudo yum install -y httpd   ;
+      sudo systemctl start httpd  ;
+      => Se testar com o public id deve retornar it works;
+
+4 - Editar com nano:
+      sudo su           ;
+      cd /var/www/html  ;
+      nano index.html   ;
+
+      <html><body>Meu primeiro site no EC2 </body></html>
+
+      ctrl + x => yes => enter => Para salvar as edições no nano;
 
 
+Usar o S3 para hospedar um site ou aplicação (diferente do usado em sala de aula) e permitir seu acesso a partir de uma função definida no IAM para uma máquina virtual. Baixar e configurar a aplicação para a instância do EC2 e mostrar ela funcionando no browser. (5,0 pontos).
 
 
+1 - Criar um bucket no S3; => arrastar todos os arquivos do template para o bucket;
 
+2 - Criar permissão no serviço IAM; => roles => create role => use case: EC2 => next => Procurar por 'S3' e marcar AmazonS3FullAccess; =>
+      Com o IAM criado, é possível modificar o EC2 já existente => actions => security => modify IAM role;
+      OU 
+      Pode-se criar uma nova instancia EC2;
 
-
-
-
+3 - Substituir o site anterior pelo template => 
+      sudo su
+      cd /var/www/html
+      aws s3 cp s3://'nomeDoBucket'/ . --recursive
 
 
 

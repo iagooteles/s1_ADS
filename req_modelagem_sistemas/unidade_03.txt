@@ -1,3 +1,69 @@
+//////////// Tipos de requisitos, restrições e premissas, dificuldades comuns em requisitos //////
+
+Do ponto de vista do processo de software, a engenharia de requisitos é uma ação de engenharia de software importante que se inicia durante a atividade de comunicação e continua na de modelagem. 
+
+engenharia de requisitos abrangem 7 tarefas distintas:
+- concepção - é estabelecido o entendimento básico do problema, as pessoas que querem uma solução, a natureza da solução desejada e a eficácia da comunicação e a colaboração preliminares entre os demais envolvidos e a equipe de software;
+- levantamento - Perguntar ao cliente, aos usuários e aos demais envolvidos quais são os objetivos para o sistema ou produto, o que deve ser obtido, como o sistema ou produto atende às necessidades da empresa e, por fim, como o sistema ou produto deve ser utilizado no dia a dia;
+- elaboração - A elaboração é guiada pela criação e pelo refinamento de cenários que descrevem como o usuário (e outros atores) vão interagir com o sistema. Cada cenário de usuário é analisado para extrair classes de análise – entidades do domínio de negócio visíveis para o usuário;
+- negociação - É preciso conciliar esses conflitos por meio de um processo de negociação;
+- especificação - No contexto de sistemas baseados em computador (e software), o termo especificação assume diferentes significados para diferentes pessoas. Especificação pode ser um documento por escrito, um conjunto de modelos gráficos, um modelo matemático formal, um conjunto de cenários de uso, um protótipo ou qualquer combinação dos fatores citados;
+- validação - A validação de requisitos examina a especificação para garantir que todos os requisitos de software tenham sido declarados de forma não ambígua; que as inconsistências, omissões e erros tenham sido detectados e corrigidos; e que os artefatos estejam de acordo com os padrões estabelecidos para o processo, projeto e produto;
+- gestão de requisitos - ajuda a equipe de projeto a identificar, controlar e acompanhar as necessidades e suas mudanças à medida que o projeto prossegue;
+
+
+Requisito => são as descrições dos serviços que um sistema deve operar e suas restrições;
+- Em alguns casos, um requisito é simplesmente uma declaração abstrata de alto nível de um serviço que um sistema deve oferecer ou de uma restrição a um sistema;
+- No outro extremo, é uma definição formal detalhada de uma função do sistema;
+
+▪ Uma declaração abstrata de alto nível de um serviço
+▪ Como uma restrição do sistema
+▪ Quanto uma especificação funcional matemática
+detalhada
+
+Requisitos funcionais => Declarações dos serviços que o sistema deve oferecer, do modo como o sistema deve reagir a determinadas entradas e de como deve se comportar em determinadas situações.
+    Descrevem funcionalidades e serviços do sistema;
+    Exemplos:
+        1. Um usuário deve poder fazer uma busca na lista de consultas de todas as clínicas.
+        2. O sistema deve gerar, a cada dia e para cada clínica, uma lista de pacientes que devam comparecer às consultas naquele dia.
+        3. Cada membro da equipe que utiliza o sistema deve ser identificado exclusivamente por seu número de funcionário de oito dígitos.
+
+Requisitos não-funcionais => São restrições sobre os serviços ou funções oferecidas pelo sistema. Se aplicam, frequentemente, ao sistema como um todo, em vez de às características individuais ou aos serviços;
+Requisitos não-funcionais são aqueles que não possuem relação direta com os serviços específicos fornecidos pelo sistema aos seus usuários;
+Esses requisitos não funcionais normalmente especificam ou restringem as características do sistema como um todo. Eles podem estar relacionados a propriedades emergentes do sistema, como confiabilidade, tempo de resposta e uso da memória.
+
+Requisitos não-funcionais podem ser classificados em:
+
+- Requisitos de produto: Especificam ou restringem o comportamento do software durante a execução;
+    Os exemplos incluem requisitos de desempenho, relativos à rapidez com que o sistema deve executar e de quanta memória ele precisa; requisitos de confiabilidade, que estabelecem a taxa de falha aceitável; requisitos de segurança da informação (security): e requisitos de usabilidade.
+- Requisitos organizacionais: São requisitos de sistema amplos, derivados das políticas e procedimentos nas organizações do cliente e do desenvolvedor;
+    Os exemplos incluem requisitos de processos operacionais, que definem como o sistema será utilizado; requisitos de processos de desenvolvimento, que especificam a linguagem de programação, o ambiente de desenvolvimento ou os padrões de processo a serem utilizados; e os requisitos ambientais, que especificam o ambiente operacional do sistema.
+- Requisitos externos: Esse título abrangente cobre todos os requisitos derivados de fatores externos ao sistema e seu processo de desenvolvimento. ;
+    Podem incluir requisitos regulatórios, que estabelecem o que deve ser feito para o sistema ser aprovado por uma entidade reguladora, como uma autoridade de segurança nuclear; requisitos legislativos, que devem ser seguidos para garantir que o sistema opere dentro da lei; e requisitos éticos, que garantem que o sistema será aceitável para os usuários e para o público em geral.
+
+Requisito de domínio => é um tipo de requisito que descreve as características e funcionalidades específicas de um sistema relacionadas ao domínio do problema que o software está tentando resolver; Ou seja, ele se refere a aspectos que estão diretamente ligados ao contexto de negócios, processos e regras do ambiente onde o software será utilizado.
+    Esses requisitos estão relacionados ao negócio e ao contexto específico em que o sistema será implementado, e são essenciais para garantir que o software atenda às necessidades reais do usuário e esteja alinhado com o setor ou área de atuação.
+Exemplos de requisitos de domínio:
+    Sistema bancário:
+        O sistema deve permitir a transferência de fundos entre contas.
+        Deve existir uma validação para impedir transações que ultrapassem o saldo disponível na conta.
+    Sistema de locadora de veículos:
+        O sistema deve garantir que os carros disponíveis para aluguel estejam em boas condições de funcionamento.
+        Um cliente não pode alugar mais de um veículo por vez, a não ser que tenha um histórico de bom comportamento como locatário.
+
+Características de um requisito de domínio:
+    Específico ao contexto: Refere-se diretamente ao tipo de negócio ou área em que o sistema será utilizado.
+    Regulamentado por regras de negócios: Está geralmente vinculado a regras ou leis do setor em questão, como leis financeiras, normas de segurança, etc.
+    Determinante para a entrega de valor: Esse tipo de requisito tem um impacto direto na entrega de valor do software, pois garante que ele seja útil para os usuários no seu contexto específico.
+
+Regras de negócio => Trás uma decisão ; Existem regras que regem interações; As regras são capturadas na modelagem de negócio ou no levantamento de requisitos;
+    ex: cálculo do preço de aluguel de uma cópia; lançamento; promoção;
+
+Regras de negócio trazem uma decisão; Requisitos trazem um comportamento;
+
+* Vai cair regras de negócio na prova *
+
+
 /////////////////////////////////////////////  ////////////////////////////////////////////////////////
 
 Métodos preditivos vs adaptativos

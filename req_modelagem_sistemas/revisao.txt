@@ -1,0 +1,145 @@
+////////////////////// Requisitos //////////////////////
+
+Declaração abstrata(alto nível) => Requisitos de usuário => são declarações, em uma linguagem natural somada a diagramas, dos serviços que se espera que o sistema forneça para os usuários e das limitações sob as quais ele deve operar. Esses requisitos podem variar de declarações amplas das características necessárias do sistema até descrições precisas e detalhadas da sua funcionalidade.
+
+
+Declaração detalhada(baixo nível) => Requisitos de sistema => são descrições mais detalhadas das funções, dos serviços e das restrições operacionais do sistema de software. O documento de requisitos de sistema (chamado às vezes de especificação funcional) deve definir exatamente o que deve ser implementado. Pode fazer parte do contrato entre o adquirente do sistema e os desenvolvedores de software.
+
+
+Requisitos funcionais => O que o sistema deve fazer; Declarações dos serviços que o sistema deve fornecer; Como ele deve se comportar em determinada situações; O que ele não deve fazer;
+
+Requisitos não funcionais => Como o sistema deve fazer; Restrições ao serviços ou funções oferecidos pelo sistema; Geralmente aplicam-se ao sistema como um todo; Restrições de tempo, desempenho, normas;
+
+    Produto - 
+    Organizacional - 
+    Externos - 
+
+
+
+////////////////////////// Metodologia Ágil ////////////////////////
+
+Métodos preditivos - 
+    - Enfatiza o planejamento de ações em detalhes;
+    - A equipe pode saber que funcionalidade e tarefas farão nas etapas seguintes do processo de desenvolvimento;
+    - Mudanças podem obrigar a refazer todo o planejamento;
+
+Métodos adaptativos - 
+    - Enfatiza as mudanças e suas consequentes adaptações;
+    - A equipe não sabe o que irá fazer a médio e longo prazo;
+    - Problemas são encarados à medida que eles chegam;
+
+Aliança ágil => Assinaram o manifesto ágil;
+
+Os 12 princípios são: 
+- Valor, 
+- Flexibilidade, 
+- Frequência, 
+- União, 
+- Motivação, 
+- Comunicação, 
+- Funcionalidade, 
+- Sustentabilidade, 
+- Revisão, 
+- Simplicidade, 
+- Organização, 
+- Autoavaliação.
+
+
+Manifesto ágil =>
+- Satisfação do cliente;
+- Ser receptivo a alterações;
+- Efetuar entregas frequentes de produtos;
+- Colaboração diaria;
+- Motifação individual;
+- Comunicação ativa;
+- Corresponder a medida primária de progresso;
+- Promover o desenvolvimento sustentável;
+- Atenção frequente na excelência;
+- Simplicidade é essencial;
+- Equipe auto-organizadas;
+- Reflexão regular de melhoria;
+
+Valores:
+- Indivíduos e interações mais que processos e ferramentas;
+- Software funcionando mais que documentação abrangente;
+- Colaboração com o cliente mais que negociação de contratos;
+- Responder à mudança mais que seguir um plano;
+Apesar de existir valor nos itens da direira, o manifesto ágil valoriza mais os itens da esquerda;
+
+Exemplos: SCRUM, XP;
+
+características gerais: 
+- Ciclo de vida iterativo e incremental;
+- Mais adequadas a pequenas equipes;
+- Comunicação constante de informal;
+- Planejamento de curto prazo;
+- Práticas devem ser seguidas de forma rigorosa;
+
+SCRUM => 
+- ênfase no gerenciamento de projetos;
+- Times auto-gerenciaveis;
+- Medição diária de progresso;
+- Evita seguir passos pré-definidos;
+- Reuniões diárias;
+- Demonstração do sistema ao final de cada iteração;
+
+O trabalho é dividido em ciclos, chamados de sprint;
+Equipe: PO, Scrum master, Desenvolvedores;
+
+Product Owner (PO) => É o representando do stakeholders e responsável por definir e priorizar os requisitos do produto; responsável por manter o backlog do produto atualizado; fornece feedback sobre o trabalho concluido;
+
+Scrum master => Responsável por garantir que o Scrum seja compreendido e seguido; Removedor de impedimentos; facilitador; implementa princípios; Responsável pelo fluxo da SCRUM;
+
+desenvolvedores => Responsaveis por desenvolver o produto; São auto organizados, planejam, executam e entregam as funcionalidades do produto; trabalham com o PO para entender os requisitos e como o SCRUM master para que o SCRUM seja seguido devidamente; responsáveis por tomar decisões técnicas e garantir a qualidade do produto;
+
+Product Backlog => USER STORIES;
+Ator - usuário interessado naquela funcionalidade;
+Ação - O que o ator quer fazer;
+Funcionalidade - O que o ator espera que aconteça ao realizar a ação;
+
+Sprint planning => Reunião de no máximo 4 horas; revisar o product backlog; determinar o objetivo da sprint; selecionar parte do product backlog; priorizar e estimar; o resultado final é o sprint backlog;
+
+Sprint Backlog => As tarefas não são atribuídas aos membros do time, cada membro escolhe sua tarefa diariamente; Qualquer membro do time pode adicionar ou remover itens;
+
+SPRINT => período de tempo entre 2 a 4 semanas; todas as sprints devem possuir uma extrutura exatamente igual; o time define a organização necessária para o trabalho;
+
+Daylies => Cada membro deve responder => o que você fez na ultima reunião diária? O que vai fazer até a próxima? Existe algum problema que impeça de realizar as atividades?
+
+Sprint Review => Objetivo de mostrar o que foi produzido na sprint;
+
+Sprint retrospective => Enumerar o que funcionou e o que não funcionou na sprint;
+
+XP =>
+- Ênfase em práticas de desenvolvimento;
+- Ênfase na colaboração;
+- Criação de software o mais rapidamente possível;
+- Valores: Comunicação, feedback, simplicidade e coragem;
+- 12 práticas-chave;
+
+procurar um resumo do XP no gepeto
+
+KANBAN => É uma representação visual, com quadro e cartões, pode e deve ser utilizado com outras metodologias; Auxilia e otimiza o fluxo de trabalho;
+
+1) Em poucas palavras, o que são metodologias ágeis?
+    Metodologias ágeis são abordagens flexíveis e iterativas para o desenvolvimento de software, focadas na colaboração contínua, entregas incrementais e adaptação a mudanças. Elas seguem os princípios do Manifesto Ágil (2001), priorizando indivíduos, interações, software funcional e resposta rápida a mudanças.
+
+2) Quais são as diferenças entre metodologia ágeis e metodologias tradicionais de desenvolvimento?
+    As metodologias ágeis são ideais para projetos dinâmicos, enquanto as tradicionais funcionam melhor quando os requisitos são bem definidos desde o início.
+
+3) Escolha uma metodologia ágil, discorra sobre ela e dê um exemplo de aplicação.
+    Scrum é uma das metodologias ágeis mais populares, focada na entrega incremental e na organização do trabalho em sprints (ciclos curtos de desenvolvimento, geralmente de 1 a 4 semanas). A equipe trabalha de forma colaborativa e ajusta o planejamento conforme necessário.
+
+
+/////////////////// Requisitos ///////////////////////
+
+Requisitos funcionais => Diz ao software o que ele deve fazer; São essenciais para o funcionamento do software; Descrevem as funcionalidades que o sistema deve ter; definem o que o sistema deve fazer para atender às necessidades do usuário.
+EX:
+    Um usuário deve poder criar uma conta e fazer login.
+    O sistema deve permitir que um cliente adicione produtos ao carrinho e finalize a compra.
+    Um funcionário deve conseguir gerar relatórios mensais de vendas.
+
+Requisitos não-funcionais => Diz ao software/equipe como ele deve fazer; Não estão relacionados diretamente às funcionalidades do sistema, mas sim à forma como ele deve operar; Eles impactam a usabilidade, desempenho, segurança e confiabilidade do software.
+
+    - Produto: Eles determinam como o sistema deve se comportar em termos de eficiência e usabilidade, foco em melhorar a experiência do usuário. EX: Tempo de resposta; responsividade;
+    - Organizacionais: São requisitos internos da equipe ou da empresa, definindo padrões técnicos e processos de desenvolvimento. EX: Linguagem de programação; Metodologia utilizada; banco de dados;
+    - Externos: São requisitos impostos por leis, normas ou políticas externas que o sistema deve obedecer. EX: LGPD; Leis externas relevantes ao sistema; Políticas de cookies e privacidade;
