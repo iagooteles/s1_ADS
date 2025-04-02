@@ -23,7 +23,7 @@ Motivação =>
 Exemplos de sucesso =>
 
 Tipos de nuvem => 
-
+      
 - Infra as a Service (IaaS): oferece máquinas de capacidade diferentes a preços variados: 
 Facilidade de uso: mais complexo que o PaaS e o SaaS;
 Flexibilidade: mais flexível, você faz as suas configurações da forma que quiser;
