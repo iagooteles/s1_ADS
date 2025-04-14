@@ -7,4 +7,39 @@ HTTP => HyperText Transfer Protocol;
 Comunicação Síncrona => 
 Comunicação Assíncrona =>
 
-NODE => Engine criada que permite executar o javascript fora do navegador;
+RODAR NODEMON na unifor =>
+npx nodemon index.js
+
+CONFIGURAÇÃO PARA SUBIR COM NODE (com npx) => 
+npx nodemon ......
+
+Execute os passos anteriores configurando o EC, S3 bucket e a função IAM;
+O S3 bucket pode conter o arquivo com as rotas, por exemplo;
+
+- Libere a porta que irá rodar a aplicação Node.js (no meu exemplo será a porta 3000). Na sua instância vá na aba de segurança e clique no grupo de segurança existente.
+    => No EC2 edite as regras de entrada => Grupos de segurança => "Editar regras de entrada" => Adicione regra => Tipo: 'TCP personalizado' =>  Em intervalo de portas libere a porta '3000' => Origem: 'qualquer local IPV4'    
+
+- Conectar na instancia 
+- Digite o seguinte comando para ter privilégios de edição: 
+    sudo su
+- copie o arquivo (index.js) do bucket que vc criou (na pasta correspondente). Use o comando abaixo: (o amarelo abaixo é o meu exemplo. Substitua pelo seu)
+aws s3 cp s3://"nomedobucket"/ . --recursive
+
+- Instalar o servidor node:
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+
+- Ative o nvm digitando o seguinte na linha de comando:
+    . ~/.nvm/nvm.sh
+
+- . Use o nvm para instalar a versão mais recente do Node.js digitando o seguinte na linha de comando:
+    nvm install --lts
+
+- installar o express ou bibliotecas correspondentes:
+    npm install express --save
+
+- Rode a aplicação e teste no Browser:
+    node index.js
+    'ipPúblico':3000 => O ip público do EC2 e a porta de entrada da aplicação;
+
+
+
