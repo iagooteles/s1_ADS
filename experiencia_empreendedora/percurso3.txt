@@ -1,10 +1,13 @@
 ///////////////////////////////////////////////////////////
 
-ver videos;
+ver video aulas ;
+
+1. Proteção da propriedade intelectual
 
 
-1. Proteção da propriedade intelectual;
+
+
 
 2. Análise de viabilidade, modelagem de receita e estruturação de custos;
 
-
+Continuar daqui ...
