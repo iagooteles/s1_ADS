@@ -1,0 +1,33 @@
+1. Ergonomia de produtos 
+
+Ergonomia é a disciplina que estuda a interação dos seres humanos com os objetos e ambientes nos quais eles atuam.
+
+
+2. Componentes de hardware: funções e utilizações
+
+
+
+3. Experiência do usuário (ux) em projetos de soluções de hardware
+
+
+
+4. Avaliação da interação de protótipos físicos
+
+
+Exercícios => 
+
+Em projeto de produtos, é a representação volumétrica do produto em escala real, independente do nível de fidelidade, que pode ser feito de madeira, resina, isopor, etc.
+    Mockup
+
+Qual das opções a seguir apresenta uma característica ergonômica de um produto interativo?
+Fonte: https://www.asus.com/br/Mobile/Phones/All-series/ZenFone-6/. Acesso em 26 abr. 2021.
+    O ZenFone 6 possui leitor de digital posicionado na traseira para facilitar a identificação de até 5 dedos;
+
+Antes de produzir o novo smartphone em grande escala, uma empresa de TI produziu uma versão piloto do produto para testar o processo de fabricação e aproveitou para realizar testes com possíveis usuários utilizando o piloto. O objetivo da avaliação foi antecipar o impacto do novo design sobre a experiência do usuário.
+I - A avaliação buscou avaliar as emoções provocadas pelo produto no usuário.
+II - A avaliação realizada foi do tipo empírica.
+III - A avaliação realizada foi do tipo formativa.
+    Apenas II e III são verdadeiras.
+
+Qual das opções, a seguir, apresenta o emprego do princípio ergonômico de tolerância ao erro no que se refere à interação com smartphones?
+    Sensor de proximidade, que bloqueia a tela enquanto a pessoa está em uma ligação.

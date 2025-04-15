@@ -1,16 +1,108 @@
 /////////////////////// /////////////////////// ///////////////////////
 
-Ver Vídeos;
-
 1. Processo de avaliação de interfaces
 
+Ciclo de vida em estrela :
+- Análise de tarefas, usuários e funções: 
+- Especificações de requisitos:
+- projeto conceitual: 
+- prototipação:
+- implementação:
+- avaliação:
 
-2.
+Outro ponto interessante desse modelo é que, sendo uma estrela, não há um ponto inicial fixo, sendo assim, o designer pode escolher por onde começar a depender da situação-problema que lhe seja apresentada, contanto que finalize com a avaliação
+
+Objetivos da avaliação em IHC: 
+
+De forma resumida, a avaliação em IHC deve ter como objetivo verificar:
+• Se o produto criado e a sua interface digital apresentam-se de acordo com os requisitos do sistema;
+• Se as necessidades dos usuários estão satisfeitas;
+• Se há problemas em relação à qualidade da interface
+
+Para se determinar o que deve ser avaliado, deve-se levar em conta os objetivos e a justificativa da avaliação, o que requer entender quem são os interessados (stakeholders) e quais as suas motivações.
 
 
-3.
+2. Avaliação por inspeção
+
+as avaliações por inspeção são avaliações do tipo analíticas e preditivas, ou seja, são realizadas por projetistas com o intuito de detectar e antecipar problemas que poderiam impactar negativamente os usuários.
+
+três exemplos de técnicas de inspeção que se utilizam de listas de verificação: inspeção de conformidade às normas e inspeção preventiva de erros:
+
+- Inspeção de conformidade às normas
+    Podem ser usados para a criação de listas de verificação: normas e padrões internacionais, códigos de boas práticas, regulamentos, contratos, documentos de requisitos de softwares, etc.
+
+Ao se usar uma lista de verificação, o projetista deve responder se:
+• a interface se adequa ao quesito
+• a interface não se adequa ao quesito;
+• o quesito não se aplica à interface;
+
+• Taxa de aplicabilidade: porcentagem de questões que se aplicam à interface estudada, ou seja, a questão não tem como ser avaliada na interface em questão. Isso é diferente da interface não atender a determinada questão, pois seria então uma não aderência.
+• Taxa de aderência: porcentagem de requisitos aplicáveis atendidas pela interface estudada. Sendo assim, deve-se ter em mente a taxa de aplicabilidade para se calcular a taxa de aderência
 
 
-4.
+- Inspeção preventiva de erros
 
-Fazer exercícios;
+É uma técnica criada para ser aplicada a um conjunto específico de sistemas, os chamados sistemas críticos, que possuem como requisitos a atender a atividades em tempo real. Como o sistema de controle de sinais de trânsito, controle aéreo, controle de usinas nucleares e outros sistemas que causariam catástrofes, caso ocorresse algum tipo de erro ou problema, incluindo os de IHC.
+
+Para cada erro ou desvio possível de ser realizado pelo usuário, deve-se determinar:
+• A causa do erro;
+• A consequência do erro;
+• A probabilidade de ocorrer;
+• As medidas tomadas no ambiente para impedir que o erro ocorra;
+• A soluções e revisões do sistema necessárias para resolver o problema
+
+
+- Exemplos de listas de inspeção
+A ErgoList é uma lista de verificação on-line que se baseia nos critérios ergonômicos da ISO 9241 para interfaces humano-computador feita por pesquisadores do LabIUtil, Laboratório de Utilizabilidade
+A ErgoList teve a sua última atualização em 2011 e não apresenta critérios ergonômicos para a interação mobile. Mesmo assim, é um ótimo exercício de aplicação de teoria e prática para estudantes e projetistas iniciantes em IHC.
+
+
+3. Avaliação heurística
+
+A avaliação heurística é uma técnica de avaliação do tipo analítica ou preditiva, na qual os avaliadores analisam o produto interativo com o intuito de descobrir possíveis problemas de ergonomia.
+
+10 Heurísticas de Nielsen:
+• Visibilidade do estado do sistema;
+• Correspondência entre sistema e o mundo real;
+• Controle e liberdade do usuário;
+• Consistência e padronização;
+• Reconhecimento em vez de memorização;
+• Flexibilidade e eficiência de uso;
+• Projeto estético e minimalista;
+• Prevenção de erros;
+• Ajuda os usuários a reconhecerem, diagnosticarem e se recuperarem de erros;
+• Ajuda e documentação do sistema
+
+
+4. Avaliação de design visual e avaliação com usuários
+
+
+
+
+
+Exercício de fixação =>
+
+Sobre avaliação de design visual, marque verdadeiro (V) ou falso (falso), a seguir:
+(  ) Utilizar o manual da marca e guias de estilo de uma empresa para construir a interface gráfica de sistemas e aplicativos é uma forma de dar consistência e identidade ao produto interativo em relação aos demais produtos da empresa.
+(  ) Manuais de marca são documentos que apresentam os atributos de design dos elementos da interface, como títulos, links, botões, menus, cabeçalho, formulários, parágrafos, ícones, campos de busca, etc.
+(  ) Os guias de estilo servem para o levantamento de requisitos das interfaces de softwares, mas não são adequados para serem usados na avaliação da interface.
+(  ) Inspecionar a interface em relação ao seu design visual, pode significar avaliar a aplicação dos princípios fundamentais do design, como contraste, repetição, proximidade e alinhamento.
+(  ) Os guias de estilo de um produto interativo devem levar em consideração elementos gráficos e elementos de interface, utilizando-se do guia de identidade visual da empresa.
+
+    V - F - F - V - V
+
+
+Qual das opções apresenta um típico problema de Ergonomia em IHC?
+    O usuário é obrigado a se esforçar para conseguir ler os textos da interface.
+
+
+Qual das opções é uma técnica de avaliação relativa ao método da observação?
+    Ensaios de interface.
+
+
+Analise as afirmações, a seguir, sobre avaliações de IHC:
+I - O teste de usabilidade é uma técnica de avaliação de IHC que usa do método empírico e que visa encontrar problemas de interação e de interface em condições de uso real.
+PORQUE
+II - Os testes de usabilidade tem como vantagem utilizar os integrantes da equipe do projeto como avaliadores.
+Agora, marque a alternativa correta.
+    Apenas I é verdadeira.
