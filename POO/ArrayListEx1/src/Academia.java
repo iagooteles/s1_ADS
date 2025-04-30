@@ -15,8 +15,8 @@ public class Academia {
         this.clientes.add(cliente);
     }
 
-    public void removerCliente(int id) {
-        this.clientes.remove(id);
+    public void removerClientePorID(int index) {
+        this.clientes.remove(index);
     }
 
     public void quantidadeClientes() {
@@ -32,11 +32,7 @@ public class Academia {
     }
     
     public void removerClientesAntes1990() {
-        for (var cliente: clientes) {
-            if (cliente.getAnoNasc() < 1990) {
-                clientes.remove(cliente.getId());
-            }
-        }
+        this.clientes.removeIf(el -> el.getAnoNasc() < 2000);
     }
 
     public void listarInfoPorID(int id) {
@@ -45,5 +41,11 @@ public class Academia {
         System.out.println("Nome: " + cliente.getNome());
         System.out.println("Ano de nascimento: " + cliente.getAnoNasc());
         System.out.println("Telefone: " + cliente.getTelefone());
+    }
+
+    public void listarTodosClientes() {
+        for (var cliente: clientes) {
+            System.out.println("Nome: " + cliente.getNome() + " | ID: " + cliente.getId() + " | Ano de Nascimento: " + cliente.getAnoNasc());
+        }
     }
 }
