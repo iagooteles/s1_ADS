@@ -98,3 +98,19 @@ Manifesto ágil são dicas para se desenvolver uma metodologia ágil;
     colaboração com o cliente MAIS QUE negociação de contratos;
     responder à mudanças MAIS QUE seguir um plano;
 Ou seja, apesar de existir valores nos itens à direita, valorizamos mais os itens da esquerda;
+
+_________________________________________________________________________________________________________
+
+** DIAGRAMA de Sequência **
+
+
+Diagrama de comunicação; 
+Diagrama de interação geral;
+Diagrama de tempo;
+
+
+fazer atividades de modelagem;
+Visual paradigma;
+gazer a partir do template;
+do item 5.3 para baixo pode excluir;
+avaliações => Entrega Requisito parte 1

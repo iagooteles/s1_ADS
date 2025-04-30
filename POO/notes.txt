@@ -1,4 +1,4 @@
-/////////////////// AULA 2 ////////////////////
+/////////////////// ////////////////////
 
 Um objeto se origina de uma classe;
 
@@ -17,5 +17,39 @@ Vantagens do POO:
 - Manutenção
 - Expansão
 
+////////////////////////////////////////
 
-Prova POO Dia 18 - Terça
+ArrayList => 
+
+lembrar de importar o pacote.
+
+import java.utils.ArrayList;
+
+public Arraylist<String> nomes = new ArrayList<>();
+
+public class Pessoa {
+    public ArrayList<String> nomes;
+
+    public Pessoa() {
+        this.nomes = new ArrayList<>();
+    }
+}
+
+nomes.get(i) => Pegar um em específico;
+nomes.add("nome") => Adicionar nome;
+nomes.size() => Retornar o tamanho do ArrayList;
+nomes.clear(); => Limpa o ArrayList;
+
+
+Herança => 
+
+public class Pessoa {
+    public String cpf;
+}
+
+public class Professor extends Pessoa {
+
+    public Professor(String cpf) {
+        super(cpf);
+    }
+}
