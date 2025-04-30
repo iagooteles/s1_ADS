@@ -220,3 +220,30 @@ Após completar todos os passos, verifique se:
 2. A branch main contém o arquivo github-ci.yml
 3. Existe uma tag v1.0.0 no repositório
 4. Existe uma release v1.0.0 no repositório
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+SCRUM =>
+- PO (Product Owner):
+- Scrum Master:
+- Devs:
+
+
+- Dailys:
+- Plannings:
+- Reviews:
+- Retrôs:
+
+Sprint => 
+
+Código bem escrito => 
+- Clareza;
+- Manutenabilidade;
+- Documentação;
+- Bem testado;
+- Refatoração;
+- Extensibilidade;
+- Eficiência;
+
+.
