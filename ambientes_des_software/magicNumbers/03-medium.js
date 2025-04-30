@@ -4,6 +4,8 @@
  * substituindo todos os números mágicos por constantes significativas.
  */
 
+// DONE
+
 function calcularPrecoFinal(preco, quantidade) {
   let desconto = 0;
 
