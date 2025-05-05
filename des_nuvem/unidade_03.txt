@@ -1,0 +1,4 @@
+/////////////// MicroServiços ////////////////////////////
+
+MicroServiços => Estilo ou padrão arquitetural;
+
