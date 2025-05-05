@@ -1,0 +1,162 @@
+////////////// ENTREVISTA TECNICA AVANTI /////////////////////
+
+Curso da ADA Tech desenvolvimento WEB com JAVA => Com mais de 300 horas e certificado, nivel nacional.
+
+Na OSF digital tive a oportunidade de trabalhar com um time global, usando inglês diariamente,
+Utilizavamos ferramentas como JIRA, Slack, 
+SCRUM todas as semanas, daylies com meu mentor;
+
+
+
+REVISAR O PROJETO;
+
+
+SOLID => 
+Single Responsability => 
+Open-Closed =>
+Liskov Substitution =>
+Interface Segregation =>
+Dependency Inversion =>
+
+
+Meus estudos mais recentes => AWS, C# com unity;
+Github / 
+
+Estudar mais sobre React e VTEX;
+
+////// VTEX ///////
+
+É uma plataforma de Ecommerce SaaS que permite a criação de lojas virtuais;
+
+Existem duas principais versões: 
+- VTEX Legacy: Utiliza HTML, CSS, JavaScript e jQuery diretamente no CMS da plataforma.
+    A customização é feita em arquivos .json, .js, .css, .html dentro do painel da loja.
+    Ainda muito usado, especialmente em projetos antigos.
+- VTEX IO: Framework moderno baseado em React e TypeScript.
+    Utiliza o VTEX Toolbelt (CLI) para deploy, testes e desenvolvimento local.
+    Trabalha com blocos (blocks.json) e schemas configuráveis.
+    Uso de Store Framework: permite configurar vitrines e componentes com pouca ou nenhuma programação.
+
+
+Ferramentas:
+VTEX IO CLI: ferramenta para rodar projetos localmente e fazer deploy.
+React (com VTEX IO): usado na criação de componentes personalizados.
+GraphQL: utilizado para consultas de dados na plataforma.
+Node.js: em algumas customizações e integrações.
+CMS VTEX: utilizado principalmente no Legacy para editar páginas, banners, menus, etc.
+
+
+OBS:
+Blocos e Schemas: em VTEX IO, as páginas são formadas por blocos configuráveis declarados em JSON.
+
+
+Perguntas:
+
+////// Sobre meu Código do desafio /////
+
+A ideia do desafio da Landing Page era deixar o código mais modular, quis passar uma ideia de componentização assim como é feito no React, deixando o código mais modular, mais fácil de se fazer manutenção, além de reutilizável, até gerei uma página example.html para mostrar o quão fácil seria montar uma página utilizando essa ideia de componentes;
+Então eu coloquei o HTML em arquivos externos à minha página .html principal e criei Loaders que teriam essa responsabilidade de injetar o HTML no código - TODO: VERIFICAR SE INJETAR HTML É O TERMO CORRETO - ;
+
+O Segundo projeto foi mais simples, já que se poderia usar React eu aproveitei a componentização...
+Gerei um useContext para facilitar - TODO: estudar o useContext e seus usos - 
+
+
+////// Simulações //////
+
+CSS Handles => São classes CSS predefinidas expostas pelos blocos e componentes VTEX IO. Eles funcionam como "ganchos" (handles = alças) para que você consiga aplicar estilos customizados sem alterar a estrutura do componente.;
+    CSS Handles são a maneira oficial da VTEX IO permitir que você estilize seus componentes de forma modular, segura e limpa.
+
+
+    📌 Exemplo prático:
+    Imagine que você tem um componente product-summary e quer mudar a cor do nome do produto.
+
+    json
+    {
+    "product-summary": {
+        "props": {
+        "handles": ["customProductName"]
+        }
+    }
+    }
+    No seu CSS:
+
+    css
+    .customProductName {
+    color: red;
+    font-weight: bold;
+    }
+
+    Você estará estilizando o nome do produto usando o handle exposto pelo componente.
+
+    📁 Onde escrever os estilos?
+    Você cria um arquivo CSS no seu app, normalmente:
+    /styles/yourStyles.css
+
+    E o importa no manifest.json com:
+    json
+    "styles": "styles/yourStyles.css"
+
+
+1. Você já trabalhou com React? O que é um componente em React e qual a diferença entre componentes funcionais e de classe?
+
+Sim, já trabalhei com React em projetos pessoais e acadêmicos. Um componente é uma função ou classe que retorna uma interface de usuário (UI). A principal diferença é que componentes de classe usam this e ciclos de vida como componentDidMount, enquanto os funcionais são mais simples e hoje, com hooks como useState e useEffect, podem fazer tudo que uma classe faz, de forma mais enxuta.
+
+
+
+2. Por que a performance do site é tão importante em e-commerce? Como você melhoraria o carregamento de uma página?
+
+A performance é crucial porque impacta diretamente na conversão de vendas e na experiência do usuário. Se um site demora a carregar, o cliente pode desistir da compra. Para melhorar o carregamento, usaria técnicas como lazy loading de imagens, minificação de arquivos, otimização de fontes e uso de cache. Em VTEX, é importante também usar corretamente os blocos e evitar sobrecarregar as páginas com muitos scripts desnecessários.
+
+
+
+3. O que são Props e State em React?
+
+Props são dados passados de um componente pai para um filho, como parâmetros. Já o state é o estado interno do componente, controlado por ele mesmo. Por exemplo, posso passar via props o nome de um produto e controlar no state se ele está em destaque ou não.
+
+
+
+4. Você conhece o VTEX IO? Como ele organiza o layout da loja?
+
+Sim, o VTEX IO usa o conceito de blocos para montar o layout da loja. Cada seção da página é um bloco, que pode ser configurado no store.theme. Os blocos podem ser nativos ou personalizados, e a estrutura do site é declarada em JSON ou no formato blocks.json via React, com o uso de CSS Handles para customização visual.
+
+
+
+5. O que é GraphQL e como ele se diferencia do REST?
+
+O GraphQL é uma linguagem de query para APIs que permite ao cliente pedir exatamente os dados que precisa. Diferente do REST, que tem endpoints fixos, o GraphQL centraliza em um único endpoint e o cliente especifica os campos que quer. Isso economiza dados e melhora a performance.
+
+
+
+6. Como adicionar um banner promocional em uma página da VTEX?
+
+Em um projeto VTEX IO, criaria um bloco com o tipo image ou rich-text, configuraria as props no JSON, como src, href, alt, e colocaria esse bloco na página desejada via a declaração de store.home ou outro template no blocks.json.
+
+
+
+7. O que é CSS Handles e como ele é usado na VTEX?
+
+CSS Handles são nomes de classes pré-definidas nos componentes da VTEX IO. Podemos sobrescrevê-las nos nossos arquivos CSS para customizar a aparência sem alterar a lógica do componente. É uma forma de aplicar estilo de maneira controlada.
+
+
+
+________________________________________________________________________________________________________________________________________
+Parte 2 – Respostas Comportamentais
+1. Por que você quer fazer parte da nossa empresa?
+
+Acredito que a empresa tem uma forte atuação no mercado digital e trabalhar com VTEX é uma ótima oportunidade de aprender na prática como grandes e-commerces funcionam. Quero crescer com uma equipe experiente e contribuir com meu aprendizado em front-end e minha vontade de evoluir.
+
+2. Como você lida com situações em que não sabe como resolver um problema técnico?
+
+Primeiro, tento investigar por conta própria, usando documentação oficial e fontes confiáveis. Caso não resolva, peço ajuda ao time, explicando o que já tentei. Acredito que saber quando pedir ajuda é essencial para não travar o andamento do projeto.
+
+3. Já trabalhou em equipe? Como foi a experiência?
+
+Sim, já trabalhei em equipe em projetos acadêmicos e pessoais. Gosto de colaborar e acho importante dividir tarefas de forma clara e manter a comunicação aberta. Sempre que posso, tento ajudar outros membros com o que sei.
+
+4. Me fale de um projeto pessoal ou acadêmico que te deixou orgulhoso.
+
+Um projeto que me marcou foi um sistema de aluguel de veículos que criei usando Java e arquivos para persistência. Organizei todo o CRUD, controle de locação e regras de negócio. Foi desafiador, mas aprendi muito sobre lógica, organização de código e boas práticas.
+
+5. Se você estivesse com prazo apertado e encontrasse um bug inesperado, o que faria?
+
+Avaliaria a gravidade do bug e tentaria resolvê-lo rapidamente. Caso não consiga sozinho, comunicaria o time e sugeriria uma solução provisória ou ajuste no escopo, sempre pensando no impacto e em manter a entrega alinhada com a prioridade do projeto.

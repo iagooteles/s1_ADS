@@ -4,18 +4,14 @@
  * cada uma com responsabilidade única.
  */
 
+// 
+
 async function processarPagamento(dadosPagamento) {
   // Validação
-  if (!dadosPagamento.valor || dadosPagamento.valor <= 0) {
-    return { sucesso: false, mensagem: "Valor inválido" };
-  }
+  const validacaoPagamento = validarPagamento(dadosPagamento);
 
-  if (
-    !dadosPagamento.cartao ||
-    !dadosPagamento.cartao.numero ||
-    !dadosPagamento.cartao.cvv
-  ) {
-    return { sucesso: false, mensagem: "Dados do cartão inválidos" };
+  if (!validacaoPagamento.sucesso) {
+    return validacaoPagamento;
   }
 
   // Formatação do cartão
@@ -23,7 +19,7 @@ async function processarPagamento(dadosPagamento) {
     /\s+/g,
     ""
   );
-  
+
   if (!/^\d{16}$/.test(numeroCartaoFormatado)) {
     return { sucesso: false, mensagem: "Número de cartão inválido" };
   }
@@ -79,4 +75,36 @@ async function processarPagamento(dadosPagamento) {
     console.error("Erro no processamento:", erro);
     return { sucesso: false, mensagem: "Erro ao processar pagamento" };
   }
+}
+
+function validarPagamento(dadosPagamento) {
+  const validacaoValor = validarValorDaCompra(dadosPagamento);
+  if (!validacaoValor.sucesso) {
+    return validacaoValor;
+  }
+
+  const validarCartao = validarCartao(dadosPagamento);
+  if (!validacaoValor.sucesso) {
+    return validarCartao;
+  }
+  
+  return { sucesso: true, mensagem: ""};
+}
+
+function validarCartao(dadosPagamento) {
+  if (!dadosPagamento.cartao || !dadosPagamento.cartao.numero || !dadosPagamento.cartao.cvv) {
+    return { sucesso: false, mensagem: "Dados do cartão inválidos" };
+  }
+  return { sucesso: true, mensagem: "Dados do cartão OK" };
+}
+
+function validarValorDaCompra(dadosPagamento) {
+  const existeValor = !dadosPagamento.valor;
+  const valorInvalido = dadosPagamento.valor <= 0;
+
+  if (existeValor || valorInvalido) {
+    return { sucesso: false, mensagem: "Valor inválido" };
+  }
+
+  return { sucesso: true, mensagem: "Valor Válido" };
 }

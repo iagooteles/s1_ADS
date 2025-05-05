@@ -4,5 +4,3 @@
 
 - Este repositório se tornará privado ao fim do semestre;
 
-/////////////////////////////// Entrevista Avanti ///////////////////////////////////
-
