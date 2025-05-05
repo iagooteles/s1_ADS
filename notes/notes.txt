@@ -62,6 +62,90 @@ Gerei um useContext para facilitar - TODO: estudar o useContext e seus usos -
 
 ////// Simulações //////
 
+React => Biblioteca Front-end baseada em componentes reutilizáveis;
+JSX => Sintaxe que permite escrever HTML dentro do javascript;
+Hooks => Funções que permitem usar state e ciclo de vida em componentes funcionais (useState, useEffect, etc).
+Componentes => Funções ou classes que retornam elementos React. Podem ser reutilizados em toda a aplicação.
+Diferença entre useEffect(() => {...}) e useEffect(() => {...}, [])?
+    Sem array de dependências: roda em toda renderização
+    Com array vazio []: roda uma vez, ao montar
+
+Como lidar com eventos em React?
+<button onClick={() => alert('clicado')}>Clique</button>
+
+Como renderizar listas?
+{items.map(item => <li key={item.id}>{item.nome}</li>)}
+Qual a importância da key em listas?
+A key ajuda o React a identificar quais itens mudaram, melhorando a performance da renderização.
+Quando lidando com map e listas e suas renderizações, usar key.
+
+Você conhece o Virtual DOM?
+    Sim. É uma representação em memória do DOM real. O React usa isso para fazer atualizações mais eficientes.
+
+
+O que é Context API?
+A Context API é uma ferramenta do React para compartilhar dados entre componentes sem precisar passar props manualmente por todos os níveis da árvore de componentes.
+Quando muitos componentes precisam acessar os mesmos dados, como tema (claro/escuro), idioma, autenticação do usuário, etc.
+
+
+Como funciona o React Router?
+O React Router permite criar navegação entre páginas em aplicações React SPA (Single Page Application).
+
+EX:
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+import Home from './Home';
+import Sobre from './Sobre';
+
+function App() {
+  return (
+    <BrowserRouter>
+      <nav>
+        <Link to="/">Início</Link>
+        <Link to="/sobre">Sobre</Link>
+      </nav>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/sobre" element={<Sobre />} />
+      </Routes>
+    </BrowserRouter>
+  );
+}
+
+Como consumir APIs com fetch ou axios?
+Você pode usar o fetch (nativo) ou o axios (biblioteca externa) dentro do useEffect para fazer chamadas a APIs.
+
+EX:
+import { useEffect, useState } from "react";
+
+function App() {
+  const [posts, setPosts] = useState([]);
+
+  useEffect(() => {
+    fetch("https://jsonplaceholder.typicode.com/posts")
+      .then((res) => res.json())
+      .then((data) => setPosts(data));
+  }, []);
+
+  return <ul>{posts.map(p => <li key={p.id}>{p.title}</li>)}</ul>;
+}
+
+
+
+GraphQL => é uma linguagem de consulta para APIs criada pelo Facebook. Ele permite que o cliente especifique exatamente quais dados precisa, evitando overfetching (dados demais) ou underfetching (dados de menos), comuns em APIs REST.
+
+EX:
+{
+  user(id: 1) {
+    name
+    posts {
+      title
+    }
+  }
+}
+
+OBS: Eu uso o Hygraph para meu portfólio, ele tem um esquema bem parecido com GraphQL;
+
+
 CSS Handles => São classes CSS predefinidas expostas pelos blocos e componentes VTEX IO. Eles funcionam como "ganchos" (handles = alças) para que você consiga aplicar estilos customizados sem alterar a estrutura do componente.;
     CSS Handles são a maneira oficial da VTEX IO permitir que você estilize seus componentes de forma modular, segura e limpa.
 
@@ -150,7 +234,7 @@ Primeiro, tento investigar por conta própria, usando documentação oficial e f
 
 3. Já trabalhou em equipe? Como foi a experiência?
 
-Sim, já trabalhei em equipe em projetos acadêmicos e pessoais. Gosto de colaborar e acho importante dividir tarefas de forma clara e manter a comunicação aberta. Sempre que posso, tento ajudar outros membros com o que sei.
+Sim, já trabalhei em equipe em projetos acadêmicos e na OSF digital. Gosto de colaborar e acho importante dividir tarefas de forma clara e manter a comunicação aberta. Sempre que posso, tento ajudar outros membros com o que sei.
 
 4. Me fale de um projeto pessoal ou acadêmico que te deixou orgulhoso.
 
@@ -159,3 +243,10 @@ Um projeto que me marcou foi um sistema de aluguel de veículos que criei usando
 5. Se você estivesse com prazo apertado e encontrasse um bug inesperado, o que faria?
 
 Avaliaria a gravidade do bug e tentaria resolvê-lo rapidamente. Caso não consiga sozinho, comunicaria o time e sugeriria uma solução provisória ou ajuste no escopo, sempre pensando no impacto e em manter a entrega alinhada com a prioridade do projeto.
+
+
+
+HTTP => protocolo de comunicação usado na web para permitir a troca de informações entre clientes (como navegadores) e servidores.
+
+
+

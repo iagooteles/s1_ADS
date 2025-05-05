@@ -1,4 +1,8 @@
 /////////////// MicroServiços ////////////////////////////
 
 MicroServiços => Estilo ou padrão arquitetural;
+    Composta de um conjunto de serviço, implementados de forma independente;
 
+API REST => Padrão para criação de web services, segue o padrão HTTP;
+
+HTTP => GET, POST, PUT, DELETE;
