@@ -10,9 +10,8 @@ SCRUM todas as semanas, daylies com meu mentor;
 
 REVISAR O PROJETO;
 
-
 SOLID => 
-Single Responsability => 
+Single Responsability => Cada componente, função ou módulo ter uma responsabilidade única; Você não pode ter mais de um motivo para alterar uma função;
 Open-Closed =>
 Liskov Substitution =>
 Interface Segregation =>
