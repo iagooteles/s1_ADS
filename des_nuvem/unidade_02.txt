@@ -40,6 +40,3 @@ aws s3 cp s3://"nomedobucket"/ . --recursive
 - Rode a aplicação e teste no Browser:
     node index.js
     'ipPúblico':3000 => O ip público do EC2 e a porta de entrada da aplicação;
-
-
-

@@ -110,7 +110,42 @@ Diagrama de tempo;
 
 
 fazer atividades de modelagem;
-Visual paradigma;
-gazer a partir do template;
+fazer a partir do template;
 do item 5.3 para baixo pode excluir;
 avaliações => Entrega Requisito parte 1
+
+
+
+
+ Requisitos Funcionais (RF)
+RF01 – O sistema deve permitir que o usuário visualize rotas acessíveis dentro do campus (com rampas, elevadores, banheiros adaptados etc.).
+
+RF02 – O sistema deve oferecer suporte a comandos de voz para navegação dentro do campus.
+
+RF03 – O sistema deve disponibilizar informações em tempo real sobre obras ou bloqueios que afetam acessibilidade.
+
+RF04 – O usuário deve poder localizar, em tempo real, os carrinhos elétricos disponíveis no campus.
+
+RF05 – O sistema deve permitir que usuários com mobilidade reduzida agendem um carrinho prioritário.
+
+RF06 – O sistema deve permitir a integração entre os aplicativos de acessibilidade e de localização dos transportes (carrinho e ônibus).
+
+RF07 – O sistema deve permitir ao usuário localizar os ônibus da Unifor em tempo real.
+
+RF08 – O sistema deve notificar os usuários sobre a chegada ou partida dos ônibus nos pontos.
+
+RF09 – O sistema deve informar se o ônibus ou carrinho é acessível (ex: presença de rampa ou assento preferencial disponível).
+
+RF10 – O sistema deve permitir que alunos se identifiquem no ônibus por meio de QR Code integrado ao login institucional.
+
+
+⚙️ Requisitos Não Funcionais (RNF)
+RNF01 – O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com tempo de inatividade mínimo.
+
+RNF02 – O aplicativo deve ser compatível com leitores de tela e seguir diretrizes de acessibilidade digital (WCAG 2.1).
+
+RNF03 – O sistema deve ter tempo de resposta inferior a 2 segundos para ações principais (como localização em tempo real).
+
+RNF04 – O aplicativo deve estar disponível para Android e iOS.
+
+RNF05 – Os dados dos usuários e suas rotas devem ser protegidos por autenticação segura e criptografia.

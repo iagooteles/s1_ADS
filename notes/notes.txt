@@ -54,10 +54,21 @@ Perguntas:
 ////// Sobre meu Código do desafio /////
 
 A ideia do desafio da Landing Page era deixar o código mais modular, quis passar uma ideia de componentização assim como é feito no React, deixando o código mais modular, mais fácil de se fazer manutenção, além de reutilizável, até gerei uma página example.html para mostrar o quão fácil seria montar uma página utilizando essa ideia de componentes;
-Então eu coloquei o HTML em arquivos externos à minha página .html principal e criei Loaders que teriam essa responsabilidade de injetar o HTML no código - TODO: VERIFICAR SE INJETAR HTML É O TERMO CORRETO - ;
+Então eu coloquei o HTML em arquivos externos à minha página .html principal e criei Loaders que teriam essa responsabilidade de injetar o HTML no código;
+- Criado arquivos json para guardar conteúdos;
+- Arquivos html externos que serão injetados no nosso html principal; Os Loaders procuram o placeholders por classe para injetar o html externo nele;
+- Arquivos js com Docstrings explicativas;
+- 3 Breakpoints principais; 
+- Alguns Loaders disparam eventos que garantem a execução correta de scripts dependentes.
+
 
 O Segundo projeto foi mais simples, já que se poderia usar React eu aproveitei a componentização...
-Gerei um useContext para facilitar - TODO: estudar o useContext e seus usos - 
+Criei um hook para ficar responsável por buscar os dados do perfil a ser pesquisado;
+Os hooks em React são funções que permitem que você use o estado e outros recursos do React sem precisar escrever uma classe. Eles foram introduzidos no React 16.8 e revolucionaram a forma de escrever componentes, permitindo a reutilização de lógica de estado e comportamento entre diferentes componentes de forma mais simples.
+
+Em meu githubAPI.js => Primeiro ele tenta encontrar pela primeira query, caso não encontre ele faz outra query usando outra API, e caso encontre ele pega o nome do perfil e procura pela primeira query novamente para pegar as informações completas, já que a segunda não retorna todas as informações;
+Toastify service para feedback pro usuário;
+Estilos css na maioria em .module.css;
 
 
 ////// Simulações //////
