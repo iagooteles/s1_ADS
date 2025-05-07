@@ -53,3 +53,41 @@ public class Professor extends Pessoa {
         super(cpf);
     }
 }
+
+
+Classes abstratas => Uma classe abastrata não pode ser instanciada diretamente.
+pode conter: 
+- métodos abstratos (sem corpo);
+- métodos concretos;
+- atributos;
+
+Quando usar? => Para definir um modelo/comportamento para outras classes;
+
+public abstract class Animal {
+    protected String nome;
+
+    public Animal(String nome) {
+        this.nome = nome;
+    }
+
+    public abstract void emitirSom(); // Só se tem o método abstrado se a classe for abstrata
+
+    public void mostrar() {
+        System.out.println("Nome: " + this.nome);
+    }
+}
+
+public class Gato extends Animal {
+    public Gato(String nome) {
+        super(nome);
+    }
+
+    @Override
+    public void emitirSom() { // Obrigatório
+        System.out.println("miado");
+    }
+}
+
+
+PROVA TERÇA!!
+vai até Polimorfismo
