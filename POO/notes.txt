@@ -91,3 +91,6 @@ public class Gato extends Animal {
 
 PROVA TERÇA!!
 vai até Polimorfismo
+
+não vai cair classe e métodos abstratos;
+ver tipos de Polimorfismo => sobrecarga(ter duas formas do método, não necessita necessariamente de herança) e sobreposição(tem herança, mesmo método da classe pai);
