@@ -1,0 +1,28 @@
+/////////////////////////// Videos /////////////////////////////////
+
+Quais das alternativas, a seguir, é um exemplo de especificação de requisitos de usabilidade com uma medida de eficiência?
+
+    Tolerar erros, diminuindo o tempo de execução das tarefas.
+
+
+Segundo Cybis, Bestiol e Faust (2015, p. 438), “a experiência do usuário pode ser descrita como o conjunto de todos os processos (físicos, cognitivos, emocionais) desencadeados no usuário a partir da interação com um produto ou serviço em diversos momentos (que incluem a expectativa da interação, a interação propriamente dita e a reflexão após a interação) em um determinado contexto de uso (físico, social, tecnológico)”. Sendo assim, marque a alternativa correta.
+
+    A experiência do usuário é algo subjetivo, logo cada pessoa terá sua própria experiência ao usar um sistema interativo.
+
+
+O ciclo de vida em estrela é um processo de design de IHC, criado no início da decada de 1990. Assim, ele é considerado um dos primeiros modelos desenvolvidos na área:
+( V ) - É um preocsso iterativo, ou seja, é repetido até que se atinja os objetivos e a qualidade esperada.
+( F ) - É um processo que envolve apenas as seguintes atividades: análise de tarefas, usuários e funções; especificações de requisitos; projeto conceitual e especificação do design; prototipação; e implementação;
+( V ) - A avaliação é o proceso central para se garantir que a qualidade e a adequação dos resultados das demais atividades aos requisitos e objetivos esperados para o sistema.
+( V ) - A prototipação é uma atividade essencial em diversos tipos de projetos interativos, não sendo restrita apenas ao desenvolvimento de soluções mobile inovadoras e disruptivas.
+( F ) - Qualquer uma das seis atividades pode ser a etapa central ou principal do ciclo de vida em estrela, pois dependa das escolhas do projetista.
+
+
+Para que uma interface interativa apresente uma boa usabilidade ela precisa estar adequada às capacidades cognitivas, perceptivas e motoras de seus potenciais usuários. Assinale a proposição verdadeira acerca dos fatores que remetem à usabilidade em sistemas interativos:
+    Facilidade de aprendizado é importante para usuários que estão tendo o seu primeiro contato com a interface, para que entendam como interagir com o sistema.
+
+
+Revisar: 
+
+Requisitos de usabilidade:
+    Eficiência?

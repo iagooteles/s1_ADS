@@ -55,7 +55,7 @@ public class Professor extends Pessoa {
 }
 
 
-Classes abstratas => Uma classe abastrata não pode ser instanciada diretamente.
+Classes abstratas => Uma classe abstrata não pode ser instanciada diretamente.
 pode conter: 
 - métodos abstratos (sem corpo);
 - métodos concretos;
@@ -87,10 +87,6 @@ public class Gato extends Animal {
         System.out.println("miado");
     }
 }
-
-
-PROVA TERÇA!!
-vai até Polimorfismo
 
 não vai cair classe e métodos abstratos;
 ver tipos de Polimorfismo => sobrecarga(ter duas formas do método, não necessita necessariamente de herança) e sobreposição(tem herança, mesmo método da classe pai);

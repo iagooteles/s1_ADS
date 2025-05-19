@@ -21,219 +21,149 @@ Dependency Inversion =>
 Meus estudos mais recentes => AWS, C# com unity;
 Github / 
 
-Estudar mais sobre React e VTEX;
+Sobre mim => Programador apaixonado por Tecnologia, gosto de me desafiar a aprender novas linguagens e ferramentas, mesmo que estejam fora da minha zona de conforto... Falo inglês fluentemente, fiz um intercâmbio de 2 anos na Irlanda, inclusive no meu trabalho na OSF eu trabalhava diretamente com inglês..
 
-////// VTEX ///////
+Curiosidades => TI não é minha primeira formação, sou formado em direito, ao finalizar o curso vi que não era bem aquilo que queria. Depois da minha formação fiz um intercâmbio por 2 anos na Irlanda, lá eu vi o quanto a área de programação é valorizada e resolvi começar a programar, comecei com alguns cursos da udemy com desenvolvimento web com javascript, inicialmente eu foquei em front end, mas hoje em dia eu considero que faço de tudo, tanto front quanto backend. Ainda lá eu decidi que voltaria ao Brasil para fazer alguma faculdade voltada a programação. Então comecei a cursar Sistemas de Informação e logo no meu primeiro ano eu tive essa oportunidade de entrar na OSF digital através do programa da OSF academy.
 
-É uma plataforma de Ecommerce SaaS que permite a criação de lojas virtuais;
+Experiência profissional => Trabalhei por quase 2 anos na OSF digital. Entrei lá através do programa OSF Academy, nesse programa eles selecionam candidatos aptos através de um projeto que é repassado a eles. Ao final do projeto eles me ofereceram uma vaga como WebMaster, na época eu nem sabia o que era webmaster, dei uma pesquisada e resolvi aceitar por que eu vi que tinha muito a ver com a parte de desenvolvimento front end, após 1 ano e poucos meses como webmaster eles me realocaram para o front-end, o qual eu fiquei até encerrar minha colaboração por lá.
 
-Existem duas principais versões: 
-- VTEX Legacy: Utiliza HTML, CSS, JavaScript e jQuery diretamente no CMS da plataforma.
-    A customização é feita em arquivos .json, .js, .css, .html dentro do painel da loja.
-    Ainda muito usado, especialmente em projetos antigos.
-- VTEX IO: Framework moderno baseado em React e TypeScript.
-    Utiliza o VTEX Toolbelt (CLI) para deploy, testes e desenvolvimento local.
-    Trabalha com blocos (blocks.json) e schemas configuráveis.
-    Uso de Store Framework: permite configurar vitrines e componentes com pouca ou nenhuma programação.
+A empresa passou por um grande layoff global por questões financeiras e fez um grande corte de pessoal. Eles sempre foram muito transparentes em relação a números, todos os meses tinha uma reunião geral e 2023 inteiro não foi um ano bom para a empresa, tanto é que eles fizeram um urgency alguma coisa, não lembro exatamente o nome, mas era basicamente um plano de ação para evitar gastos e tentar focar no lucro. Por exemplo, durante essa ação não haveriam promoções. Infelizmente em 2024, eu fui afetado pelo Layoff, assim como diversos outros colegas.
 
+Tecnologias e Stacks => Já realizei diversos cursos, comecei com cursos da udemy, rocketseat, hashtag treinamentos, Guanabara. Mas o curso que gostaria de dar mais destaque é o da ADA Tech que eu finalizei no finalzinho do ano passado, que é voltado a desenvolvimento WEB Backend com JAVA, esse é um curso que tiveram várias pessoas competindo para conseguir entrar, se não me engano mais de 10.000 e com processos eliminatórios, e ao final pouco mais de 50 pessoas conseguiram receber o certificado...
 
-Ferramentas:
-VTEX IO CLI: ferramenta para rodar projetos localmente e fazer deploy.
-React (com VTEX IO): usado na criação de componentes personalizados.
-GraphQL: utilizado para consultas de dados na plataforma.
-Node.js: em algumas customizações e integrações.
-CMS VTEX: utilizado principalmente no Legacy para editar páginas, banners, menus, etc.
+Hoje, estou buscando uma oportunidade onde eu possa unir minha vontade de aprender, minha bagagem técnica para contribuir com soluções que realmente impactem o ambiente de trabalho e a sociedade — e acredito que o Instituto Emílio Ribas, pelo seu impacto na saúde pública, é o lugar ideal para isso. Quero usar o que sei para gerar um impacto positivo. Assim como eu estou procurando um ambiente profissional o qual eu possa contar com pessoas experientes para poder estar sempre evoluindo.
 
 
-OBS:
-Blocos e Schemas: em VTEX IO, as páginas são formadas por blocos configuráveis declarados em JSON.
 
+"Qual seu maior desafio técnico até hoje?"
+"Prefere front ou back? Por quê?"
+"Já lidou com prazos apertados ou bugs em produção?"
+"Como você lida com situações em que não sabe como resolver algo?"
 
-Perguntas:
+Estou animado com a possibilidade de contribuir em um time como o de vocês, principalmente por ver que o Instituto valoriza tecnologia com propósito. Acredito que posso somar não apenas tecnicamente, mas com atitude, curiosidade e vontade real de crescer e ajudar.
 
-////// Sobre meu Código do desafio /////
 
-A ideia do desafio da Landing Page era deixar o código mais modular, quis passar uma ideia de componentização assim como é feito no React, deixando o código mais modular, mais fácil de se fazer manutenção, além de reutilizável, até gerei uma página example.html para mostrar o quão fácil seria montar uma página utilizando essa ideia de componentes;
-Então eu coloquei o HTML em arquivos externos à minha página .html principal e criei Loaders que teriam essa responsabilidade de injetar o HTML no código;
-- Criado arquivos json para guardar conteúdos;
-- Arquivos html externos que serão injetados no nosso html principal; Os Loaders procuram o placeholders por classe para injetar o html externo nele;
-- Arquivos js com Docstrings explicativas;
-- 3 Breakpoints principais; 
-- Alguns Loaders disparam eventos que garantem a execução correta de scripts dependentes.
 
+Emilio Ribas => 
 
-O Segundo projeto foi mais simples, já que se poderia usar React eu aproveitei a componentização...
-Criei um hook para ficar responsável por buscar os dados do perfil a ser pesquisado;
-Os hooks em React são funções que permitem que você use o estado e outros recursos do React sem precisar escrever uma classe. Eles foram introduzidos no React 16.8 e revolucionaram a forma de escrever componentes, permitindo a reutilização de lógica de estado e comportamento entre diferentes componentes de forma mais simples.
+Missão: Prestar serviços de Medicina com confiabilidade e excelência a fim de promover saúde e bem estar com responsabilidade ambiental e social.
 
-Em meu githubAPI.js => Primeiro ele tenta encontrar pela primeira query, caso não encontre ele faz outra query usando outra API, e caso encontre ele pega o nome do perfil e procura pela primeira query novamente para pegar as informações completas, já que a segunda não retorna todas as informações;
-Toastify service para feedback pro usuário;
-Estilos css na maioria em .module.css;
+__________________________________________________________________________________________________________
 
+Perguntas técnicas => 
+👨‍💻 Linguagens de Programação (PHP, JS, Python, Java)
 
-////// Simulações //////
+### PHP ###
 
-React => Biblioteca Front-end baseada em componentes reutilizáveis;
-JSX => Sintaxe que permite escrever HTML dentro do javascript;
-Hooks => Funções que permitem usar state e ciclo de vida em componentes funcionais (useState, useEffect, etc).
-Componentes => Funções ou classes que retornam elementos React. Podem ser reutilizados em toda a aplicação.
-Diferença entre useEffect(() => {...}) e useEffect(() => {...}, [])?
-    Sem array de dependências: roda em toda renderização
-    Com array vazio []: roda uma vez, ao montar
+Como funciona o ciclo de vida de uma requisição em uma aplicação PHP tradicional (sem frameworks)?
+A requisição chega ao servidor (geralmente Apache ou Nginx), que chama o interpretador PHP. O script é executado, interage com banco de dados ou APIs, e retorna HTML (ou JSON) como resposta.
 
-Como lidar com eventos em React?
-<button onClick={() => alert('clicado')}>Clique</button>
 
-Como renderizar listas?
-{items.map(item => <li key={item.id}>{item.nome}</li>)}
-Qual a importância da key em listas?
-A key ajuda o React a identificar quais itens mudaram, melhorando a performance da renderização.
-Quando lidando com map e listas e suas renderizações, usar key.
+Qual a diferença entre include, require, include_once e require_once?
+Ambos incluem arquivos externos, mas require gera erro fatal se o arquivo não for encontrado, enquanto include apenas gera um aviso.
 
-Você conhece o Virtual DOM?
-    Sim. É uma representação em memória do DOM real. O React usa isso para fazer atualizações mais eficientes.
 
+O que são namespaces em PHP e por que usá-los?
+Servem para evitar conflitos entre nomes de classes, funções ou constantes, principalmente em projetos grandes ou com bibliotecas externas.
 
-O que é Context API?
-A Context API é uma ferramenta do React para compartilhar dados entre componentes sem precisar passar props manualmente por todos os níveis da árvore de componentes.
-Quando muitos componentes precisam acessar os mesmos dados, como tema (claro/escuro), idioma, autenticação do usuário, etc.
 
+JavaScript:
 
-Como funciona o React Router?
-O React Router permite criar navegação entre páginas em aplicações React SPA (Single Page Application).
+Explique a diferença entre == e ===.
+== compara valores com coerção de tipo, já === compara valor e tipo. Por exemplo: 1 == '1' é true, mas 1 === '1' é false.
 
-EX:
-import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
-import Home from './Home';
-import Sobre from './Sobre';
 
-function App() {
-  return (
-    <BrowserRouter>
-      <nav>
-        <Link to="/">Início</Link>
-        <Link to="/sobre">Sobre</Link>
-      </nav>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/sobre" element={<Sobre />} />
-      </Routes>
-    </BrowserRouter>
-  );
-}
+Como funcionam closures?
+É quando uma função "lembra" do escopo em que foi criada, mesmo que seja executada fora dele.
 
-Como consumir APIs com fetch ou axios?
-Você pode usar o fetch (nativo) ou o axios (biblioteca externa) dentro do useEffect para fazer chamadas a APIs.
 
-EX:
-import { useEffect, useState } from "react";
+Python/Java:
 
-function App() {
-  const [posts, setPosts] = useState([]);
+Em Python, qual a diferença entre listas e tuplas?
 
-  useEffect(() => {
-    fetch("https://jsonplaceholder.typicode.com/posts")
-      .then((res) => res.json())
-      .then((data) => setPosts(data));
-  }, []);
 
-  return <ul>{posts.map(p => <li key={p.id}>{p.title}</li>)}</ul>;
-}
+Em Java, o que é o conceito de encapsulamento e como ele é implementado?
+ 
 
+🌐 Desenvolvimento Web
 
+O que acontece desde o momento que o usuário digita uma URL no navegador até a página ser carregada?
+O navegador faz uma requisição DNS, conecta ao servidor via TCP/HTTP(S), o servidor processa a requisição (possivelmente com PHP), retorna uma resposta (HTML, JSON etc.), e o navegador renderiza a página.
 
-GraphQL => é uma linguagem de consulta para APIs criada pelo Facebook. Ele permite que o cliente especifique exatamente quais dados precisa, evitando overfetching (dados demais) ou underfetching (dados de menos), comuns em APIs REST.
+Como você estrutura pastas e arquivos em um projeto PHP orientado a objetos?
+Costumo separar em pastas como controllers, models, views, routes, e services, além de usar autoload com Composer.
 
-EX:
-{
-  user(id: 1) {
-    name
-    posts {
-      title
-    }
-  }
-}
+Como evitar ataques comuns como XSS e SQL Injection?
+Para XSS: escapar dados com htmlspecialchars.
+Para SQL Injection: sempre usar prepared statements com PDO ou MySQLi.
 
-OBS: Eu uso o Hygraph para meu portfólio, ele tem um esquema bem parecido com GraphQL;
+💾 Banco de Dados (Relacional/NoSQL)
 
+Qual a diferença entre banco de dados relacional e NoSQL?
+  Relacional (como MySQL) usa tabelas e relacionamentos fixos.
+  NoSQL (como MongoDB) é mais flexível e armazena dados em formatos como JSON.
 
-CSS Handles => São classes CSS predefinidas expostas pelos blocos e componentes VTEX IO. Eles funcionam como "ganchos" (handles = alças) para que você consiga aplicar estilos customizados sem alterar a estrutura do componente.;
-    CSS Handles são a maneira oficial da VTEX IO permitir que você estilize seus componentes de forma modular, segura e limpa.
 
+Já trabalhou com MySQL? Pode explicar como funciona um JOIN?
+  Serve para juntar dados de duas ou mais tabelas com base em uma chave comum. Exemplo: SELECT * FROM pedidos JOIN clientes ON pedidos.cliente_id = clientes.id.
 
-    📌 Exemplo prático:
-    Imagine que você tem um componente product-summary e quer mudar a cor do nome do produto.
 
-    json
-    {
-    "product-summary": {
-        "props": {
-        "handles": ["customProductName"]
-        }
-    }
-    }
-    No seu CSS:
 
-    css
-    .customProductName {
-    color: red;
-    font-weight: bold;
-    }
+⚙️ Integração com APIs
 
-    Você estará estilizando o nome do produto usando o handle exposto pelo componente.
+Como você faria uma requisição HTTP em PHP para consumir uma API externa?
+  Pode ser feita com file_get_contents, curl, ou bibliotecas como Guzzle.
 
-    📁 Onde escrever os estilos?
-    Você cria um arquivo CSS no seu app, normalmente:
-    /styles/yourStyles.css
 
-    E o importa no manifest.json com:
-    json
-    "styles": "styles/yourStyles.css"
+Como garantir que uma integração com API de terceiros não quebre sua aplicação em produção?
+  Usar try/catch, timeout, fallback, e verificar status HTTP antes de processar a resposta.
 
 
-1. Você já trabalhou com React? O que é um componente em React e qual a diferença entre componentes funcionais e de classe?
 
-Sim, já trabalhei com React em projetos pessoais e acadêmicos. Um componente é uma função ou classe que retorna uma interface de usuário (UI). A principal diferença é que componentes de classe usam this e ciclos de vida como componentDidMount, enquanto os funcionais são mais simples e hoje, com hooks como useState e useEffect, podem fazer tudo que uma classe faz, de forma mais enxuta.
 
+🧰 WordPress
 
+Qual a diferença entre temas e plugins no WordPress?
+  Tema altera a aparência; plugin adiciona funcionalidades. Exemplo: um tema define layout, e um plugin adiciona formulário de contato.
 
-2. Por que a performance do site é tão importante em e-commerce? Como você melhoraria o carregamento de uma página?
 
-A performance é crucial porque impacta diretamente na conversão de vendas e na experiência do usuário. Se um site demora a carregar, o cliente pode desistir da compra. Para melhorar o carregamento, usaria técnicas como lazy loading de imagens, minificação de arquivos, otimização de fontes e uso de cache. Em VTEX, é importante também usar corretamente os blocos e evitar sobrecarregar as páginas com muitos scripts desnecessários.
+Como você criaria um plugin simples do zero?
+  Criar uma pasta e um arquivo .php com um cabeçalho padrão e registrar funções com hooks como add_action() ou add_shortcode().
 
 
 
-3. O que são Props e State em React?
+Já personalizou um tema com PHP? Usou functions.php?
+  Sim, já utilizei para registrar menus, widgets, scripts, e personalizar o comportamento do tema sem alterar o core.
 
-Props são dados passados de um componente pai para um filho, como parâmetros. Já o state é o estado interno do componente, controlado por ele mesmo. Por exemplo, posso passar via props o nome de um produto e controlar no state se ele está em destaque ou não.
 
 
+✅ Boas práticas
+O que significa escrever código “limpo, testável e eficiente”? Pode dar um exemplo?
+  Código com nomes claros, funções pequenas, responsabilidades únicas e com testes. Exemplo: separar lógica de regra de negócio em serviços reutilizáveis.
 
-4. Você conhece o VTEX IO? Como ele organiza o layout da loja?
 
-Sim, o VTEX IO usa o conceito de blocos para montar o layout da loja. Cada seção da página é um bloco, que pode ser configurado no store.theme. Os blocos podem ser nativos ou personalizados, e a estrutura do site é declarada em JSON ou no formato blocks.json via React, com o uso de CSS Handles para customização visual.
 
+Já aplicou testes automatizados em projetos PHP ou JavaScript?
+  Sim, usando PHPUnit no PHP e Jest no JavaScript. Ajudam a garantir que alterações não quebrem funcionalidades existentes.
 
 
-5. O que é GraphQL e como ele se diferencia do REST?
+O que são design patterns? Já usou algum no seu código?
+  Já usei Singleton, Repository e Factory, principalmente para manter código organizado e desacoplado.
 
-O GraphQL é uma linguagem de query para APIs que permite ao cliente pedir exatamente os dados que precisa. Diferente do REST, que tem endpoints fixos, o GraphQL centraliza em um único endpoint e o cliente especifica os campos que quer. Isso economiza dados e melhora a performance.
 
+🐞 Manutenção e correção de bugs
 
+Como você lida com bugs em produção?
+  Reproduzo o erro localmente, verifico logs e isolo o problema. Depois testo a correção e faço deploy controlado.
 
-6. Como adicionar um banner promocional em uma página da VTEX?
 
-Em um projeto VTEX IO, criaria um bloco com o tipo image ou rich-text, configuraria as props no JSON, como src, href, alt, e colocaria esse bloco na página desejada via a declaração de store.home ou outro template no blocks.json.
+Pode contar sobre um bug difícil que resolveu e como chegou na solução?
+  Uma vez, um formulário em produção salvava dados errados. Usei logs e testes manuais até descobrir que o problema era uma variável global sobrescrita em outro trecho do código.
 
 
 
-7. O que é CSS Handles e como ele é usado na VTEX?
+__________________________________________________________________________________________________________
 
-CSS Handles são nomes de classes pré-definidas nos componentes da VTEX IO. Podemos sobrescrevê-las nos nossos arquivos CSS para customizar a aparência sem alterar a lógica do componente. É uma forma de aplicar estilo de maneira controlada.
-
-
-
-________________________________________________________________________________________________________________________________________
 Parte 2 – Respostas Comportamentais
 1. Por que você quer fazer parte da nossa empresa?
 
@@ -254,10 +184,3 @@ Um projeto que me marcou foi um sistema de aluguel de veículos que criei usando
 5. Se você estivesse com prazo apertado e encontrasse um bug inesperado, o que faria?
 
 Avaliaria a gravidade do bug e tentaria resolvê-lo rapidamente. Caso não consiga sozinho, comunicaria o time e sugeriria uma solução provisória ou ajuste no escopo, sempre pensando no impacto e em manter a entrega alinhada com a prioridade do projeto.
-
-
-
-HTTP => protocolo de comunicação usado na web para permitir a troca de informações entre clientes (como navegadores) e servidores.
-
-
-
