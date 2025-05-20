@@ -1,4 +1,4 @@
-/////////////////////////// Videos /////////////////////////////////
+/////////////////////////// Revisão /////////////////////////////////
 
 Quais das alternativas, a seguir, é um exemplo de especificação de requisitos de usabilidade com uma medida de eficiência?
 
@@ -10,6 +10,103 @@ Segundo Cybis, Bestiol e Faust (2015, p. 438), “a experiência do usuário pod
     A experiência do usuário é algo subjetivo, logo cada pessoa terá sua própria experiência ao usar um sistema interativo.
 
 
+Para que uma interface interativa apresente uma boa usabilidade ela precisa estar adequada às capacidades cognitivas, perceptivas e motoras de seus potenciais usuários. Assinale a proposição verdadeira acerca dos fatores que remetem à usabilidade em sistemas interativos:
+    Facilidade de aprendizado é importante para usuários que estão tendo o seu primeiro contato com a interface, para que entendam como interagir com o sistema.
+
+
+Heuristica de nielsen ou 10 Heuristicas de usabilidade: 
+1 - Visibilidade do status do sistema => O sistema deve sempre manter os usuários informados sobre o que está acontecendo, por meio de feedback apropriado e em tempo razoável;
+
+2 - Correspondência entre o sistema e o mundo real => O sistema deve usar a linguagem do usuário, com palavras, frases e conceitos familiares. Deve seguir convenções do mundo real;
+
+3 - Controle e liberdade do usuário => Usuários frequentemente escolhem funções por engano. O sistema deve oferecer saídas fáceis, como desfazer/refazer ações;
+
+4 - Consistência e padronização => Os usuários não devem ter que se perguntar se palavras ou ações diferentes significam a mesma coisa;
+
+5 - Prevenção de erros => Melhor do que boas mensagens de erro é um design que previne a ocorrência de erros;
+
+6 - Reconhecimento ao invés de memória => Minimizar a carga de memória do usuário tornando elementos, ações e opções visíveis;
+
+7 - Eficiência e flexibilidade de uso => O sistema deve permitir que usuários iniciantes e experientes usem a interface de forma eficiente, com atalhos e personalização;
+
+8 - Estética e design minimalista => As interfaces não devem conter informações irrelevantes. Cada unidade extra de informação compete com as relevantes;
+
+9 - Recuperação diante de erros => As mensagens de erro devem ser expressas em linguagem clara, indicar o problema e sugerir soluções;
+
+10 - Ajuda e documentação => Mesmo que o sistema seja fácil de usar, pode ser necessário fornecer ajuda e documentação acessível e objetiva;
+
+
+Ciclo de vida em Estrela => é um modelo não linear, onde todas as atividades do processo estão interligadas e podem ser acessadas a qualquer momento.
+Imagina uma estrela com 5 pontas (ou mais), com cada ponta representando uma atividade. No centro da estrela, está o teste (avaliação).
+    Análise de Tarefas / Requisitos
+    Projeto Conceitual
+    Design (Projeto da Interface)
+    Implementação
+    Distribuição / Lançamento
+    Teste/Avaliação (no centro)
+
+💡 Características principais:
+    Iterativo: Você pode voltar a qualquer etapa sempre que necessário.
+    Centrado no usuário: O teste e a avaliação com usuários guiam o processo.
+    Flexível: Não segue uma sequência rígida como modelos em cascata.
+    Testes ocorrem o tempo todo: Avaliações podem ser feitas após qualquer etapa.
+
+Enfatiza testes de usabilidade frequentes.
+Facilita a melhoria contínua.
+Coloca o usuário no centro do processo.
+
+
+Item I – “Usabilidade deve ter foco nos usuários: quem são e o que querem fazer”. Este item está correto [Verdadeiro]. Um dos princípios centrais da usabilidade é o foco no usuário. Isso significa entender quem são os usuários e quais são seus objetivos, garantindo que o sistema seja útil e fácil de usar para eles.
+Item II – “Usabilidade tem a ver com permitir que o usuário execute as tarefas que deseja com eficácia, eficiência e satisfação”. Este item também está correto [Verdadeiro]. Esta definição corresponde à famosa definição da ISO 9241-11, que considera usabilidade como a capacidade de um sistema de permitir que os usuários realizem suas tarefas com eficácia (precisão e completude), eficiência (recursos utilizados) e satisfação (conforto e aceitação).
+Item III – “O excesso de funcionalidades em uma mesma tela de um sistema costuma ser o erro mais comum em usabilidade”. Embora o excesso de funcionalidades possa afetar negativamente a usabilidade, não é considerado o erro mais comum. Há muitos fatores que impactam a usabilidade, como inconsistência, falta de feedback, navegação confusa, entre outros. Portanto, o item generaliza (ser o erro mais comum) de forma incorreta [Falso].
+Item IV – “Usabilidade na web tem características diferentes da usabilidade em sistemas de informação de forma geral, mas também muitas características em comum”. Este item pode parecer verdadeiro à primeira vista, pois de fato há diferenças e semelhanças. No entanto, em avaliações como essa, o foco é na clareza conceitual: a usabilidade tem princípios universais, independentemente da plataforma (web, desktop, mobile, etc.). A usabilidade web não constitui uma categoria distinta com “características diferentes”, e sim uma aplicação dos mesmos princípios ao contexto da web. Assim, a forma como a frase foi colocada induz a um entendimento equivocado [Falso].
+Item V – “Jornais online são verdadeiros laboratórios de usabilidade”. Apesar de jornais online lidarem com aspectos de usabilidade (como navegação e legibilidade), a frase é excessivamente metafórica e não reflete um conceito técnico. Jornais online não são laboratórios de usabilidade; eles são apenas um dos muitos tipos de sites que podem ou não seguir boas práticas de usabilidade. Portanto, o item está incorreto [Falso].
+
+
+
+
+proto-personas;
+
+público alvo;
+
+persona;
+
+usabilidade e ergonomia em soluções físicas;
+
+
+Revisar: 
+
+Requisitos de usabilidade:
+    Eficiência?
+
+
+PROVA => Em sua maioria questões do percurso 4, mas cai dos outros percursos também.
+
+
+
+/////////////////////////// Exercícios de Fixação ///////////////////////////////////////
+
+UNIDADE 1 => 
+
+Uma das bases teóricas da Interação Humano-Computador (IHC) é a que aborda as teorias cognitivas aplicadas, que indicam como a percepção e o processamento de informação funcionam na mente humana e como influenciam no uso de produtos interativos. Sendo assim, marque a alternativa correta sobre percepção humana e IHC.
+    Os sistemas interativos podem produzir estímulos visuais, sonoros e motores que provocam sensações percebidas e processadas pelas pessoas de acordo com seus modelos mentais.
+
+
+Segundo os autores Cybis, Betiol e Faust (2015, p. 438), no livro Ergonomia e Usabilidade - Conhecimento, Métodos e Aplicações, “a experiência do usuário pode ser descrita como o conjunto de todos os processos (físicos, cognitivos, emocionais) desencadeados no usuário a partir da interação com um produto ou serviço em diversos momentos, que incluem a expectativa da interação, a interação propriamente dita e a reflexão após a interação, em um determinado contexto de uso (físico, social, tecnológico)”.
+    A experiência do usuário é algo subjetivo, logo cada pessoa terá sua própria experiência ao usar um sistema interativo.
+
+
+Marque como verdadeira(s) a(a) assertiva(s) com um exemplo do critério ergonômico para interfaces interativas relativo à homogeneidade e coerência?
+I - Uso da mesma paleta de cores e estilos gráficos em todas as ferramentas da Google.
+II - Uso do ícone de “balão de diálogo” para representar a funcionalidade de interação comentar, presente no Instagram e no LinkedIn.
+III - Uso de um tutorial “primeiros passos” no jogo Brawl Stas, para indicar ao jogar o que deve ser feito.
+    Apenas I e II são verdadeiras.
+
+
+Para que uma interface interativa apresente uma boa usabilidade ela precisa estar adequada às capacidades cognitivas, perceptivas e motoras de seus potenciais usuários (BARBOSA; SILVA, 2014). Assinale a proposição verdadeira acerca dos fatores que remetem à usabilidade em sistemas interativos:
+    Facilidade de aprendizado é importante para usuários que estão tendo o seu primeiro contato com a interface, para que entendam como interagir com o sistema.
+
+
 O ciclo de vida em estrela é um processo de design de IHC, criado no início da decada de 1990. Assim, ele é considerado um dos primeiros modelos desenvolvidos na área:
 ( V ) - É um preocsso iterativo, ou seja, é repetido até que se atinja os objetivos e a qualidade esperada.
 ( F ) - É um processo que envolve apenas as seguintes atividades: análise de tarefas, usuários e funções; especificações de requisitos; projeto conceitual e especificação do design; prototipação; e implementação;
@@ -18,11 +115,89 @@ O ciclo de vida em estrela é um processo de design de IHC, criado no início da
 ( F ) - Qualquer uma das seis atividades pode ser a etapa central ou principal do ciclo de vida em estrela, pois dependa das escolhas do projetista.
 
 
-Para que uma interface interativa apresente uma boa usabilidade ela precisa estar adequada às capacidades cognitivas, perceptivas e motoras de seus potenciais usuários. Assinale a proposição verdadeira acerca dos fatores que remetem à usabilidade em sistemas interativos:
-    Facilidade de aprendizado é importante para usuários que estão tendo o seu primeiro contato com a interface, para que entendam como interagir com o sistema.
+Avalie as afirmações a seguir e depois marque a resposta correta.
+I - Usuários avançados têm a tendência de prestar menos atenção ao utilizar uma interface interativa, realizando suas atividades de forma mais automática, quando estão em um contexto normal de uso.
+PORQUE
+II - Usuários que já estão habituados a usar um sistema interativo passam a não precisar de muitos mecanismos de condução para utilizá-lo.
+    I e II são verdadeiras e II justifica I.
 
 
-Revisar: 
 
-Requisitos de usabilidade:
-    Eficiência?
+UNIDADE 2 => 
+
+Em IHC, durante o processo de pesquisa dos usuários e do sistema atual, quais informações devem ser coletadas em relação ao ambiente no qual o usuário realiza as suas atividades?
+I - Sobre o projeto do trabalho.
+II - Informações demográficas.
+III - Habilidades tecnológicas;
+    Apenas I está correta
+
+Qual das alternativas a seguir é um exemplo de especificação de requisitos de usabilidade com uma medida de eficiência?
+    Tolerar erros, diminuindo o tempo de execução das tarefas.
+
+
+As pesquisas científicas devem favorecer princípios éticos quando se trata de coleta de dados junto às pessoas e o mesmo se aplica às atividades da IHC. Qual das alternativas a seguir é relativa ao princípio da autonomia da pessoa humana?
+    Garante-se este princípio através de termos de consentimento livre e esclarecido e com a proteção de pessoas vulneráveis, como crianças e adolescentes.
+
+
+Qual das opções a seguir é relativa a um mecanismo de organização dentro da perspectiva da concepção da arquitetura da informação de um e-commerce?
+    Sistema de classificação associativa com a separação dos produtos por departamento.
+
+
+Design Thinking é uma abordagem para resolução de problemas complexos, que divide o processo criativo em exploração do espaço do problema e em exploração do espaço da solução. Neste contexto, marque a alternativa correta.
+    Na etapa de imersão, o designer tem contato com o problema a ser resolvido e parte em busca de mais informações sobre o seu contexto.
+
+
+Qual das opções a seguir é uma técnica para analisar e modelar as informações coletadas sobre os usuários do sistema proposto?
+    Personas
+
+Em IHC, em relação às técnicas de coleta de dados para pesquisa sobre usuários, suas atividades e ambiente de uso, marque a alternativa que denomina a técnica na qual são realizadas entrevistas no local de atuação do usuário.
+    Entrevista contextual.
+
+
+UNIDADE 3 => 
+
+
+Analise as afirmações a seguir sobre avaliações de IHC:
+I - O teste de usabilidade é uma técnica de avaliação de IHC baseada em observação que visa identificar a apropriação tecnológica ou detectar problemas de interação e de interface.
+PORQUE
+II - O teste de usabilidade é uma técnica de avaliação de IHC que aborda as experiências reais de diferentes usuários da interface.
+Agora, marque a alternativa correta.
+    I e II são verdadeiras e II justifica I.
+
+
+A avaliação de IHC que ocorre no local de uso real do produto interativo, permitindo que sejam observados o desempenho do usuário, estando este sujeito às variáveis típicas do ambiente, como equipamentos, segurança, condições climáticas, questões sociais, interrupções, etc.
+    Avaliação em contexto
+
+
+Qual das alternativas, a seguir, apresenta uma atividade que NÃO é relativa à etapa de preparação de uma avaliação de IHC?
+    Coleta de dados.
+    Justificativa: A coleta de dados ocorre durante a execução da avaliação (ex.: observações, gravações, formulários etc).
+
+
+É um tipo de avaliação de IHC que visa o aprimoramento da versão atual do produto interativo, sendo realizada quando já existe uma solução, parcial ou completamente, concluída.
+    Avaliação somativa
+
+
+Qual das opções, a seguir, é uma definição para ergonomia em IHC?
+    Adaptação da interface aos usuários e suas atividades.
+
+
+Sobre a avaliação heurística, marque F (falso) ou V (verdadeiro).
+( V ) É um método de avaliação de IHC que tem como objetivo detectar problemas de usabilidade durante um processo de design do produto interativo.
+( F ) É uma técnica criada para ser aplicada em sistemas críticos, prevenindo a ocorrência de erros catastróficos.
+( V ) Pode ser realizada por um conjunto de especialistas ou em colaboração entre avaliador e usuário.
+( F ) É uma técnica que tem como base um método de avaliação do tipo objetivo ou empírico.
+( F ) É uma técnica prospectiva que pode usar como base analítica as Heurísticas de Nielsen.
+
+
+
+Sobre avaliação de design visual, marque verdadeiro (V) ou falso (falso), a seguir:
+( V ) Utilizar o manual da marca e guias de estilo de uma empresa para construir a interface gráfica de sistemas e aplicativos é uma forma de dar consistência e identidade ao produto interativo em relação aos demais produtos da empresa.
+( F ) Manuais de marca são documentos que apresentam os atributos de design dos elementos da interface, como títulos, links, botões, menus, cabeçalho, formulários, parágrafos, ícones, campos de busca, etc.
+( F ) Os guias de estilo servem para o levantamento de requisitos das interfaces de softwares, mas não são adequados para serem usados na avaliação da interface.
+( V ) Inspecionar a interface em relação ao seu design visual, pode significar avaliar a aplicação dos princípios fundamentais do design, como contraste, repetição, proximidade e alinhamento.
+( V ) Os guias de estilo de um produto interativo devem levar em consideração elementos gráficos e elementos de interface, utilizando-se do guia de identidade visual da empresa.
+
+
+
+
