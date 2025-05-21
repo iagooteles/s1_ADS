@@ -88,5 +88,12 @@ public class Gato extends Animal {
     }
 }
 
-não vai cair classe e métodos abstratos;
-ver tipos de Polimorfismo => sobrecarga(ter duas formas do método, não necessita necessariamente de herança) e sobreposição(tem herança, mesmo método da classe pai);
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+AV3 => Nota + trabalhos;
+
+Trabalho -> Desenvolvimento através de uma UML; -> Execução do código + Perguntas;
+
+
+Scanner => Ler dados a partir do teclado;
+
