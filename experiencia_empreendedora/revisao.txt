@@ -1,0 +1,422 @@
+UNIDADE I - Ideação de negócios digitais inovadores. (8 h/a)
+OBJETIVO: Identificar as etapas do processo de criação de inovações em casos reais.
+OBJETIVO: Modelar negócios com transformação de ideias em produtos ou serviços.
+OBJETIVO: Ser proativo diante das situações ou necessidades do mercado com vistas às oportunidades para criação de
+negócios inovadores.
+01.01 - Processo criativo de inovação em negócio com observância das oportunidades.
+01.02 - Ferramentas para desenvolvimento de projetos criativos.
+UNIDADE II - Construção de modelos de negócios digitais. (14 h/a)
+OBJETIVO: Analisar o mercado e o comportamento do cliente diante das transformações digitais com vistas ao negócio.
+OBJETIVO: Conceber negócios digitais pautados nas dimensões estruturantes com observância na geração de valor
+agregado.
+OBJETIVO: Ser agente promotor de soluções para o fortalecimento de pequenos negócios.
+02.01 - Dimensões estruturantes de negócios com prospecção tecnológica e mercadológica.
+02.02 - Modelos de negócios digitais inovadores e a importância das Startups.
+UNIDADE III - Validação de negócios digitais pautado na legislação e nos estudos de impactos
+socioambiental e econômico. (8 h/a)
+OBJETIVO: Identificar as diversas formas de proteção da propriedade intelectual e suas relações com o negócio.
+OBJETIVO: Avaliar a viabilidade da implantação do negócio no ambiente digital pautado na legislação e nos impactos
+socioambiental e econômico.
+OBJETIVO: Preocupar-se com a sustentabilidade e crescimento do negócio.
+03.01 - Proteção da propriedade intelectual.
+03.02 - Análise de viabilidade, modelagem de receita e estruturação de custos.
+UNIDADE IV - Socialização do negócio digital e as estratégias de marketing. (6 h/a)
+OBJETIVO: Relacionar as características do empreendedor comprometido com os aspectos éticos no mundo do negócio
+digital
+OBJETIVO: Elaborar apresentação da arquitetura do negócio e seus valores, com clareza e efetividade para com o
+público envolvido, e consideração às estratégias de marketing para o lançamento do negócio.
+OBJETIVO: Fomentar na comunidade acadêmica e/ou seu entorno o processo de ideação e empreendedorismo para
+promoção e fortalecimento de pequenos negócios autônomos que buscam o crescimento econômico.
+04.01 - Perfil empreendedor e suas relações com o mercado e os códigos de ética.
+04.02 - Formação de equipe, liderança de grupos em organizações
+
+
+
+
+1º Revisão - 
+
+BrainStorm - 
+
+
+
+
+Ferramentas de michel porter => As 5 forças competitivas =>
+1. Rivalidade entre concorrentes: 
+    Mostra o grau de competitividade entre as empresas que já atuam no mercado.
+    Quanto maior a rivalidade, menores são as margens de lucro.
+
+2. Ameaça de novos entrantes
+    Analisa o quão fácil ou difícil é para uma nova empresa entrar no mercado.
+
+3. Ameaça de produtos substitutos
+    Avalia se há outros produtos que podem substituir o seu, atendendo a mesma necessidade do consumidor.
+
+4. Poder de barganha dos fornecedores
+    Se os fornecedores forem poucos ou muito fortes, eles podem impor preços mais altos e condições menos favoráveis.
+
+5. Poder de barganha dos clientes
+    Se os clientes tiverem muitas opções, eles podem pressionar por preços mais baixos, maior qualidade ou melhores serviços.
+
+
+
+🔍 Inovação Aberta x Inovação Fechada
+
+Inovação fechada => 
+    Acontece dentro da própria empresa ou organização.
+    O desenvolvimento de ideias, pesquisas e inovações é interno e restrito.
+    Não compartilha informações com o mercado ou com terceiros.
+    Ex.: Apple nos seus primeiros anos, que controlava todo o desenvolvimento de seus produtos de ponta a ponta.
+
+Inovação Aberta => 
+    A organização abre seus processos de inovação para parcerias externas.
+    Utiliza conhecimento de universidades, startups, fornecedores, concorrentes e até dos próprios clientes.
+    Também permite que suas próprias inovações sejam licenciadas ou usadas por terceiros, caso não tenha interesse imediato nelas.
+    Fluxo de conhecimento é bidirecional: entra e sai da empresa.
+    Promove colaboração e acelera o desenvolvimento de produtos, serviços e tecnologias.
+    Ex.: Google, Samsung, Natura, que frequentemente fazem hackathons, parcerias com startups e universidades.
+
+
+
+📚 O que é o conceito de imprevisibilidade? => Imprevisibilidade é a característica de algo que não pode ser previsto com total segurança. => É quando não se consegue antecipar com exatidão os resultados, os impactos ou os efeitos futuros de uma decisão, projeto, ação ou fenômeno.
+
+
+Modelo de negócio => é a forma como uma organização cria, entrega e captura valor.
+Isso significa entender:
+✅ O que ela oferece (proposta de valor)
+✅ Para quem (segmento de clientes)
+✅ Como ela entrega esse valor (canais, parcerias, atividades)
+✅ Como ela ganha dinheiro (fontes de receita, custos e estrutura financeira)
+
+
+Startups => Inovação no empreendimento;
+
+Valor presente líquido (VPL) => É uma fórmula usada para saber se um investimento vale a pena;
+    “Se eu trouxesse todo o dinheiro que vou ganhar no futuro para o valor de hoje, esse investimento me dá lucro ou prejuízo?”
+Se o VPL for:
+    Positivo (> 0) → O investimento é viável (traz lucro considerando a taxa de juros).
+    Negativo (< 0) → O investimento não é viável (traz prejuízo).
+    Zero (0) → Empata, não gera nem lucro nem prejuízo real.
+
+
+design thinking => 
+
+
+Segmentação de mercado => É o processo de dividir um mercado amplo em grupos menores de consumidores, com características, necessidades ou comportamentos semelhantes, para que a empresa possa criar estratégias específicas para cada grupo.
+    segmentação demográfica => idade e renda;
+    segmentação geográfica => localização, País, estado, cidade, bairro, clima, densidade populacional;
+    segmentação psicográfica => Estilo de vida, Valores pessoais, Crenças, Personalidade, Interesses e opiniões;
+    segmentação comportamental => Usa o produto, Frequência de compra, Lealdade à marca, Benefícios buscados, Atitudes e respostas perante campanhas ou lançamentos;
+
+
+- Ponto de equilíbrio:
+
+- Período de payback:
+
+- Taxa mínima de atratividade:
+
+- Valor presente líquido:
+
+
+
+Revisão final - viabilidade de negócio;
+
+A) Investimento total (investimentos fixos + investimentos financeiros + investimentos pré-operacionais)
+    - Investimentos fixos(imóveis, veículos, máquinas e equiamentos, móveis e utensílios).
+    - Investimentos financeiros (capital de giro, ou seja, recursos necessários para manter o empreendimento funcionando até o mesmo começar a gerar sua própria receira; estoque inicial, ou seja, quantidade de produtos necessáriso para iniciar a produção).
+    - Investimentos pré-operacionais (gastos com divulgação, com reformas e adaptações do espaço físico, com treinamento de pessoal, legalização da empresa, etc).
+
+B) Custos
+    - Custos com Comercialização - A partir do momento em que a empresa é legalizada, ela passa a pagar impostos, a cada produto comercializado um percentual da receita deve ser destinado ao pagamento desses impostos. Também é adicionado valores a titulo de comissões;
+    - Custos fixos - Todos os custos os quais o empreendedor deverá arcar, mensalmente, independente da quantidade de produtos comercializados. Além de contas como aluguel, luz, água, telefone, inserem-se na categoria os custos como depreciação, despesas e pró-labore
+
+
+
+
+
+
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+UNIDADE 1 =>
+
+Quando se aborda o processo de inovação, um dos modelos é intitulado como sendo de terceira geração. Este ressalta a necessidade da inclusão dos demais envolvidos no processo. Portanto, entende-se que esse modelo visa a:
+    demonstrar flexibilidade quanto à alteração do direcionamento.
+
+
+O processo de inovação é complexo, sendo capaz de modificar mercados quando surgem produtos e/ou negócios oriundos de uma inovação radical. Essas inovações também podem ocorrer de acordo com a área de atuação. Portanto, é correto afirmar que:
+    quando uma empresa implementa uma nova metodologia de trabalho para padronizar a linha de montagem dos computadores, está realizando uma inovação de processos.
+
+
+Leia a afirmativa e assinale a opção correta: “A informação é a base para o desenvolvimento da inovação. O processo de inovação ocorre de acordo com a especificidade de cada tipo de empreendimento, e cabe ao empreendedor identificar a melhor forma de gerenciar esse processo”. Nesse contexto:
+
+I - A inovação empurrada pela tecnologia à pesquisa básica tem por objetivo fundamentar novos conhecimentos.
+II - O desenvolvimento experimental, que é considerado a junção da teoria com a prática e tem por objetivo o desenvolvimento de novos produtos, é uma característica da inovação empurrada pela ciência.
+III - O modelo de inovação linear reverso ocorre no intuito de atender a uma necessidade específica do mercado ou interna. Esta situação pode se enquadrar nas inovações radicais.
+IV - Considerado como limitado pelos teóricos, o modelo de inovação de terceira geração não inclui todas as áreas e todos os setores envolvidos no processo.
+V - O modelo de inovação de terceira geração possibilita que a pesquisa e o desenvolvimento não ocorram internamente.
+    I, II e V.
+
+
+Entendendo que a pessoa criativa tem dentre suas principais características a curiosidade e a ousadia na busca por soluções dos problemas que contribuem de forma significativa para o desenvolvimento de produtos e/ou negócios inovadores, nesse contexto, indique a afirmativa que corresponde aos principais conceitos de criatividade.
+I - Consiste em novas conexões importantes que permitem pensar em possibilidades, experimentar formas variadas e utilizar diferentes pontos de vista.
+II - A criatividade diz respeito ao processo de transformar produtos e gerar renda.
+III - A capacidade criativa depende das características de personalidade para ser desenvolvida.
+IV - A criatividade se caracteriza como sendo um fenômeno sistêmico que contempla quatro dimensões: pessoa, produto, processo e ambiente. 
+    I e IV.
+
+
+
+Inovação e criatividade são processos distintos que caminham sempre juntos. Aliados ao conhecimento, compõem a base para o processo de inovação que, para ser desenvolvida, produz novas dificuldades que necessitam ser novamente resolvidas com criatividade. Analise a seguir as afirmativas que revelam a relação entre inovação e criatividade.
+I - Inovar é implementar algo novo ou melhorar algum produto, processo ou serviço, usando a criatividade e o conhecimento.
+II - A criatividade é o elemento básico para geração da inovação. Se a organização almeja usar o potencial dos seus colaboradores para criar, é necessário desenvolver uma atitude criativa.
+III - Inovar é colocar a criatividade em ação, aplicá-la para gerar ou agregar valor a um produto, processo ou serviço, através da combinação de outros produtos, processos ou serviços já existentes.
+IV - Para que a inovação aconteça é necessário que as pessoas sejam criativas na abordagem dos problemas.
+É coreto apenas o que se afirma na opção:
+    I e II.
+
+
+
+A classificação de acordo com o controle que a empresa ou país tem sobre o processo inovatório estuda os conceitos de inovação aberta e inovação fechada. A inovação aberta trabalha com alguns pressupostos ou premissas. Analise as afirmativas: 
+    I - Inovação aberta permite a acessibilidade de pesquisas envolvendo profissionais de uma mesma área de conhecimento e de empresas não concorrentes.
+    II - O conhecimento produzido fora da empresa é considerado e aproveitado, e o conhecimento interno pode ser disponibilizado externamente.
+    III - A fonte de informações é livre de regulamentos ou concessões obrigatórias.
+    IV - Não pode haver aplicação do conceito de imprevisibilidade.
+    V - A liderança da organização das pesquisas que geram a criatividade necessária é aberta, ou seja, não há exclusividade de empresas ou países. 
+É correto apenas o que se afirmar na opção:
+    II, III, IV e V.
+
+
+
+O desenvolvimento de produtos é considerado umas das etapas mais importantes para a geração da inovação. Nesse sentido, processo de desenvolvimento de produtos com _stage-gates_ é bastante abrangente e permite que seus 5 estágios sejam filtrados e aprimorados. Nesse contexto, analise a figura e indique a afirmativa correta.
+    I - Independentemente do tipo de estratégia definida no estágio 3, deve-se levar em consideração que inúmeros recursos estarão envolvidos nesse processo.
+    II - A identificação da necessidade do mercado e a seleção do projeto que mais se adeque à oportunidade ocorrem no estágio 2.
+    III - O portão 3 se reporta ao desenvolvimento de produtos.
+    IV - O estágio 4 possibilita a adequação do produto para o mercado.
+    V - O primeiro estágio corresponde à filtragem das ideias geradas.
+É correto apenas o que se afirma na opção:
+    I e IV;
+
+    
+
+Durante o período de pandemia, muitas empresas desenvolveram vacinas no intuito de erradicar o vírus da Covid-19. Entretanto, na busca de otimizar a produção dessas vacinas, foi solicitada a quebra das patentes aos seus desenvolvedores de direito, como forma de colaborar para a produção e distribuição em massa. Ao analisar a referida situação, indique a opção que caracteriza o tipo de controle que está sendo exercido pela empresa.
+    Aberta, pois o conhecimento produzido fora da empresa é considerado e aproveitado, bem como o conhecimento interno pode ser disponibilizado de forma colaborativa.
+
+
+
+O brasileiro é conhecido por ser criativo e cheio de ideias para resolver seus problemas. Entretanto, ideias criativas nem sempre resultam em soluções inovadoras (Dornelas, 2011). Nesse contexto, conhecer as ferramentas necessárias para estimular a criatividade e gerar ideias no intuito de obter inovações que façam a diferença no mercado torna-se essencial para empreender.  Diante o exposto, analise as afirmativas e marque a opção correta.
+    O desenvolvimento da criatividade consiste em proporcionar um ambiente propício, bem como estimular a capacidade de encontrar respostas inusitadas por meio do uso de metodologias que gerem ideias inovadoras.
+
+
+
+
+UNIDADE 2 => 
+
+A Revolução Tecnológica vem impactando a forma de empreender e criando novas oportunidades de negócio. Nesse contexto, analise a figura a seguir e indique a afirmativa correta.
+I - Quanto maior o nível de tecnologia empregado pela empresa, maior será a probabilidade de conquistar novos mercados.
+II - Para identificar o impacto da inovação tecnológica nos negócios, é preciso levantar informações sobre o público-alvo errado, isso é para identificar o público-alvo.
+III - Novos hábitos de consumo proporcionados pela revolução tecnológica possibilitam a abertura de novos mercados.
+IV - O nível de tecnologia impacta na melhoria do desenvolvimento de novos produtos. 
+    I, III e IV.
+
+
+A análise da concorrência possibilita que o empreendedor possa ter uma visão mais abrangente da concorrência e de como pode tirar proveito disso. Para a realização dessa análise, Michel Porter desenvolveu uma ferramenta que possibilita a análise de forma mais objetiva. De acordo com o contexto apresentado, analise as afirmativas corretas que indicam os objetivos da ferramenta. 
+I - Evidenciar as vantagens competitivas do produto em relação às demais empresas concorrentes.
+II -Possibilitar o delineamento de estratégias para o crescimento do negócio.
+III - Permitir desenvolver barreiras para a entrada de novos concorrentes.
+IV - Contribuir para a prospecção e inovação.
+V - Identificar as reais necessidades e desejos do consumidor em relação ao seu produto.
+    I, II e III.
+
+
+As condições ambientais em que um ramo de negócio opera são fatores de influência na determinação das regras competitivas às quais as empresas daquele setor estão submetidas. Porter (2004) afirma que o grau de concorrência em um setor depende de cinco forças competitivas básicas. Acerca das forças de Porter, avalie as asserções a seguir e a relação proposta entre elas. 
+I - A intensidade da rivalidade entre concorrentes existentes é uma das forças competitivas, podendo ocorrer quando as empresas que atuam no mercado são numerosas,
+PORQUE
+II - Produtos substitutos reduzem os retornos potenciais de uma indústria, colocando um teto nos preços que as empresas podem fixar com lucro. A respeito dessas asserções, assinale a opção correta.
+    As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+
+
+As tecnologias digitais e a internet possibilitaram que as organizações experimentassem novos componentes que possibilitassem criar valor, considerando a possibilidade de atuar em rede e de se beneficiarem dos resultados de outros parceiros.  Diante do exposto, analise as afirmativas e indique a opção que contempla as classificações corretas dos componentes de um modelo de negócio. 
+    I - A captura de valor corresponde à gestão de marketing do negócio.
+    II -A criação de valor envolve as atividades organizacionais e os segmentos de mercado.
+    III - A oferta é definida pela criação de valor em torno do produto.
+    IV - A estratégia competitiva é base para a configuração do valor.
+    V - A gestão econômico-financeira compõe a composição da captura de valor. 
+Está correto o que se afirma na alternativa:
+    Todas estão corretas.
+
+
+
+
+
+
+
+UNIDADE 3 => 
+
+
+A análise financeira necessita do entendimento de outros indicadores, por parte do empreendedor. É preciso compreender o que faz um negócio ser rentável e lucrativo. Portanto, analise e indique as afirmativas corretas.      
+    I - Em relação aos métodos de análise de investimento utilizados na avaliação econômica de projetos, o método do Valor Presente Líquido (VPL) mostra que o projeto deve ser aceito se VPL < 0.   
+    II - O payback descontado é uma técnica de análise de investimentos que informa o retorno de um investimento desconsiderando o valor do dinheiro no tempo. 
+    III - Os valores que entram no negócio são compostos pela receita bruta, oriunda dos valores referentes à venda dos produtos ou serviços, pela injeção de capital pelos sócios, ou por meio de empréstimos. 
+    IV - Os Custos Fixos não sofrem alterações em seus valores com as operações realizadas, sendo completamente independentes dos níveis de lucratividade empresarial.   
+    V - A lucratividade é determinada pelo lucro líquido em um período, dividido pelo investimento total.
+É correto o que se afirma em:
+    I e III.
+
+
+
+Segundo a abordagem da propriedade intelectual, analise a seguinte situação:
+Duas empresas estão disputando a titularidade de um aplicativo de vendas on-line. Uma alega que foi a primeira a inventar o aplicativo e que a outra copiou a sua ideia. A segunda alega que já tinha dado entrada no pedido de patente junto ao INPI e que, portanto, teria os direitos de propriedade intelectual sobre o aplicativo e que estaria protegida pelo direito de prioridade. Sobre a questão apresentada, assinale a alternativa correta para solucionar o conflito.
+    Independentemente da discussão de titularidade, sobre quem tenha criado o aplicativo, a sua proteção pela lei brasileira é regida pela Lei de Software, pela lei de Direitos Autorais e pela Lei de Patente, quando aplicável. O registro, nesse caso, não é um requisito para formação do direito autoral, no entanto, contribui para a prova de anterioridade.
+
+
+
+As marcas das empresas e de seus produtos fazem parte do nosso dia a dia. Em todos os locais, somos expostos a marcas diversas, cada uma representado uma área de atuação, um segmento de mercado, um produto ou mais. Nesse contexto, analise as afirmativas que se reportam à classificação quanto a sua origem, associando a coluna da direita que representa a classificação com a coluna da esquerda, com suas características, e indique a opção que apresenta a sequência correta.
+1. Tridimensional 
+2. Mista 
+3. Figurativa 
+4. Nominativa 
+(    ) Neste caso não há obrigação da estilização específica de forma padronizada, desde que se usem os termos para os quais se foi requerida.
+(    ) Apresenta um formato específico, cuja proteção da marca vai recair sobre o desenho apresentado para registro.
+(    ) É constituída pela combinação de elementos nominativos e elementos figurativos ou de elementos nominativos, cuja grafia se apresente de forma estilizada.
+(    ) Pode ser representada pela forma como o produto ou a embalagem são apresentados. 
+3, 4, 2, 1
+
+
+
+Dentro da Propriedade Industrial, temos a possibilidade de realizar a proteção por meio de Patentes, entre outros. Qual das afirmativas apresentadas melhor define uma patente:
+    É o título legal que documenta e legitima, temporariamente, o direito do titular de uma invenção/inovação ou de um modelo de utilidade.
+
+
+
+Sua empresa de negócio digital está crescendo, e você precisou contratar um profissional para realizar essa atividade continuamente. Para tanto, este profissional, ao elaborar o demonstrativo do fluxo de caixa, precisará apresentar:                              
+    I - Entradas e saídas, de forma resumida e alocadas conforme previsão de ocorrência                           
+    II - Despesas, como as operacionais, o investimento inicial e os gastos com a manutenção do investimento.                        
+    III - Liquidez e rentabilidade do negócio.                        
+    IV - Planos de investimentos ou empréstimos necessários.                           
+    V - Resultados do período.
+É correto apenas o que se afirma em:
+
+
+
+Sua empresa de negócio digital está crescendo, e você precisou contratar um profissional para realizar essa atividade continuamente. Para tanto, este profissional, ao elaborar o demonstrativo do fluxo de caixa, precisará apresentar:                              
+    I - Entradas e saídas, de forma resumida e alocadas conforme previsão de ocorrência                           
+    II - Despesas, como as operacionais, o investimento inicial e os gastos com a manutenção do investimento.                        
+    III - Liquidez e rentabilidade do negócio.                        
+    IV - Planos de investimentos ou empréstimos necessários.                           
+    V - Resultados do período.
+É correto apenas o que se afirma em:
+    I, II, III e V.
+
+
+
+Sabe-se que a proteção legal do produto do trabalho intelectual humano é um fator diferenciador entre um negócio e seus concorrentes. Portanto, é correto afirmar que:
+    São criações do homem, expressas por qualquer meio ou fixadas em qualquer suporte, tangível ou intangível, conhecido ou que se invente no futuro, tais como os textos de obras literárias, artísticas ou científicas são obras intelectuais protegidas.
+
+
+
+As inovações pertinentes ao desenvolvimento de programas de computador, no Brasil, são protegidas pela legislação de direitos autorais, Lei nº 9.610/1998, e por legislação específica, Lei nº 9.609/98, também conhecida como Lei de Software. Nesse contexto, é correto o que se afirma em:
+    Para a licença de uso de programa de computador, é necessária a elaboração de um contrato de licença, que visa a esclarecer os termos do uso, definindo o que o usuário pode e o que não pode fazer com o programa em questão.
+
+
+
+
+
+
+
+UNIDADE 4 => 
+
+Segundo Dornelas (2014), “o empreendedor é aquele que faz as coisas acontecerem, antecipa-se aos fatos e tem uma visão futura da organização”. Já para Chiavenato (2020), “o empreendedor é a pessoa que inicia ou opera um negócio para realizar uma ideia ou projeto pessoal assumindo riscos e responsabilidades e inovando continuamente”. De acordo com os referidos autores, assinale a opção correta acerca das características de comportamento empreendedor.
+    Apesar de não estarem subordinados a exigências de formação em gestão, os empreendedores adotam ações de planejamento ao estabelecerem metas e objetivos para seus negócios.
+
+
+
+Cada vez mais as pessoas têm expressado vontade de deixar de trabalhar para os outros e abrir o próprio negócio.  Mas espera, será que essas pessoas possuem o perfil certo para serem empreendedoras?  A maioria das pessoas citaria como perfil de bom empreendedor aquele que tem boas ideias e aproveita as oportunidades, mas não é só isso que faz um negócio ser bem-sucedido. Se o empresário não tiver organização e persistência, também pode ter resultados comprometidos. Dessa forma, identifique a alternativa correta:
+    O networking (rede de contatos) para quem está começando o negócio é tudo. O empreendedor pode até não conhecer muita gente do ramo no início, mas é importante, tanto para conseguir fornecedores a preços mais em conta, quanto para prospectar a empresa e conquistar novos clientes.
+
+
+
+Existem inúmeros estudiosos que desenvolveram teorias sobre a liderança. Sobre as Teorias da Liderança, indique as sentenças verdadeiras e indique a opção correta. As lideranças transformacional e transacional assemelham-se quanto ao estilo comportamental do líder, sendo elemento comum dessas abordagens a capacidade de adequação do comportamento de liderança ao contexto.
+I - A Teoria dos Traços de Personalidade é dividida em três características, quais sejam: personalidade, aspecto físico, habilidades intelectuais.
+II - As Teorias Comportamentais estão pautadas nos estilos de liderança democrático e laissez-faire.
+III - O estilo de Liderança Liberal só apresenta bons resultados quando envolve uma equipe de trabalho altamente qualificada, madura, responsável e de nível homogêneo.
+IV - A Liderança Situacional permite que o líder seja considerado como o herói, faz a história, e é o grande iniciador e incentivador.
+
+É correto apenas o que se afirma na opção:
+    I e IV.
+
+
+
+O líder possui a capacidade de unir o conhecimento técnico com as habilidades humanas. Nesse contexto, entende-se que a liderança:
+I - é o processo de exercer influência sobre um indivíduo ou um grupo, nos esforços para a realização de objetivo em determinada situação.
+II - autocrática é aquela na qual o líder exerce sua liderança e não nega a participação aos demais liderados na escolha e/ou implementação de suas decisões.
+III - democrática é aquela na qual o líder aceita e estimula a participação dos liderados na escolha de suas decisões, mas não permite a participação na implementação de suas decisões.
+Iv - laissez-faire é aquela na qual o líder se afasta e deixa que os liderados ajam como bem o desejarem, decidindo por eles próprios o que devem fazer.
+
+É correto apenas o que se afirma na opção:
+    I e IV.
+
+
+Diferentes técnicas podem ser utilizadas para o desenvolvimento de novos produtos na área de tecnologia. Dentre essas, uma que vem se destacando é o design thinking. Acerca dessa técnica, analise as afirmativas abaixo:
+    A primeira etapa é a imersão, haja vista que objetivo é o entendimento do problema, das necessidades e das oportunidades do cliente.
+
+    Na etapa de ideação, soluções são propostas usando a criatividade e as informações coletadas em fases anteriores.
+
+    A etapa de análise e síntese avalia o impacto gerado pelo desenvolvimento e pela aplicação do produto proposto.
+
+    A etapa de finalização tem relação com o fechamento e entrega da solução proposta.
+É coreto apenas o que se afirma na opção:
+    Alternativa correta: I e II.
+
+    O tema abordado pela questão é o Design Thinking, uma abordagem centrada no ser humano que é utilizada para inovação e resolução de problemas no desenvolvimento de produtos de software. Esta técnica é caracterizada por etapas que facilitam a compreensão das necessidades dos usuários, a ideação de soluções criativas, a prototipação e os testes. Para resolver a questão com sucesso, é necessário conhecer os estágios primários do processo de Design Thinking.
+        Afirmativa I está correta - A primeira etapa do Design Thinking é de fato a Imersão, que envolve a compreensão profunda do contexto, dos problemas e das necessidades dos usuários ou clientes. Esta fase é dedicada a entender o que está ocorrendo, coletando informações e ganhando insights. Portanto, a 
+        Afirmativa II - está correta. Na segunda etapa, conhecida como Ideação, as equipes utilizam técnicas criativas para gerar um grande volume de ideias que possam responder aos insights obtidos na fase de imersão. O objetivo é pensar fora da caixa e criar soluções inovadoras, sem inicialmente se preocupar com a viabilidade.
+        Afirmativa IV - está errada. Etapa de Finalização. Em um processo de Design Thinking, a etapa final geralmente envolve a prototipação e o teste das soluções desenvolvidas, ao invés de simplesmente "fechar e entregar" a solução proposta. Há um ciclo iterativo de aprendizado e aprimoramento antes da entrega final.
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+O que é ideação? => É o processo de geração, desenvolvimento e comunicação de novas ideias, geralmente para resolver problemas ou atender uma necessidade;
+
+
+Quais são as principais ferramentas para desenvolvimento de projetos criativos?
+👉 Brainstorming, mapa mental, design thinking, canvas, SCAMPER, análise SWOT.
+
+
+O que é necessário para identificar uma oportunidade de negócio?
+👉 Observar as dores do mercado, analisar tendências, escutar clientes, analisar concorrentes e comportamento social.
+
+
+Por que a proatividade é essencial na criação de negócios?
+👉 Porque permite antecipar demandas, solucionar problemas rapidamente e transformar necessidades em oportunidades de negócio.
+
+
+O que é propriedade intelectual?
+👉 É o conjunto de direitos que protegem as criações do intelecto, como marcas, patentes, direitos autorais e design.
+
+
+O que é análise de viabilidade?
+👉 Avaliação para saber se o negócio é financeiramente sustentável, legalmente possível e ambientalmente responsável.
+
+
+Quais características definem um bom perfil empreendedor?
+👉 Proatividade, resiliência, visão, liderança, empatia, criatividade, comprometimento e ética.
+
+
+Assinale a alternativa que apresenta o nome da técnica utilizada para ajudar os profissionais a criar ideias, em uma reunião que tenha um ambiente favorável à livre exposição de pensamentos e ideias, sem julgamentos. 
+    Brainstorming
+
+
+
+
+
+
+
+

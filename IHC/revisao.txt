@@ -1,3 +1,42 @@
+OBJETIVOS / CONTEÚDOS
+UNIDADE I - Usuário como agente principal para produto interativo. (20 h/a)
+OBJETIVO: Caracterizar os aspectos que afetam a experiência do usuário.
+OBJETIVO: Situar os usuários como agentes principais no contexto de projeto de interação.
+OBJETIVO: Ser agente difusor dos conceitos de interação humano-computador como meio para a promoção e o
+desenvolvimento de sistemas aderentes às necessidades e demandas do usuário.
+01.01 - Aspectos da experiência do usuário e fatores humanos.
+01.02 - Fundamentos da usabilidade: Interação, Interface, metáforas, padrões de projeto de
+interação.
+01.03 - Modelo mental do usuário, modelo conceitual do projetista, e modelo de implementação do
+desenvolvedor.
+01.04 - Processo do projeto da interação e critérios de avaliação de interfaces.
+UNIDADE II - Idealização e projeto de produto interativo. (28 h/a)
+OBJETIVO: Relacionar as técnicas de IHC para o desenvolvimento de projetos de interação com foco no usuário.
+OBJETIVO: Aplicar técnicas de usabilidade em produtos interativos com vista ao desenvolvimento de sistemas.
+OBJETIVO: Ser criterioso quanto ao respeito do papel de usuários no desenvolvimento de produtos interativos.
+02.01 - Design criativo.
+02.02 - Técnicas para modelagem de usuário: coleta de dados e geração de personas.
+02.03 - Técnicas para modelagem de tarefas: especificação do contexto de uso, descrição de cenários,
+pirâmide de requisitos e fluxo das tarefas do usuário.
+02.04 - Construção de alternativas de design: storyboard, prototipação de baixa e alta fidelidades.
+UNIDADE III - Técnicas de avaliação de produtos interativos. (12 h/a)
+OBJETIVO: Classificar as técnicas de avaliação de interface para a melhoria da usabilidade de projetos.
+OBJETIVO: Aplicar técnicas de avaliação da usabilidade em produtos interativos.
+OBJETIVO: Ser agente promotor no uso de técnicas de avaliação para melhoria contínua da experiência do usuário em
+produtos interativos.
+03.01 - Avaliação por inspeção.
+03.02 - Avaliação heurística.
+03.03 - Avaliação de design visual.
+03.04 - Avaliação com usuários.
+UNIDADE IV - Usabilidade e ergonomia em soluções de hardware. (12 h/a)
+OBJETIVO: Identificar os aspectos ergonômicos e de usabilidade para o desenvolvimento de soluções físicas.
+OBJETIVO: Aplicar técnicas de projeto e avaliação da usabilidade e ergonomia em soluções físicas.
+OBJETIVO: Valorar a usabilidade e ergonomia em soluções de hardware.
+04.01 - Componentes de hardware: funções e utilizações.
+04.02 - Experiência do usuário (UX) em projetos de soluções de hardware.
+04.03 - Ergonomia de produtos.
+04.04 - Avaliação da interação de protótipos físicos.
+
 /////////////////////////// Revisão /////////////////////////////////
 
 Quais das alternativas, a seguir, é um exemplo de especificação de requisitos de usabilidade com uma medida de eficiência?
@@ -200,4 +239,62 @@ Sobre avaliação de design visual, marque verdadeiro (V) ou falso (falso), a se
 
 
 
+UNIDADE 4 => 
 
+
+Qual das alternativas representa uma medida de avaliação de usabilidade relativa à eficiência do uso do joystick do Playstation 4?
+    Taxa de tarefas realizadas com os botões direcionais por unidade de tempo.
+
+
+A equipe de marketing de smartphones de uma grande empresa precisa avaliar junto aos seus clientes o que eles acharam sobre o novo design do aparelho por eles adquirido. Qual técnica de avaliação deve ser escolhida?
+    Investigação sobre características do smartphone.
+
+
+Classifique as representações de produtos de acordo com a lista de características do nível de fidelidade.
+1.Baixa fidelidade visual e baixa fidelidade funcional;
+2.Baixa fidelidade visual e alta fidelidade funcional;
+3.Alta fidelidade visual e baixa fidelidade funcional;
+4.Alta fidelidade visual e alta fidelidade funcional;
+( 1 ) Protótipo de papel
+( 3 ) Mockup
+( 4 ) Protótipo / produto mínimo viável
+( 2 ) Protótipo / wireframe interativo
+
+
+
+Marque V (verdadeiro) e F (falso) para a avaliação da interação com videogames:
+( V ) Os testes de usabilidade com videogames podem ter o objetivo descobrir problemas e dificuldades de uso e de memorização dos joysticks.
+( F ) A avaliação de jogabilidade deve ser feita antes da avaliação da usabilidade.
+( F ) A avaliação de usabilidade aborda apenas questões relativas ao hardware do jogo, como consoles, joysticks e óculos 3D, e a avaliação de jogabilidade aborda aspectos relativos ao software.
+( F ) A avaliação de usabilidade aborda a satisfação do usuário no que se refere à diversão e imersão proporcionadas pelo jogo.
+( V ) Testes de usabilidade estão ligados à produtividade e satisfação dos usuários, dos quais deve-se observar comportamentos durante o uso do videogame.
+
+
+Qual das opções a seguir apresenta uma característica ergonômica de um produto interativo?
+    O ZenFone 6 possui leitor de digital posicionado na traseira para facilitar a identificação de até 5 dedos;
+
+
+Antes de produzir o novo smartphone em grande escala, uma empresa de TI produziu uma versão piloto do produto para testar o processo de fabricação e aproveitou para realizar testes com possíveis usuários utilizando o piloto. O objetivo da avaliação foi antecipar o impacto do novo design sobre a experiência do usuário.
+I - A avaliação buscou avaliar as emoções provocadas pelo produto no usuário.
+II - A avaliação realizada foi do tipo empírica.
+III - A avaliação realizada foi do tipo formativa.
+    Apenas I e II são verdadeiras.
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+O que é uma persona?
+    R: Um perfil semifictício baseado em dados reais que representa um grupo de usuários-alvo.
+
+
+O que são cenários de uso?
+    R: Descrições narrativas de como um usuário realiza uma tarefa no sistema em um contexto específico.
+
+Quais os tipos de prototipação?
+    R:Baixa fidelidade: rascunhos ou wireframes.
+    Alta fidelidade: protótipos mais realistas, com aparência e funcionalidades próximas ao produto final.
