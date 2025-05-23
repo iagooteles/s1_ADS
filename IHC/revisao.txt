@@ -298,3 +298,62 @@ O que são cenários de uso?
 Quais os tipos de prototipação?
     R:Baixa fidelidade: rascunhos ou wireframes.
     Alta fidelidade: protótipos mais realistas, com aparência e funcionalidades próximas ao produto final.
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+tipos de interface de um sistema interativo => 
+Interface física: refere-se aos dispositivos e meios físicos pelos quais o usuário interage com o sistema. Exemplos: teclado, mouse, tela, microfone, alto-falante, touchscreen.
+
+Interface conceitual: refere-se à maneira como as informações, comandos e dados são organizados e apresentados ao usuário no ambiente digital. Está ligada à lógica, à estrutura, ao modelo mental que o sistema oferece para que o usuário compreenda e interaja com ele. Por exemplo: botões, menus, ícones, organização das telas, feedback visual.
+
+
+
+Avaliação de Teste com Usuários => Esses tipos de avaliação são classificadas como avaliações objetivas ou empíricas, sendo baseadas na observação do usuário em interação com o produto interativo, podendo ter natureza qualitativa ou quantitativa, sendo mais ou menos formal. => Suas limitações são: Situações artificiais, resultados positivos que não aprovam que um produto funciona, participantes que raramente são representativos da população alvo são limitações de que tipo de avaliação de interfaces de software?
+
+Affordance => É o potencial de um objeto de ser usado como foi projetado para ser usado.
+
+
+Tipos de avaliação =>
+Formativa - Durante o desenvolvimento (iterativa); início e meio do projeto;
+Somativa - Avaliação final, verifica se atende os critérios; fim do desenvolvimento;
+Em contexto(de campo) - Testes em ambiente real de uso;
+Em laboratório - Testes em ambiente controlado;
+
+
+O UX design pode ser definido a partir de etapas, nas quais se pode aplicar diferentes métodos. Marque a alternativa que contém essas etapas escritas na ordem de execução convencional dos passos.
+    Definição da estratégia, geração de ideias/ideação, planejamento do produto, desenho de interfaces, pesquisa e validação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
