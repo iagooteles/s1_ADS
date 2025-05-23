@@ -326,14 +326,65 @@ O UX design pode ser definido a partir de etapas, nas quais se pode aplicar dife
     Definição da estratégia, geração de ideias/ideação, planejamento do produto, desenho de interfaces, pesquisa e validação.
 
 
+Mockup => representação física (ou digital) do produto em escala real ou reduzida, focando no formato, tamanho, proporções e estética.
+Mockup - Alta fidelidade visual e baixa fidelidade funcional;
+Protótipo de papel - Baixa fidelidade visual e baixa fidelidade funcional;
+Protótipo / produto mínimo viável - Alta fidelidade visual e alta fidelidade funcional;
+Protótipo / wireframe interativo - Baixa fidelidade visual e alta fidelidade funcional;
 
 
 
 
+A equipe de marketing de smartphones de uma grande empresa precisa avaliar junto aos seus clientes o que eles acharam sobre o novo design do aparelho por eles adquirido. Qual técnica de avaliação deve ser escolhida?
+    Investigação sobre características do smartphone.
+
+
+tolerancia ao erro => ➡️ É um princípio de design que tem como objetivo prevenir erros, minimizar suas consequências e permitir que sejam corrigidos facilmente.
+✅ Um sistema com boa tolerância ao erro não permite que pequenos deslizes do usuário causem problemas sérios, perdas de dados ou interrupções no uso.
+
+
+
+🔑 Principais Princípios de Ergonomia em IHC
+1. Visibilidade
+➡️ O sistema deve deixar claro o que está acontecendo.
+📍 Exemplo: barra de carregamento, notificações, ícones intuitivos.
+
+2. Feedback
+➡️ O usuário precisa saber que sua ação teve efeito.
+📍 Exemplo: botão muda de cor ao clicar, som de clique, mensagem "arquivo enviado com sucesso".
+
+3. Restrições (Prevenção de Erros)
+➡️ Impedir que o usuário faça ações incorretas.
+📍 Exemplo: botão "enviar" desativado até preencher os campos obrigatórios.
+
+4. Consistência
+➡️ Manter padrões em elementos visuais e funcionais.
+📍 Exemplo: mesmo ícone sempre representando "salvar", mesma navegação em todas as telas.
+
+5. Tolerância ao Erro
+➡️ Permitir desfazer, corrigir e minimizar as consequências dos erros.
+📍 Exemplo: botão "Desfazer", lixeira de arquivos, confirmação antes de excluir.
+
+6. Flexibilidade e Eficiência de Uso
+➡️ Atender tanto usuários iniciantes quanto avançados.
+📍 Exemplo: atalhos de teclado para usuários experientes, menus e assistentes para iniciantes.
+
+7. Controle pelo Usuário
+➡️ O usuário deve se sentir no comando, podendo cancelar, reverter ou modificar ações.
+📍 Exemplo: botão "Voltar", "Cancelar", edição de dados cadastrados.
+
+8. Estética e Design Minimalista
+➡️ Mostrar apenas o que é relevante. Evitar excesso de informações.
+📍 Exemplo: interface limpa, sem poluição visual, foco na tarefa principal.
+
+9. Compatibilidade
+➡️ O sistema deve se adaptar ao contexto, à cultura, ao idioma e às limitações dos usuários.
+📍 Exemplo: suporte a acessibilidade (voz, contraste, tamanhos), idioma local.
 
 
 
 
+Avaliação Heurística - é uma técnica de avaliação de usabilidade onde especialistas em IHC analisam uma interface para identificar problemas, com base em um conjunto de heurísticas (regras gerais de usabilidade).
 
 
 
