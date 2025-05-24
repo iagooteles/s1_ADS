@@ -108,15 +108,16 @@ Segmentação de mercado => É o processo de dividir um mercado amplo em grupos 
     segmentação comportamental => Usa o produto, Frequência de compra, Lealdade à marca, Benefícios buscados, Atitudes e respostas perante campanhas ou lançamentos;
 
 
-- Ponto de equilíbrio:
+- Ponto de equilíbrio: Nesse caso,  a empresa não apresenta lucro, tão pouco prejuízo, apenas cobre as despesas;
+    Parâmetro determinar o ponto em que o faturamento de um negócio superar os custos operacionais;
 
-- Período de payback:
+- Período de payback: Do ponto de vista de qualquer empreendedor, o negócio se tornará mais atraente quanto mais rápido ele puder ter o retorno do capital investido.
 
-- Taxa mínima de atratividade:
+- Taxa mínima de atratividade: Seu cálculo envolve o custo de oportunidade, risco do negócio e prêmio pela liquidez;
 
-- Valor presente líquido:
+- Valor presente líquido: VLP : Possibilita a realização de ajustes, descontando as taxas de juros, visando a obtenção da verdadeira noção do valor do dinheiro no futuro;
 
-
+3, 4, 2, 1, 1
 
 Revisão final - viabilidade de negócio;
 
@@ -252,7 +253,7 @@ Está correto o que se afirma na alternativa:
 
 
 
-
+ 3, 4 , 2 , 1 , 1
 
 
 
