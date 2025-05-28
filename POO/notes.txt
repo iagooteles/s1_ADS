@@ -97,3 +97,30 @@ Trabalho -> Desenvolvimento através de uma UML; -> Execução do código + Perg
 
 Scanner => Ler dados a partir do teclado;
 
+
+
+Arquivos em .txt 
+
+FileWriter fw = new FileWriter("caminho.txt", true);
+
+BufferedWriter bw = new BufferedWriter(fw);
+
+FileReader fr = new FileReader("caminho.txt");
+
+BufferedReader br = new BufferedReader(fr);
+
+usar split para fragmentar a string que vai vir do arquivo;
+
+
+
+
+https://br.linkedin.com/jobs/est%C3%A1gio-em-an%C3%A1lise-e-desenvolvimento-de-sistemas-vagas-fortaleza?position=1&pageNum=0
+https://www.emprego.pt/jobs/show/31391395170909564479085862223?utm_campaign=bebee-BR&utm_medium=feed&utm_source=bebee
+https://br.bebee.com/job/3663995dc36afe9c0002bf34b5afc5dd
+https://br.bebee.com/job/1dc2b9b90ada2885b5b2a3f51e6094a0
+https://br.bebee.com/job/fe4140fd5671e9444cb2ef4f211c0c36
+https://br.bebee.com/job/916549888ffb69e367176235fe01fa13?expj=1
+https://www.glassdoor.com.br/Vaga/fortaleza-est%C3%A1gio-ti-vagas-SRCH_IL.0,9_IC2436932_KO10,20.htm
+https://profectumtecnologia.abler.com.br/vagas/estagio-em-desenvolvimento-java-506863?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+https://br.linkedin.com/jobs/est%C3%A1gio-em-an%C3%A1lise-e-desenvolvimento-de-sistemas-vagas-fortaleza?currentJobId=4236031842&position=4&pageNum=0
+https://br.jobslooker.com/vaga-38811217000?source=1&_gl=1*1js1h8x*_up*MQ..*_gs*NQ..&gclid=EAIaIQobChMIztSL1_HEjQMVBmBIAB07cDDAEAAYAiAAEgKCvfD_BwE
