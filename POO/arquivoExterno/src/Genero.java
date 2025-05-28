@@ -94,11 +94,49 @@ public class Genero {
                     return new Genero(id, genero);
                 }
             }
-            
+
             return null;
         } catch (IOException exception) {
             exception.getMessage();
             return null;
+        }
+    }
+
+    // Terminar!!
+    public boolean editar() {
+        try {
+            FileWriter fw = new FileWriter("genero.txt", true);
+            BufferedWriter bw = new BufferedWriter(fw);
+
+            Scanner sc = new Scanner(System.in);
+
+            FileReader fr = new FileReader("genero.txt");
+            BufferedReader br = new BufferedReader(fr);
+
+            System.out.println("Digite o id que deseja editar: ");
+            int editarID = sc.nextInt();
+            sc.nextLine();
+            
+            String linha;
+            while ((linha = br.readLine()) != null) {
+                linha.split(";");
+                String[] partes = linha.split(";");
+                int idGenero = Integer.parseInt(partes[0]);
+
+                if (idGenero == editarID) {
+                    System.out.println("Digite o novo nome de genero: ");
+                    String genero = sc.nextLine();
+
+                    bw.write(editarID + ";" + genero + "\n");
+                }
+            }
+
+            bw.close();
+            sc.close();
+            return true;
+        }catch (IOException exception) {
+            exception.getMessage();
+            return false;
         }
     }
 }

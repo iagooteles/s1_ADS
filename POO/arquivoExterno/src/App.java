@@ -10,7 +10,9 @@ public class App {
         //     System.out.println("Genero: " + g.getGenero());
         // }
     
-        Genero generoConsultado = genero.consultar(3);
-        System.out.println("Genero consultado: " + generoConsultado.getGenero());
+        // Genero generoConsultado = genero.consultar(3);
+        // System.out.println("Genero consultado: " + generoConsultado.getGenero());
+
+        genero.editar();
     }
 }
