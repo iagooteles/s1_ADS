@@ -57,7 +57,7 @@ public class Genero {
             FileReader fr = new FileReader("genero.txt");
             BufferedReader br = new BufferedReader(fr);
             
-            ArrayList<Genero> lista = new ArrayList();
+            ArrayList<Genero> lista = new ArrayList<>();
             
             String linha;
             while ((linha = br.readLine()) != null) {
@@ -69,6 +69,9 @@ public class Genero {
 
                 lista.add(new Genero(id, genero));
             }
+
+            fr.close();
+            br.close();
 
             return lista;
         } catch (IOException exception) {
@@ -102,40 +105,58 @@ public class Genero {
         }
     }
 
-    // Terminar!!
     public boolean editar() {
         try {
-            FileWriter fw = new FileWriter("genero.txt", true);
-            BufferedWriter bw = new BufferedWriter(fw);
-
-            Scanner sc = new Scanner(System.in);
-
             FileReader fr = new FileReader("genero.txt");
             BufferedReader br = new BufferedReader(fr);
 
-            System.out.println("Digite o id que deseja editar: ");
+            ArrayList<String> linhas = new ArrayList<>();
+
+            Scanner sc = new Scanner(System.in);
+            System.out.println("Digite o id a ser editado: ");
             int editarID = sc.nextInt();
             sc.nextLine();
-            
+
             String linha;
+            boolean generoEncontrado = false;
+
             while ((linha = br.readLine()) != null) {
-                linha.split(";");
                 String[] partes = linha.split(";");
+
                 int idGenero = Integer.parseInt(partes[0]);
 
                 if (idGenero == editarID) {
-                    System.out.println("Digite o novo nome de genero: ");
-                    String genero = sc.nextLine();
-
-                    bw.write(editarID + ";" + genero + "\n");
+                    System.out.println("Digite o novo nome de gênero: ");
+                    String novoGenero = sc.nextLine();
+                    linhas.add(idGenero + ";" + novoGenero);
+                    generoEncontrado = true;
+                } else {
+                    linhas.add(linha);
                 }
+            }
+
+            br.close();
+
+            FileWriter fw = new FileWriter("genero.txt", false);
+            BufferedWriter bw = new BufferedWriter(fw);
+
+            for (String l : linhas) {
+                bw.write(l + "\n");
             }
 
             bw.close();
             sc.close();
-            return true;
-        }catch (IOException exception) {
-            exception.getMessage();
+
+            if (generoEncontrado) {
+                System.out.println("Gênero editado com sucesso!");
+                return true;
+            } else {
+                System.out.println("ID não encontrado.");
+                return false;
+            }
+
+        } catch (IOException e) {
+            System.out.println(e.getMessage());
             return false;
         }
     }

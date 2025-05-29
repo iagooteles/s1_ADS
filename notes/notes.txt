@@ -184,3 +184,5 @@ Um projeto que me marcou foi um sistema de aluguel de veículos que criei usando
 5. Se você estivesse com prazo apertado e encontrasse um bug inesperado, o que faria?
 
 Avaliaria a gravidade do bug e tentaria resolvê-lo rapidamente. Caso não consiga sozinho, comunicaria o time e sugeriria uma solução provisória ou ajuste no escopo, sempre pensando no impacto e em manter a entrega alinhada com a prioridade do projeto.
+
+__________________________________________________________________________________________________________
